@@ -1,4 +1,4 @@
-package Phrases;
+package phrases;
 
 import org.tartarus.snowball.ext.englishStemmer;
 

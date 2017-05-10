@@ -1,8 +1,8 @@
-package WordGraph;
+package wordGraph;
 
-import Commands.CommandManger;
-import Phrases.Phrase;
-import Phrases.PhraseBase;
+import commands.CommandManger;
+import phrases.Phrase;
+import phrases.PhraseBase;
 import javafx.util.Pair;
 import org.jgrapht.DirectedGraph;
 import org.jgrapht.graph.ClassBasedEdgeFactory;
@@ -55,7 +55,7 @@ public class WordGraph {
             graph.addVertex(parent);
             for (Phrase p : phrases) {
                 graph.addVertex(p);
-                //addEdgeWithNoDup(p, parent, new WordGraph.LabeledEdge(p, parent, WordGraph.Relationship.HYPERNON));
+                //addEdgeWithNoDup(p, parent, new wordGraph.LabeledEdge(p, parent, wordGraph.Relationship.HYPERNON));
                 addEdgeWithNoDup(parent, p, new LabeledEdge(parent, p, Relationship.HYPERNYM));
             }
 
@@ -131,7 +131,7 @@ public class WordGraph {
 
     public String getAcronym(String word) {
         List<LabeledEdge> edges = filterEdge(word, Relationship.ACRONYM, false);
-        return String.join("", getEdgeTarget(edges));
+        return String.join(",", getEdgeTarget(edges));
     }
 
     public String getHypernon(String word) {
@@ -139,29 +139,60 @@ public class WordGraph {
         return String.join(",", getEdgeTarget(edges));
     }
 
-    private void ancestorDFS(String word, Set<String> ans) {
-        List<LabeledEdge> edges = filterEdge(word, Relationship.HYPERNYM, true);
-        List<String> parents = getEdgeSources(edges);
-        for (String parent : parents) {
-            if (!ans.contains(parent)) {
-                ans.add(parent);
-                ancestorDFS(parent, ans);
+    /**
+     * Deep first search for a word. The search go through only one kind of relationship with one direction.
+     *
+     * @param config
+     * @param ans
+     */
+    private void DFS(SearchConfig config, Set<String> ans) {
+        List<LabeledEdge> edges = filterEdge(config.word, config.relationship, config.getIncomingEdge);
+        List<String> candidates;
+        if (config.getEdgeSource)
+            candidates = getEdgeSources(edges);
+        else
+            candidates = getEdgeTarget(edges);
+        for (String candidate : candidates) {
+            if (!ans.contains(candidate)) {
+                ans.add(candidate);
+                DFS(config, ans);
             }
         }
     }
 
-    public Set<String> getAncestors(String word) {
-        Set<String> ancestors = new HashSet<String>();
-        ancestorDFS(word, ancestors);
-        ancestors.remove(word);
-        return ancestors;
+
+    /**
+     * public Set<String> searchAscedences(String word) {
+     * Set<String> ascendences = new HashSet<>();
+     * DFS(word, ascendences, Relationship.HYPERNYM, false, false);
+     * ascendences.remove(word);
+     * return ascendences;
+     * }
+     * <p>
+     * public Set<String> searchAncestors(String word) {
+     * Set<String> ancestors = new HashSet<String>();
+     * DFS(word, ancestors, Relationship.HYPERNYM, true, true);
+     * ancestors.remove(word);
+     * return ancestors;
+     * }
+     **/
+
+    public Set<String> search(String word, SearchConfig serachConfig) {
+        Set<String> res = new HashSet<String>();
+        DFS(serachConfig, res);
+        res.remove(word);
+        return res;
     }
 
-    public void printAncestors(String word) {
-        System.out.println("Printing ancestors:");
-        for (String parent : getAncestors(word)) {
-            System.out.println(parent);
+    public String getPhrase(String word) {
+        Phrase phrase = new Phrase(word);
+        if (graph.vertexSet().contains(phrase)) {
+            for (Phrase p : graph.vertexSet()) {
+                if (p.equals(phrase))
+                    return p.toString();
+            }
         }
+        return "";
     }
 
 

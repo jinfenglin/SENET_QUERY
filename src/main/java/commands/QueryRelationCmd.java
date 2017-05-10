@@ -1,7 +1,7 @@
-package Commands;
+package commands;
 
 
-import WordGraph.WordGraph;
+import wordGraph.WordGraph;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Options;
 
@@ -27,6 +27,13 @@ public class QueryRelationCmd extends Command {
             String word = String.join(" ", remainArgs);
             int optionNum = cmdLine.getOptions().length;
             System.out.println("===========================");
+            String phraseRealFormat = wg.getPhrase(word);
+            if (phraseRealFormat.isEmpty()) {
+                System.out.println("Unable to locate phrase:" + word);
+            } else {
+                System.out.println("Phrase:" + wg.getPhrase(word));
+                System.out.println("--------------------------");
+            }
             if (cmdLine.hasOption("H") | optionNum == 0)
                 System.out.println("Hypernym:" + wg.getHypernym(word));
             if (cmdLine.hasOption("h") | optionNum == 0)

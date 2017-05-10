@@ -1,7 +1,6 @@
-package Phrases;
+package phrases;
 
-import Configures.ConfigureManger;
-import Phrases.Phrase;
+import configures.ConfigureManger;
 import javafx.util.Pair;
 
 import java.io.BufferedReader;

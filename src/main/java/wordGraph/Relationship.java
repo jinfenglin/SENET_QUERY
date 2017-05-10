@@ -1,4 +1,4 @@
-package WordGraph;
+package wordGraph;
 
 public enum Relationship {
     SYNONYM, HYPERNYM, HYPERNON, ACRONYM, CONTRAST

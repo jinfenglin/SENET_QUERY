@@ -1,4 +1,4 @@
-package WordGraph;
+package wordGraph;
 
 import org.jgrapht.graph.DefaultEdge;
 

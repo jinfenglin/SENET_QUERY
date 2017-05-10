@@ -1,6 +1,6 @@
-package Commands;
+package commands;
 
-import WordGraph.WordGraph;
+import wordGraph.WordGraph;
 import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.DefaultParser;
 
