@@ -1,5 +1,6 @@
 package Phrases;
 
+import Configures.ConfigureManger;
 import Phrases.Phrase;
 import javafx.util.Pair;
 

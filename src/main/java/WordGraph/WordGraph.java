@@ -1,5 +1,7 @@
 package WordGraph;
 
+import Phrases.Phrase;
+import Phrases.PhraseBase;
 import javafx.util.Pair;
 import org.jgrapht.DirectedGraph;
 import org.jgrapht.graph.ClassBasedEdgeFactory;
@@ -156,7 +158,6 @@ public class WordGraph {
 
     public void query(String word) {
         try {
-            Set<LabeledEdge> edges = graph.edgesOf(new Phrase(word));
             System.out.println("===========================");
             System.out.println("Hypernon:" + getHypernon(word));
             System.out.println("Contrast:" + getContrast(word));
