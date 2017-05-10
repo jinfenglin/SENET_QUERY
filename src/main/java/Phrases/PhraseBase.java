@@ -1,3 +1,6 @@
+package Phrases;
+
+import Phrases.Phrase;
 import javafx.util.Pair;
 
 import java.io.BufferedReader;

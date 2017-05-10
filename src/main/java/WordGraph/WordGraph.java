@@ -1,3 +1,5 @@
+package WordGraph;
+
 import javafx.util.Pair;
 import org.jgrapht.DirectedGraph;
 import org.jgrapht.graph.ClassBasedEdgeFactory;
@@ -43,7 +45,7 @@ public class WordGraph {
             graph.addVertex(parent);
             for (Phrase p : phrases) {
                 graph.addVertex(p);
-                //addEdgeWithNoDup(p, parent, new LabeledEdge(p, parent, Relationship.HYPERNON));
+                //addEdgeWithNoDup(p, parent, new WordGraph.LabeledEdge(p, parent, WordGraph.Relationship.HYPERNON));
                 addEdgeWithNoDup(parent, p, new LabeledEdge(parent, p, Relationship.HYPERNYM));
             }
 

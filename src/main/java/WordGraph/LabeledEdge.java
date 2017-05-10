@@ -1,3 +1,5 @@
+package WordGraph;
+
 import org.jgrapht.graph.DefaultEdge;
 
 public class LabeledEdge<V> extends DefaultEdge {
