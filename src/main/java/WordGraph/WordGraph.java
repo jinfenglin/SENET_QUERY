@@ -23,6 +23,7 @@ public class WordGraph {
     }
 
     public void buildGraph() {
+        addPhraseToGraph(phraseBase.vocabulary);
         addPhraseToGraph(phraseBase.acronyms, Relationship.ACRONYM);
         addPhraseToGraph(phraseBase.contrasts, Relationship.CONTRAST);
         addPhraseToGraph(phraseBase.synonyms, Relationship.SYNONYM);
@@ -40,10 +41,16 @@ public class WordGraph {
         }
     }
 
+    private void addPhraseToGraph(List<Phrase> words) {
+        for (Phrase phrase : words) {
+            graph.addVertex(phrase);
+        }
+    }
+
     private void addHypernym(Map<Phrase, List<Phrase>> hypernyms) {
         for (Phrase parent : hypernyms.keySet()) {
             List<Phrase> phrases = hypernyms.get(parent);
-            if(parent.equals(new Phrase("design")))
+            if (parent.equals(new Phrase("design")))
                 System.out.print("here");
             graph.addVertex(parent);
             for (Phrase p : phrases) {
@@ -152,7 +159,7 @@ public class WordGraph {
 
     public void printAncestors(String word) {
         System.out.println("Printing ancestors:");
-        for(String parent: getAncestors(word)){
+        for (String parent : getAncestors(word)) {
             System.out.println(parent);
         }
     }
