@@ -1,0 +1,199 @@
+application lifecycle management,ALM
+business intelligence,BI
+change and configuration management,CCM
+Collaborative Lifecycle Management,CLM
+configuration management,CM
+configuration specification,config spec
+database,DB
+extract,ETL
+global configuration management,GCM
+Java Database Connectivity,JDBC
+Lifecycle Query Engine,LQE
+link index provider,LIP
+Open Database Connectivity,ODBC
+Open Services for Lifecycle Collaboration,OSLC
+product line engineering,PLE
+quality management,QM
+repository,repo
+Representational State Transfer,REST
+requirements management,RM
+Requirements Management Rich Text Format,RM-RTF
+System for Cross-domain Identity Management,SCIM
+source control management,SCM
+single sign-on,SSO
+synchronize,sync
+test case,TC
+web application,web app
+XML data configuration file,XDC file
+actual cost,AC
+adjusted function point count,AFP
+architectural description,AD
+artificial intelligence,AI
+base functional component,BFC
+bill of materials,BOM
+binary digit,bit
+budget at completion,BAC
+central processing unit,CPU
+change control board,CCB
+commercial-off-the-shelf,COTS
+computer software component,CSC
+computer software configuration item,CSCI
+computer-aided,CA
+computer-aided design,CAD
+computer-aided software engineering,CASE
+computer-based software system,CBSS
+configuration control board,CCB
+configuration item,CI
+configuration management,CM
+configuration management database,CMDB
+contract work breakdown structure,CWBS
+cost of quality,COQ
+cost performance index,CPI
+cost variance,CV
+cost-plus-fee,CPF
+critical design review,CDR
+critical path methodology,CPM
+data element type,DET
+data flow diagram,DFD
+data processing,DP
+degree of influence,DI
+development project function point count,DFP
+early finish date,EF
+early start date,ES
+earned value,EV
+earned value management,EVM
+earned value technique,EVT
+electronic data interchange,EDI
+engineering change proposal,ECP
+enhancement project function point count,EFP
+estimate at completion,EAC
+estimate to complete,ETC
+expert system,ES
+external input,EI
+external inquiry,EQ
+external interface file,EIF
+external output,EO
+failure mode and effect analysis,FMEA
+fifth-generation language,5GL
+file type referenced,FTR
+finish-to-finish,FF
+finish-to-start,FS
+formal qualification review,FQR
+fourth-generation language,4GL
+function point,FP
+function point analysis,FPA
+functional configuration audit,FCA
+functional domain categorization,FDC
+functional size measurement,FSM
+functional user requirements,FUR
+general system characteristics,GSCs
+hardware configuration item,HCI
+hardware design language,HDL
+high-order language,HOL
+independent verification and validation,IV&V
+information retrieval,IR
+Information-based domain,IBD
+integrated circuit,IC
+interface design document,IDD
+interface requirements specification,IRS
+internal logical file,ILF
+invitation for bid,IFB
+job control language,JCL
+knowledge base,K-base
+late finish date,LF
+late start date,LS
+level of effort,LOE
+local area network,LAN
+logical source statement,LSS
+maintenance manual,MM
+mean time between failures,MTBF
+mean time to repair,MTTR
+measure of effectiveness,MOE
+measure of performance,MOP
+modification request,MR
+modified-off-the-shelf,MOTS
+notice of revision,NOR
+Object Management Group,OMG
+office automation,OA
+organizational breakdown structure,OBS
+personal computer,PC
+physical configuration audit,PCA
+physical source statement,PSS
+planned value,PV
+precedence diagramming method,PDM
+preliminary design review,PDR
+problem report,PR
+program design language,PDL
+Program Evaluation and Review Technique,PERT
+program status word,PSW
+project management,PM
+Project Management Body of Knowledge,PMBOK®
+project management information system,PMIS
+project management office,PMO
+project manager,PM
+quality assurance,QA
+quality control,QC
+quality measure element,QME
+record element type,RET
+reference user requirement collection,RUR Collection
+reference user requirements,RUR
+remote job entry,RJE
+remote terminal emulator,RTE
+request for information,RFI
+request for proposal,RFP
+request for quotation,RFQ
+requirements traceability matrix,RTM
+resource breakdown structure,RBS
+source statements,SS
+specification change notice,SCN
+start-to-finish,SF
+start-to-start,SS
+statement of work,SOW
+system breakdown structure,SBS
+system requirements review,SRR
+system requirements specification,SyRS
+system under test,SUT
+test readiness review,TRR
+to-compete-performance index,TCPI
+total degree of influence,TDI
+total float,TF
+total quality management,TQM
+unadjusted function point count,UFP
+Unified Modeling Language,UML
+user requirements,UR
+value adjustment factor,VAF
+value engineering,VE
+verification and validation,V&V
+version description document,VDD
+video display terminal,VDT
+virtual machine,VM
+work breakdown structure,WBS
+le process,SPLCP
+software requirements review,SRR
+software requirements specification,SRS
+software specification review,SSR
+software test environment,STE
+source statements,SS
+specification change notice,SCN
+start-to-finish,SF
+start-to-start,SS
+statement of work,SOW
+system breakdown structure,SBS
+system requirements review,SRR
+system requirements specification,SyRS
+system under test,SUT
+test readiness review,TRR
+to-compete-performance index,TCPI
+total degree of influence,TDI
+total float,TF
+total quality management,TQM
+unadjusted function point count,UFP
+Unified Modeling Language,UML
+user requirements,UR
+value adjustment factor,VAF
+value engineering,VE
+verification and validation,V&V
+version description document,VDD
+video display terminal,VDT
+virtual machine,VM
+work breakdown structure,WBS
