@@ -1,19 +1,37 @@
 package Phrases;
 
+import org.tartarus.snowball.ext.englishStemmer;
+
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Phrase {
     private String words;
+    private String stem;
+    private static englishStemmer stemmer;
 
     public Phrase(String words) {
+        stemmer = new englishStemmer();
         this.words = words;
-        this.words = cleanPhrase();
+        cleanPhrase();
+        createStemmedFormat();
+
 
     }
 
+    private void createStemmedFormat() {
+        String[] tokens = getTokens();
+        List<String> res = new ArrayList<String>();
+        for (int i = 0; i < tokens.length; i++) {
+            stemmer.setCurrent(tokens[i]);
+            stemmer.stem();
+            res.add(stemmer.getCurrent());
+        }
+        this.stem = String.join(" ", res);
+    }
 
-    private String cleanPhrase() {
+    private void cleanPhrase() {
         String[] tokens = getTokens();
         List<String> res = new ArrayList<String>();
         for (int i = 0; i < tokens.length; i++) {
@@ -22,7 +40,11 @@ public class Phrase {
             if (token.length() > 0)
                 res.add(token);
         }
-        return String.join(" ", res);
+        this.words = String.join(" ", res);
+    }
+
+    public String getStem() {
+        return stem;
     }
 
     public String[] getTokens() {
@@ -42,11 +64,11 @@ public class Phrase {
 
         Phrase phrase = (Phrase) o;
 
-        return words != null ? words.equals(phrase.words) : phrase.words == null;
+        return words != null ? stem.equals(phrase.stem) : phrase.stem == null;
     }
 
     @Override
     public int hashCode() {
-        return words != null ? words.hashCode() : 0;
+        return stem != null ? stem.hashCode() : 0;
     }
 }
