@@ -11,7 +11,7 @@ public class ConfigureManger {
     private static String configSource = "src/main/resources/wordGraphConfig.conf";
     private DocumentBuilder builder;
     private Document document;
-    public String acronymPath, contrastPath, hyperPath, relatedPath, synonymPath;
+    public String acronymPath, contrastPath, hyperPath, relatedPath, synonymPath, vocabularyPath;
 
     private ConfigureManger() throws Exception {
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -36,6 +36,7 @@ public class ConfigureManger {
         contrastPath = document.getElementsByTagName("contrast").item(0).getTextContent();
         hyperPath = document.getElementsByTagName("hyper").item(0).getTextContent();
         synonymPath = document.getElementsByTagName("synonym").item(0).getTextContent();
+        vocabularyPath = document.getElementsByTagName("vocabulary").item(0).getTextContent();
 
     }
 

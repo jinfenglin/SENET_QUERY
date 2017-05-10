@@ -11,6 +11,7 @@ import java.util.*;
 public class PhraseBase {
     public List<Pair<Phrase, Phrase>> synonyms, contrasts, acronyms;
     public Map<Phrase, List<Phrase>> hypernyms;
+    public List<Phrase> vocabulary;
     ConfigureManger cfMgr;
 
     public PhraseBase() throws Exception {
@@ -19,6 +20,18 @@ public class PhraseBase {
         contrasts = parseWordPairs(cfMgr.contrastPath);
         acronyms = parseWordPairs(cfMgr.acronymPath);
         hypernyms = parseWordList(cfMgr.hyperPath);
+        vocabulary = parseWord(cfMgr.vocabularyPath);
+    }
+
+    private List<Phrase> parseWord(String filePath) throws Exception {
+        BufferedReader bf = new BufferedReader(new FileReader(filePath));
+        List<Phrase> vocList = new ArrayList<>();
+        String line;
+        while ((line = bf.readLine()) != null) {
+            vocList.add(new Phrase(line));
+        }
+        bf.close();
+        return vocList;
     }
 
     private Map<Phrase, List<Phrase>> parseWordList(String filePath) throws Exception {
@@ -34,8 +47,8 @@ public class PhraseBase {
                 Phrase p = new Phrase(wordP2[i]);
                 pList.add(p);
             }
-            if(res.containsKey(p1)){
-                    pList.addAll(res.get(p1));
+            if (res.containsKey(p1)) {
+                pList.addAll(res.get(p1));
             }
             res.put(p1, pList);
 

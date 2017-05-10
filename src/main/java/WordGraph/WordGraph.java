@@ -1,5 +1,6 @@
 package WordGraph;
 
+import Commands.CommandManger;
 import Phrases.Phrase;
 import Phrases.PhraseBase;
 import javafx.util.Pair;
@@ -156,29 +157,10 @@ public class WordGraph {
         }
     }
 
-    public void query(String word) {
-        try {
-            System.out.println("===========================");
-            System.out.println("Hypernon:" + getHypernon(word));
-            System.out.println("Contrast:" + getContrast(word));
-            System.out.println("Hypernym:" + getHypernym(word));
-            System.out.println("Synonym:" + getSynonym(word));
-            System.out.println("Acronym:" + getAcronym(word));
-            System.out.println("===========================");
-        } catch (Exception e) {
-            System.out.println(e);
-        }
-    }
 
     public static void main(String[] args) throws Exception {
         WordGraph wg = new WordGraph();
-        while (true) {
-            Scanner input = new Scanner(System.in);
-            System.out.print("Input the word you want to query about:");
-            String line = input.nextLine();
-            //wg.printAncestors(line);
-            wg.query(line);
-            //wg.query(line);
-        }
+        CommandManger cmdManger = new CommandManger(wg);
+        cmdManger.run();
     }
 }

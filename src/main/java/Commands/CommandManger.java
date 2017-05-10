@@ -3,8 +3,10 @@ package Commands;
 import WordGraph.WordGraph;
 import org.apache.commons.cli.ParseException;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 
 public class CommandManger {
     Map<String, Command> commandMap;
@@ -17,8 +19,10 @@ public class CommandManger {
     }
 
     public void execut(String cmd) {
-        String op = getOperation(cmd);
-        String args = getOptions(cmd);
+        String[] args = getArgs(cmd);
+        if (args.length == 0)
+            return;
+        String op = args[0];
         if (commandMap.containsKey(op)) {
             Command cmdObj = commandMap.get(op);
             cmdObj.execution(wg, args);
@@ -27,12 +31,18 @@ public class CommandManger {
         }
     }
 
-    private String getOperation(String cmd) {
-        return cmd.split(" ")[0];
+    private String[] getArgs(String cmd) {
+        String[] args = cmd.split(" ");
+        return Arrays.stream(args).filter(s -> !s.isEmpty()).toArray(String[]::new);
     }
 
-    private String getOptions(String cmd) {
-        String op = getOperation(cmd);
-        return cmd.substring(op.length());
+    public void run() {
+        System.out.println("SE Bash v0.1");
+        while (true) {
+            System.out.print(">");
+            Scanner input = new Scanner(System.in);
+            String line = input.nextLine();
+            execut(line);
+        }
     }
 }
