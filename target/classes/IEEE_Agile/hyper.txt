@@ -122,7 +122,7 @@ origin: assembled origin, loaded origin
 identification: allocated configuration identification
 features: must-have features, nice-to-have features, won t-have features, minimum releasable features, won’t-have features, minimum marketable features
 point: restart point, entry point, reentry point, rescue point
-development cycle: system life cycle software development cycle, system development cycle, software development cycle
+development cycle: system life cycle, software development cycle, system development cycle, software development cycle
 float: free float, total float
 period: wearout-failure period, burn-in period, early-failure period, constant-failure period
 loader: absolute loader, relocating loader, relative loader, linking loader

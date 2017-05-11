@@ -1,14 +1,17 @@
 package wordGraph;
 
-public class SearchConfig {
-    public String word;
-    public Relationship relationship;
-    boolean getIncomingEdge, getEdgeSource;
+public enum SearchConfig {
+    hyperSeach(Relationship.HYPERNYM, true),
+    hyponSearch(Relationship.HYPERNYM, false),
+    acrSearch(Relationship.ACRONYM, false),
+    synSearch(Relationship.SYNONYM, true),
+    conSearch(Relationship.CONTRAST, true);
 
-    public SearchConfig(String word, Relationship relationship, Boolean getIncomingEdge, Boolean getEdgeSource) {
-        this.word = word;
+    public Relationship relationship;
+    boolean getIncomingEdge;
+
+    SearchConfig(Relationship relationship, Boolean getIncomingEdge) {
         this.relationship = relationship;
         this.getIncomingEdge = getIncomingEdge;
-        this.getEdgeSource = getEdgeSource;
     }
 }

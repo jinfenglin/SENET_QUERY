@@ -16,6 +16,7 @@ public class CommandManger {
         commandMap = new HashMap<String, Command>();
         this.wg = wg;
         commandMap.put("query", new QueryRelationCmd());
+        commandMap.put("search", new SearchRelationCmd());
     }
 
     public void execut(String cmd) {

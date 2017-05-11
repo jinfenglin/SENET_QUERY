@@ -50,8 +50,6 @@ public class WordGraph {
     private void addHypernym(Map<Phrase, List<Phrase>> hypernyms) {
         for (Phrase parent : hypernyms.keySet()) {
             List<Phrase> phrases = hypernyms.get(parent);
-            if (parent.equals(new Phrase("design")))
-                System.out.print("here");
             graph.addVertex(parent);
             for (Phrase p : phrases) {
                 graph.addVertex(p);
@@ -101,7 +99,7 @@ public class WordGraph {
     private List<String> getEdgeSources(List<LabeledEdge> edges) {
         List<String> res = new ArrayList<String>();
         for (LabeledEdge edge : edges) {
-            res.add(edge.getV1().toString());
+            res.add(getPhrase(edge.getV1().toString()));
         }
         return res;
     }
@@ -109,7 +107,7 @@ public class WordGraph {
     private List<String> getEdgeTarget(List<LabeledEdge> edges) {
         List<String> res = new ArrayList<String>();
         for (LabeledEdge edge : edges) {
-            res.add(edge.getV2().toString());
+            res.add(getPhrase(edge.getV2().toString()));
         }
         return res;
     }
@@ -134,7 +132,7 @@ public class WordGraph {
         return String.join(",", getEdgeTarget(edges));
     }
 
-    public String getHypernon(String word) {
+    public String getHyponymy(String word) {
         List<LabeledEdge> edges = filterEdge(word, Relationship.HYPERNYM, false);
         return String.join(",", getEdgeTarget(edges));
     }
@@ -145,53 +143,81 @@ public class WordGraph {
      * @param config
      * @param ans
      */
-    private void DFS(SearchConfig config, Set<String> ans) {
-        List<LabeledEdge> edges = filterEdge(config.word, config.relationship, config.getIncomingEdge);
-        List<String> candidates;
-        if (config.getEdgeSource)
-            candidates = getEdgeSources(edges);
-        else
-            candidates = getEdgeTarget(edges);
+    private void DFS(String word, SearchConfig config, Set<String> ans) {
+        List<String> candidates = filterEdgeGetConnectedWords(word, config);
         for (String candidate : candidates) {
             if (!ans.contains(candidate)) {
                 ans.add(candidate);
-                DFS(config, ans);
+                DFS(word, config, ans);
             }
         }
     }
 
+    private List<String> filterEdgeGetConnectedWords(String word, SearchConfig config) {
+        List<LabeledEdge> edges = filterEdge(word, config.relationship, config.getIncomingEdge);
+        List<String> connected;
+        if (config.getIncomingEdge)
+            connected = getEdgeSources(edges);
+        else
+            connected = getEdgeTarget(edges);
+        return connected;
+    }
 
-    /**
-     * public Set<String> searchAscedences(String word) {
-     * Set<String> ascendences = new HashSet<>();
-     * DFS(word, ascendences, Relationship.HYPERNYM, false, false);
-     * ascendences.remove(word);
-     * return ascendences;
-     * }
-     * <p>
-     * public Set<String> searchAncestors(String word) {
-     * Set<String> ancestors = new HashSet<String>();
-     * DFS(word, ancestors, Relationship.HYPERNYM, true, true);
-     * ancestors.remove(word);
-     * return ancestors;
-     * }
-     **/
+    private void DFSPath(String source, String target, SearchConfig config, Set<String> visited, List<String> sol, List<List<String>> res) {
+        source = getPhrase(source);
+        target = getPhrase(target);
+        if(sol.size()>100)//avoid some time consuming search
+            return;
+        if (source.equals(target)) {
+            res.add(new ArrayList<String>(sol));
+            return;
+        }
+        List<String> candidates = filterEdgeGetConnectedWords(source, config);
+        visited.add(source);
+        for (String candidate : candidates) {
+            if (visited.contains(candidate))
+                continue;
+            sol.add(candidate);
+            DFSPath(candidate, target, config, visited, sol, res);
+            sol.remove(candidate);
+        }
+    }
 
-    public Set<String> search(String word, SearchConfig serachConfig) {
+    public Set<String> search(String word, SearchConfig searchConfig) {
         Set<String> res = new HashSet<String>();
-        DFS(serachConfig, res);
+        word = getPhrase(word);
+        if (word.isEmpty())
+            return res;
+        DFS(word, searchConfig, res);
         res.remove(word);
+        return res;
+    }
+
+    public List<List<String>> searchPath(String source, String target, SearchConfig searchConfig) {
+        List<List<String>> res = new ArrayList<>();
+        source = getPhrase(source);
+        target = getPhrase(target);
+        if (source.isEmpty() | target.isEmpty())
+            return res;
+        DFSPath(source, target, searchConfig, new HashSet<String>(), new ArrayList<>(), res);
         return res;
     }
 
     public String getPhrase(String word) {
         Phrase phrase = new Phrase(word);
+        List<Phrase> candidates = new ArrayList<>();
         if (graph.vertexSet().contains(phrase)) {
             for (Phrase p : graph.vertexSet()) {
                 if (p.equals(phrase))
-                    return p.toString();
+                    candidates.add(p);
             }
         }
+        for(Phrase p: candidates){
+            if(p.toString().equals(word))
+                return word;
+        }
+        if(candidates.size()>0)
+            return candidates.get(0).toString();
         return "";
     }
 

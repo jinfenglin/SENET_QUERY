@@ -37,7 +37,7 @@ public class QueryRelationCmd extends Command {
             if (cmdLine.hasOption("H") | optionNum == 0)
                 System.out.println("Hypernym:" + wg.getHypernym(word));
             if (cmdLine.hasOption("h") | optionNum == 0)
-                System.out.println("Hypernon:" + wg.getHypernon(word));
+                System.out.println("Hypernon:" + wg.getHyponymy(word));
             if (cmdLine.hasOption("S") | optionNum == 0)
                 System.out.println("Sibling/Contrast:" + wg.getContrast(word));
             if (cmdLine.hasOption("s") | optionNum == 0)
