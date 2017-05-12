@@ -22,7 +22,8 @@ public class SearchRelationCmd extends Command {
             List<String> remainArgs = cmdLine.getArgList(); //remmaining args are treated as words to be queried
             remainArgs.remove(0);
             String[] words = String.join(" ", remainArgs).split(",");
-            List<List<String>> res = wg.searchPath(words[0], words[1], SearchConfig.conSearch);
+            //TODO check the word all in reuqired domain first before searching.
+            List<List<String>> res = wg.searchPath(words[0], words[1], SearchConfig.relatedSearch.setDataType("IEEE"));
             Util.printListOfList(res);
         } catch (Exception e) {
             System.out.println(e);

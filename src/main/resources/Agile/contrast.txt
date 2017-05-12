@@ -1,0 +1,92 @@
+accuracy,precision
+adaptation,prediction
+antifragile,fragile
+antifragile,robust
+assumption,validated learning
+burndown chart,burnup chart
+burnup chart,burndown chart
+capital expenditure,operational expense
+chaotic domain,complex domain
+chaotic domain,complicated domain
+chaotic domain,disorder domain
+chaotic domain,simple domain
+chickens,pigs
+commitment,forecast
+complex domain,chaotic domain
+complex domain,complicated domain
+complex domain,disorder domain
+complex domain,simple domain
+complicated domain,chaotic domain
+complicated domain,complex domain
+complicated domain,disorder domain
+complicated domain,simple domain
+component team,feature team
+customer uncertainty,end uncertainty
+customer uncertainty,means uncertainty
+defined process,empirical process control
+definition of done,definition of ready
+definition of ready,definition of done
+disorder domain,chaotic domain
+disorder domain,complex domain
+disorder domain,complicated domain
+disorder domain,simple domain
+distributed team,co-located team
+economic filter,strategic filter
+empirical process control,defined process
+end uncertainty,customer uncertainty
+end uncertainty,means uncertainty
+exploitation,exploration
+exploration,exploitation
+external stakeholders,internal stakeholders
+feature team,component team
+fixed-date release,fixed-scope release
+fixed-scope release,fixed-date release
+forecast,commitment
+fragile,antifragile
+fragile,robust
+group,team
+happened-upon technical debt,known technical debt
+happened-upon technical debt,targeted technical debt
+holding cost,transaction cost
+ideal day,story point
+idle work,idle workers
+idle workers,idle work
+internal stakeholders,external stakeholders
+known technical debt,happened-upon technical debt
+known technical debt,targeted technical debt
+means uncertainty,customer uncertainty
+means uncertainty,end uncertainty
+minimum marketable features,minimum releasable features
+must-have features,nice-to-have features
+must-have features,won t-have features
+naive technical debt,strategic technical debt
+naive technical debt,unavoidable technical debt
+nice-to-have features,must-have features
+nice-to-have features,won t-have features
+operational expense,capital expenditure
+outcome measure,output measure
+output measure,outcome measure
+pigs,chickens
+precision,accuracy
+prediction,adaptation
+product,project
+product development effort,project
+project,product
+robust,antifragile
+robust,fragile
+simple domain,chaotic domain
+simple domain,complex domain
+simple domain,complicated domain
+simple domain,disorder domain
+strategic filter,economic filter
+strategic technical debt,naive technical debt
+strategic technical debt,unavoidable technical debt
+targeted technical debt,happened-upon technical debt
+targeted technical debt,known technical debt
+team,group
+transaction cost,holding cost
+unavoidable technical debt,naive technical debt
+unavoidable technical debt,strategic technical debt
+validated learning,assumption
+won’t-have features,must-have features
+won’t-have features,nice-to-have features

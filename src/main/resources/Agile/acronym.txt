@@ -1,0 +1,22 @@
+CSPO,certified scrum product owner®
+CSM,certified scrum product owner®
+CSP,certified scrum product owner®
+CST,certified scrum product owner®
+CSP,certified scrum professional®
+CSM,certified scrum professional®
+CSPO,certified scrum professional®
+CST,certified scrum professional®
+CST,certified scrum trainer®
+CSM,certified scrum trainer®
+CSPO,certified scrum trainer®
+CSP,certified scrum trainer®
+CSM,certified scrummaster®
+CSPO,certified scrummaster®
+CSP,certified scrummaster®
+CST,certified scrummaster®
+TDD,test-driven development
+ALM,application lifecycle management
+CI,continuous integration
+XP,extreme programming
+SDWT,self-directed work team
+MVP,minimum viable product

@@ -9,15 +9,19 @@ import java.util.List;
 public class Phrase {
     private String words;
     private String stem;
+    private String type;
     private static englishStemmer stemmer;
+
+    public Phrase(String words, String type) {
+        this(words);
+        this.type = type;
+    }
 
     public Phrase(String words) {
         stemmer = new englishStemmer();
         this.words = words;
         cleanPhrase();
         createStemmedFormat();
-
-
     }
 
     private void createStemmedFormat() {
@@ -41,6 +45,10 @@ public class Phrase {
                 res.add(token);
         }
         this.words = String.join(" ", res);
+    }
+
+    public String getDataType() {
+        return type;
     }
 
     public String getStem() {

@@ -1,0 +1,532 @@
+dsdm
+won’t-have features
+system architect
+customer uncertainty
+automated build
+bus number
+extreme programming
+ordered list
+product development effort
+using smartsheet as your agile project management tool
+release plan
+fixed-date release
+technique
+big visible charts
+sprint demo
+component team
+chickens and pigs
+risk
+vanity metric
+collective ownership
+lrm
+user story points
+transaction cost
+portfolio vision
+bottleneck
+lean software development
+epic
+architectural feature
+end uncertainty
+fragile
+solution
+regression test
+team
+work in progress limits
+vertical slice
+inspection
+cross-functional team
+product planning
+design pattern
+product backlog item
+genba
+prediction
+musketeer attitude
+iteration backlog 
+chicken
+test-first development
+user acceptance tests
+functional test
+user roles
+burn down chart
+architectural epic kanban
+information radiators
+emotions seismogram
+scrummerfall
+agile project management
+cspo
+product vision
+portfolio planning
+simple domain
+acceptance-test-driven development
+agile software management
+backlog refinement
+test automation
+lean programming
+exploitation
+all-before-any
+potentially shippable product increment
+bioteam
+plan-driven process
+test driven development
+build process
+kano analysis
+sprint goal
+wip
+business epic kanban
+product owner
+devops
+strategic filter
+ideal hours
+conditions of satisfaction
+spike
+t-shaped skills
+complicated domain
+program backlog
+stand-up
+continuous deployment
+lean ux
+co-located team
+product backlog grooming
+epic owner
+essential Scrum
+sprint backlog
+meta-scrum
+team/team member
+customer
+technical stories
+road map
+done-done-done
+application lifecycle management
+values
+budgets
+transparency
+agile software development
+done checklist
+story splitting
+release train
+anticipatory process
+cost accounting
+targeted technical debt
+ceremony
+Certified Scrum Trainer
+feature
+remote team member
+idle work
+complex adaptive system
+release goal
+iteration burndown chart
+cst
+relative estimation
+csp
+cadence
+csm
+backlog item
+product backlog refinement
+mock objects
+pigs
+breaking the build
+release management
+single done
+unavoidable technical debt
+fibonacci sequence
+bugs
+just in time
+weighted shortest job first
+happened-upon technical debt
+servant leader
+definition of ready
+standup/daily meeting
+pair programming
+capital expenditure
+paired programming
+economically sensible scrum
+innovation accounting
+acceptance criteria
+group
+burndown chart
+exploratory testing
+shared resources
+done list
+personas
+single-piece flow
+practice
+simple design
+product backlog
+refactoring
+architectural epics
+PBI slotting
+xenodochial
+business owners
+taskboard / storyboard
+feature creep
+story points
+user experience ux
+continuous delivery
+kaizen
+rapid application development rad
+implementable story
+learning loop
+story mapping
+iteration execution
+product
+standup meeting
+rules of simplicity
+requirements creep
+fast feedback
+sprint planning
+T-shaped skills
+means uncertainty
+product roadmap
+nice-to-have features
+Kanban
+release train engineer rte
+Scrum framework
+safety
+kanban board
+acceptance test
+waterfall process
+CSM
+cynefin
+in-process product
+agile manifesto
+planning board
+ideal day
+CST
+daily scrum
+CSP
+mvp
+feature team
+role-feature-reason
+pbi
+idle workers
+build-breaker
+timebox
+opex
+behavior driven development
+actual time estimation
+agile release train
+done
+iteration retrospective
+three questions
+xp
+dot voting
+facilitation
+story
+certified scrummaster®
+long-term asset
+validated learning
+certified scrum professional®
+assumption
+genchi genbutsu
+build measure learn
+task complete definition
+startup
+moscow
+agile methods
+artifact
+emergent opportunity
+team member
+wsjf
+fist to five
+won t-have features
+holding cost
+iteration
+project
+sprint / iteration
+lean agile leaders
+agile development practices
+program epics
+niko-niko calendar
+minimum marketable features
+complexity points
+continuous integration
+last responsible moment
+code smell
+chickens
+sprint retrospective
+work in process
+product owner proxy
+certified scrum product owner®
+story point
+predictive process
+principle of least astonishment
+tdd
+minimum releasable features
+sprintable story
+heartbeat retrospective
+defined process
+technical debt
+certified scrum trainer®
+accuracy
+quick design session
+backlog item effort
+colocation
+flow
+team room
+cost of delay
+points
+lifecycle profits
+principle
+user-story-writing workshop
+velocity
+swarming
+pbi slotting
+chief product owner
+stand up
+program pi objectives
+program portfolio management
+strategic technical debt
+waterscrum
+capex
+developers and testers
+frequent releases
+theme
+project chartering
+user role
+value chain
+daily standup
+done-done
+CSPO
+synchronization
+sos
+program increment
+mrfs
+captial expenditure
+must-have features
+known technical debt
+WaterScrum
+traditional development process
+test-driven development
+business/it alignment
+queue
+user story
+customer-value-creation sprint
+acceptance test driven development
+activity
+release
+batch size
+art metrics
+build process / build pipeline
+team pi objectives
+wiki
+feature teams
+certified scrummaster
+strategic themes
+pigs and chickens
+daily stand-up
+envisioning
+capacity
+the three c’s
+pattern
+Scrum
+sustainable pace
+forecast
+approach
+rescoring
+variability
+pirate metrics
+story test
+stakeholder
+daily meeting
+programming in pairs
+empiricism
+customer unit
+minimum viable product
+affinity testing 
+Certified Scrum Professional
+uncertainty
+sprint review
+grooming
+estimation
+developer unit
+adaptation
+framework
+scrum master
+punch list
+essential scrum
+portfolio metrics
+ideal hour
+prototype
+Certified Scrum Product Owner
+incremental development
+distributed development team
+retrospective
+scrum team
+definition of done
+confidence threshold
+binning
+scrum framework
+unnecessary formality
+integration hell
+sprint planning meeting
+iterative development
+system team
+planning game
+domain model
+TDD
+invest acronym
+product management
+architectural runway
+project planning
+innovation and planning
+parallel development
+kanban
+antipattern
+innovation waste
+ready
+project inception
+story grooming
+information radiator
+external stakeholders
+inventory
+five levels of agile planning
+naive technical debt
+persona
+acceptance testing
+output measure
+rational unified process
+scrumban
+iteration plan
+daily huddle
+waterfall
+planning poker
+robust
+cycle
+task
+nonfunctional requirements
+empirical process control
+milestone retrospective
+fail fast
+business value
+scope creep
+enterprise value chain
+sequential process
+schedule based planning
+impediment
+team demo
+economic filter
+silent grouping
+prescriptive process
+specification by example
+epic stories
+disorder domain
+Scrum team
+antifragility
+burnup chart
+coordination
+alignment
+agile software development methodology
+t-shirt sizing
+agile
+Scrummerfall
+sprint plan
+chaotic domain
+stakeholders
+insight backlog
+operational expense
+ScrumMaster
+fixed-scope release
+Planning Poker
+fast, flexible, flow
+stakeholder value
+relative size measure
+outcome measure
+work in progress
+visual agilexicon®
+product backlog 
+antifragile
+backlog
+muri
+demo demonstration
+marginal economics
+event timeline
+regression testing
+prototyping
+sprint
+voice of the customer
+internal stakeholders
+poker planning
+scrum of scrums
+lean
+integration
+incremental funding
+prioritized list
+all-at-once product development
+blog post " Output vs
+whole-team approach
+skunkworks
+product sashimi
+complex domain
+self-organization
+system demo
+enterprise architect
+Extreme Programming
+three amigos
+Certified ScrumMaster
+daily standup/scrum
+muda
+rule
+mmfs
+point inflation
+commitment
+sign up for tasks
+release planning
+scrummaster
+given – when – then
+pivot
+u-curve optimization
+development team
+wag
+pairing
+continuous improvement
+self-directed work team
+mura
+sprint execution
+emergence
+branching
+tacit knowledge
+release burndown chart
+customer test
+project initiation
+waste
+expensed cost
+feature based planning
+crystal
+attd
+exploration
+portfolio backlog
+distributed team
+inspect and adapt
+kano model analysis
+scrum sprint
+deep
+pig
+lead time
+task board
+mob programming
+Cynefin
+progressive refinement
+emotions seismograph
+role
+backlog grooming
+jenkins
+sprint mapping
+user persona
+technical practices
+nonfunctional requirement
+iterative and incremental process
+scrum
+devop
+precision
+all-at-once development
+boy scout rule
+cargo cult
+agile retrospective
+fail-fast
+timeboxing
+invest
+business epics
+unit testing
+crc cards
+unknown unknowns
+U-curve optimization

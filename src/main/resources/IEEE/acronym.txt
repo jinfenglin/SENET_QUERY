@@ -25,6 +25,39 @@ synchronize,sync
 test case,TC
 web application,web app
 XML data configuration file,XDC file
+1GL,machine language
+2GL,assembly language
+3GL,high order language
+CPC,computer software component
+CPCI,computer software configuration i t e m
+FQR,functional functional specification
+FQR,functional testing
+HDL,design language
+HLL,high order language
+HMI,user interface
+IPSE,programming support environment
+MFLOPS,KOPS
+MIPS,KOPS
+WHILE,leading decision
+UNTIL,loop
+WHILE,loop
+KOPS,MFLOPS
+MIPS,MFLOPS
+KOPS,MIPS
+MFLOPS,MIPS
+MMI,user interface
+UNTIL,post-tested iteration
+WHILE,pre-tested iteration
+MTBF,reliability
+SSR,software requirements review
+UNTIL,trailing decision
+WHILE,pre- tested iteration
+WHILE,closed loop
+UNTIL,WHILE
+WHILE,leading decision
+1GL,machine language
+2GL,assembly language
+3GL,high order language
 actual cost,AC
 adjusted function point count,AFP
 architectural description,AD
@@ -35,6 +68,8 @@ binary digit,bit
 budget at completion,BAC
 central processing unit,CPU
 change control board,CCB
+UNTIL,closed loop
+WHILE,closed loop
 commercial-off-the-shelf,COTS
 computer software component,CSC
 computer software configuration item,CSCI
@@ -51,8 +86,11 @@ cost of quality,COQ
 cost performance index,CPI
 cost variance,CV
 cost-plus-fee,CPF
+CPC,computer software component
+CPCI,computer software configuration
 critical design review,CDR
 critical path methodology,CPM
+CT,Communication Technology
 data element type,DET
 data flow diagram,DFD
 data processing,DP
@@ -84,36 +122,58 @@ function point,FP
 function point analysis,FPA
 functional configuration audit,FCA
 functional domain categorization,FDC
+FS,functional size
 functional size measurement,FSM
 functional user requirements,FUR
 general system characteristics,GSCs
+GOTS,Government-off-the-Shelf
+COTS,Government-off-the-Shelf
 hardware configuration item,HCI
 hardware design language,HDL
+HWCI,HCI
+HDL,design language
 high-order language,HOL
+HLL,high-order language
+HMI,user interface
 independent verification and validation,IV&V
 information retrieval,IR
+IT,information technology
 Information-based domain,IBD
 integrated circuit,IC
 interface design document,IDD
 interface requirements specification,IRS
 internal logical file,ILF
 invitation for bid,IFB
+IPSE,programming support environment
 job control language,JCL
 knowledge base,K-base
+MFLOPS,KOPS
+MIPS,KOPS
 late finish date,LF
 late start date,LS
+WHILE,leading decision
 level of effort,LOE
 local area network,LAN
 logical source statement,LSS
+UNTIL,loop
+WHILE,loop
+LTP,LTPr
+LTP,LTPr
 maintenance manual,MM
 mean time between failures,MTBF
 mean time to repair,MTTR
 measure of effectiveness,MOE
 measure of performance,MOP
+KOPS,MFLOPS
+MIPS,MFLOPS
+KOPS,MIPS
+MFLOPS,MIPS
+MMI,user interface
 modification request,MR
 modified-off-the-shelf,MOTS
 notice of revision,NOR
 Object Management Group,OMG
+RM-ODP,ODP-RM
 office automation,OA
 organizational breakdown structure,OBS
 personal computer,PC
@@ -135,8 +195,10 @@ quality assurance,QA
 quality control,QC
 quality measure element,QME
 record element type,RET
+RECUP,maintenance rate
 reference user requirement collection,RUR Collection
 reference user requirements,RUR
+MTBF,reliability
 remote job entry,RJE
 remote terminal emulator,RTE
 request for information,RFI
@@ -144,51 +206,56 @@ request for proposal,RFP
 request for quotation,RFQ
 requirements traceability matrix,RTM
 resource breakdown structure,RBS
-source statements,SS
-specification change notice,SCN
-start-to-finish,SF
-start-to-start,SS
-statement of work,SOW
-system breakdown structure,SBS
-system requirements review,SRR
-system requirements specification,SyRS
-system under test,SUT
-test readiness review,TRR
-to-compete-performance index,TCPI
-total degree of influence,TDI
-total float,TF
-total quality management,TQM
-unadjusted function point count,UFP
-Unified Modeling Language,UML
-user requirements,UR
-value adjustment factor,VAF
-value engineering,VE
-verification and validation,V&V
-version description document,VDD
-video display terminal,VDT
-virtual machine,VM
-work breakdown structure,WBS
-le process,SPLCP
+responsibility assignment matrix,RAM
+return on investment,ROI
+risk breakdown structure,RBS
+risk leverage factor,rlf
+Rule and Constraint Language,RCL
+schedule performance index,SPI
+schedule variance,SV
+scheduled finish date,SF
+scheduled start date,SS
+service level agreement,SLA
+software asset management,SAM
+software component,SC
+software configuration item,SCI
+software configuration management,SCM
+software design description,SDD
+software development file,SDF
+software development plan,SDP
+software engineering environment,SEE
+software life cycle,SLC
+software project life cycle,SPLC
+software project life cycle model,SPLCM
+software project life cycle process,SPLCP
 software requirements review,SRR
 software requirements specification,SRS
 software specification review,SSR
 software test environment,STE
 source statements,SS
 specification change notice,SCN
+SSR,software requirements review
 start-to-finish,SF
 start-to-start,SS
 statement of work,SOW
 system breakdown structure,SBS
 system requirements review,SRR
 system requirements specification,SyRS
+SRS,system requirements specification
 system under test,SUT
+SME,technical contact
 test readiness review,TRR
 to-compete-performance index,TCPI
 total degree of influence,TDI
 total float,TF
 total quality management,TQM
+UDF,software development file
 unadjusted function point count,UFP
 Unified Modeling Language,UML
+UNTIL,post-tested iteration
+UNTIL,closed loop
+WHILE,UNTIL
+UNTIL,trailing decision
 user requirements,UR
 value adjustment factor,VAF
 value engineering,VE
@@ -196,4 +263,8 @@ verification and validation,V&V
 version description document,VDD
 video display terminal,VDT
 virtual machine,VM
+WHILE,pretested iteration
+WHILE,closed loop
+UNTIL,WHILE
+WHILE,leading decision
 work breakdown structure,WBS

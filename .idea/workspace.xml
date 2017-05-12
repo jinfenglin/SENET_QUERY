@@ -2,20 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d72e8438-86b2-4d1f-8aca-bdf14b3dc72e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/commands/SearchRelationCmd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/wordGraph/Util.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Commands/CommandManger.class" afterPath="$PROJECT_DIR$/target/classes/Commands/CommandManger.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/configures/DataSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Agile/acronym.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Agile/contrast.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Agile/hyper.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Agile/related.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Agile/synonym.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Agile/vocabulary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/IEEE/contrast.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/IEEE/hyper.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/IEEE/vocabulary.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/SemanticWebTerms/Agile-Table 1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/SemanticWebTerms/Requirements-Table 1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/contrast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/hyper.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/acronym.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/contrast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/hyper.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/related.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/synonym.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/acronym.txt" afterPath="$PROJECT_DIR$/src/main/resources/IEEE/acronym.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/related.txt" afterPath="$PROJECT_DIR$/src/main/resources/IEEE/related.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/synonym.txt" afterPath="$PROJECT_DIR$/src/main/resources/IEEE/synonym.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Commands/QueryRelationCmd.class" afterPath="$PROJECT_DIR$/target/classes/Commands/QueryRelationCmd.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Configures/ConfigureManger.class" afterPath="$PROJECT_DIR$/target/classes/Configures/ConfigureManger.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Phrases/Phrase.class" afterPath="$PROJECT_DIR$/target/classes/Phrases/Phrase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Phrases/PhraseBase.class" afterPath="$PROJECT_DIR$/target/classes/Phrases/PhraseBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/WordGraph/Relationship.class" afterPath="$PROJECT_DIR$/target/classes/WordGraph/Relationship.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/WordGraph/WordGraph.class" afterPath="$PROJECT_DIR$/target/classes/WordGraph/WordGraph.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/experiments/WorldRelationExperiment.class" afterPath="$PROJECT_DIR$/target/classes/experiments/WorldRelationExperiment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wordGraph/SearchConfig.class" afterPath="$PROJECT_DIR$/target/classes/wordGraph/SearchConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/commands/CommandManger.java" afterPath="$PROJECT_DIR$/src/main/java/commands/CommandManger.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/commands/QueryRelationCmd.java" afterPath="$PROJECT_DIR$/src/main/java/commands/QueryRelationCmd.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/commands/SearchRelationCmd.java" afterPath="$PROJECT_DIR$/src/main/java/commands/SearchRelationCmd.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/configures/ConfigureManger.java" afterPath="$PROJECT_DIR$/src/main/java/configures/ConfigureManger.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/experiments/WorldRelationExperiment.java" afterPath="$PROJECT_DIR$/src/main/java/experiments/WorldRelationExperiment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/phrases/Phrase.java" afterPath="$PROJECT_DIR$/src/main/java/phrases/Phrase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/phrases/PhraseBase.java" afterPath="$PROJECT_DIR$/src/main/java/phrases/PhraseBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wordGraph/Relationship.java" afterPath="$PROJECT_DIR$/src/main/java/wordGraph/Relationship.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wordGraph/SearchConfig.java" afterPath="$PROJECT_DIR$/src/main/java/wordGraph/SearchConfig.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wordGraph/WordGraph.java" afterPath="$PROJECT_DIR$/src/main/java/wordGraph/WordGraph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/IEEE_Agile/hyper.txt" afterPath="$PROJECT_DIR$/src/main/resources/IEEE_Agile/hyper.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/IEEE_Agile/hyper.txt" afterPath="$PROJECT_DIR$/target/classes/IEEE_Agile/hyper.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/wordGraphConfig.conf" afterPath="$PROJECT_DIR$/src/main/resources/wordGraphConfig.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/SemanticWebTerms/Agile-Table 1.csv" afterPath="$PROJECT_DIR$/target/classes/SemanticWebTerms/Agile-Table 1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/SemanticWebTerms/Requirements-Table 1.csv" afterPath="$PROJECT_DIR$/target/classes/SemanticWebTerms/Requirements-Table 1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wordGraphConfig.conf" afterPath="$PROJECT_DIR$/target/classes/wordGraphConfig.conf" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,64 +65,45 @@
       <file leaf-file-name="WordGraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/WordGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="54" column="26" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+            <state relative-caret-position="177">
+              <caret line="203" column="40" lean-forward="false" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#6727#6735#0" expanded="true" />
+                <element signature="e#3659#3667#0" expanded="true" />
+                <element signature="e#3899#3907#0" expanded="true" />
+                <element signature="e#7864#7872#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Agile-Table 1.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/SemanticWebTerms/Agile-Table 1.csv">
+      <file leaf-file-name="PhraseBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/phrases/PhraseBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-420">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Phrase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/phrases/Phrase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-438">
-              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#523#531#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hyper.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/IEEE_Agile/hyper.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contrast.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/IEEE_Agile/contrast.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="121" column="20" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchRelationCmd.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SearchRelationCmd.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/commands/SearchRelationCmd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="345">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/SearchConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -101,8 +112,8 @@
       <file leaf-file-name="WorldRelationExperiment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/experiments/WorldRelationExperiment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            <state relative-caret-position="285">
+              <caret line="30" column="72" lean-forward="true" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,11 +121,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="related.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/related.txt">
+      <file leaf-file-name="Relationship.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/Relationship.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="2543" column="42" lean-forward="false" selection-start-line="2543" selection-start-column="36" selection-end-line="2543" selection-end-column="42" />
+            <state relative-caret-position="45">
+              <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -133,10 +144,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
-      <find>protection</find>
-      <find>word</find>
-      <find>incoming</find>
       <find>computer</find>
       <find>virtual  storage</find>
       <find>structured  design</find>
@@ -162,7 +169,11 @@
       <find>risk</find>
       <find>bug</find>
       <find>problem</find>
+      <find>query security</find>
       <find>design</find>
+      <find>getEdgeTarget</find>
+      <find>agile</find>
+      <find>agile</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -197,21 +208,25 @@
         <option value="$PROJECT_DIR$/src/main/java/Commands/CommandManger.java" />
         <option value="$PROJECT_DIR$/src/main/resources/IEEE_Agile/synonym.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Configures/ConfigureManger.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/wordGraphConfig.conf" />
         <option value="$PROJECT_DIR$/src/main/java/Phrases/PhraseBase.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Phrases/Phrase.java" />
         <option value="$PROJECT_DIR$/src/main/java/WordGraph/WordGraph.java" />
         <option value="$PROJECT_DIR$/src/main/java/Commands/QueryRelationCmd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/commands/QueryRelationCmd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wordGraph/SearchConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/commands/CommandManger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/phrases/Phrase.java" />
         <option value="$PROJECT_DIR$/src/main/resources/IEEE_Agile/hyper.txt" />
         <option value="$PROJECT_DIR$/src/main/java/wordGraph/Util.java" />
-        <option value="$PROJECT_DIR$/src/main/java/commands/SearchRelationCmd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wordGraph/WordGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wordGraph/Relationship.java" />
+        <option value="$PROJECT_DIR$/src/main/java/configures/DataSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/configures/ConfigureManger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/phrases/Phrase.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/wordGraphConfig.conf" />
         <option value="$PROJECT_DIR$/src/main/java/experiments/WorldRelationExperiment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/phrases/PhraseBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/commands/QueryRelationCmd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wordGraph/WordGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wordGraph/SearchConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/commands/SearchRelationCmd.java" />
       </list>
     </option>
   </component>
@@ -229,10 +244,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
     <option name="y" value="23" />
-    <option name="width" value="1395" />
-    <option name="height" value="877" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -274,6 +288,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -345,7 +361,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SemanticWebTerms" />
+              <option name="myItemId" value="IEEE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SEWordNet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SEWordNet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -448,6 +490,10 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="configures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -477,8 +523,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,10 +535,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/java/WordGraph" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Configures" />
       <recent name="WordGraph" />
@@ -502,6 +542,13 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/Agile" />
+      <recent name="$PROJECT_DIR$/src/main/resources/IEEE" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/SemanticWebTerms" />
+      <recent name="$PROJECT_DIR$/src/main/java/WordGraph" />
     </key>
   </component>
   <component name="RunManager" selected="Application.WordGraph">
@@ -945,16 +992,17 @@
       <workItem from="1493670964193" duration="279000" />
       <workItem from="1493751914521" duration="1203000" />
       <workItem from="1494124482098" duration="3852000" />
-      <workItem from="1494349900825" duration="34160000" />
+      <workItem from="1494349900825" duration="35337000" />
+      <workItem from="1494543172478" duration="13262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63215000" />
+    <option name="totallyTimeSpent" value="77654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="23" width="1395" height="877" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -965,21 +1013,21 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26411074" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3320158" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2662407" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23133777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2087327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2683706" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -995,15 +1043,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="39" />
+      <option name="time" value="49" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="graph.vertexSet()" language="JAVA" />
-        <watch expression="graph.vertexSet().contains(new Phrase(&quot;monitor&quot;))" language="JAVA" />
-        <watch expression="graph.vertexSet().contains(new Phrase(&quot;monitoring&quot;))" language="JAVA" />
-        <watch expression="new Phrase(&quot;monitor&quot;)" language="JAVA" />
-        <watch expression="new Phrase(&quot;monitoring&quot;)" language="JAVA" />
+        <watch expression="dataNodes.getLength()" language="JAVA" />
+        <watch expression="wg.graph.vertexSet()" language="JAVA" />
+        <watch expression="wg.graph.containsVertex(new Phrase(&quot;agile&quot;))" language="JAVA" />
+        <watch expression="wg.graph.containsVertex(new Phrase(&quot;agile&quot;, &quot;Agile&quot;))" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1012,65 +1059,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/configures/ConfigureManger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/phrases/PhraseBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/phrases/Phrase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/LabeledEdges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/LabeledEdge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/WordGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="119" column="50" lean-forward="false" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6727#6735#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/synonym.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1083,7 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2295">
           <caret line="153" column="46" lean-forward="false" selection-start-line="153" selection-start-column="45" selection-end-line="153" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,7 +1078,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1107,7 +1100,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1115,7 +1110,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,18 +1150,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jgrapht/jgrapht-core/1.0.1/jgrapht-core-1.0.1.jar!/org/jgrapht/DirectedGraph.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/LabeledEdges.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,19 +1165,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hyper.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="254" column="40" lean-forward="false" selection-start-line="254" selection-start-column="12" selection-end-line="254" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/contrast.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="573">
           <caret line="153" column="46" lean-forward="false" selection-start-line="153" selection-start-column="45" selection-end-line="153" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1199,15 +1176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/Relationship.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1226,7 +1194,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1234,7 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46902">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,7 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="265" column="34" lean-forward="true" selection-start-line="265" selection-start-column="34" selection-end-line="265" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,14 +1229,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/configures/ConfigureManger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="38" column="91" lean-forward="false" selection-start-line="38" selection-start-column="91" selection-end-line="38" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -1284,15 +1241,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-150">
           <caret line="146" column="27" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/phrases/PhraseBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,7 +1248,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1308,32 +1255,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
           <caret line="4081" column="6" lean-forward="true" selection-start-line="4081" selection-start-column="6" selection-end-line="4081" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commands/QueryRelationCmd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/SearchConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/Util.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commands/CommandManger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/related.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="19125">
+          <caret line="1275" column="22" lean-forward="false" selection-start-line="1275" selection-start-column="22" selection-end-line="1275" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1354,75 +1290,191 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/phrases/Phrase.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SemanticWebTerms/Agile-Table 1.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-438">
-          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SemanticWebTerms/Requirements-Table 1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hyper.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="331" column="24" lean-forward="false" selection-start-line="331" selection-start-column="24" selection-end-line="331" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/configures/ConfigureManger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#523#531#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/Util.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/phrases/Phrase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        <state relative-caret-position="495">
+          <caret line="49" column="18" lean-forward="false" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <folding>
+            <element signature="e#1282#1283#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jgrapht/jgrapht-core/1.0.1/jgrapht-core-1.0.1.jar!/org/jgrapht/DirectedGraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/IEEE/hyper.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Agile/hyper.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/Relationship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/IEEE/vocabulary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="4222" column="10" lean-forward="true" selection-start-line="4222" selection-start-column="10" selection-end-line="4222" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Agile/related.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Agile/vocabulary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050">
+          <caret line="434" column="12" lean-forward="false" selection-start-line="434" selection-start-column="7" selection-end-line="434" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/commands/CommandManger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/wordGraphConfig.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/configures/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/commands/QueryRelationCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="42" column="64" lean-forward="false" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/WordGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="54" column="26" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        <state relative-caret-position="177">
+          <caret line="203" column="40" lean-forward="false" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#6727#6735#0" expanded="true" />
+            <element signature="e#3659#3667#0" expanded="true" />
+            <element signature="e#3899#3907#0" expanded="true" />
+            <element signature="e#7864#7872#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/SemanticWebTerms/Agile-Table 1.csv">
+    <entry file="file://$PROJECT_DIR$/src/main/java/phrases/PhraseBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commands/SearchRelationCmd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="120">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/experiments/WorldRelationExperiment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        <state relative-caret-position="285">
+          <caret line="30" column="72" lean-forward="true" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/related.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/wordGraph/SearchConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="2543" column="42" lean-forward="false" selection-start-line="2543" selection-start-column="36" selection-end-line="2543" selection-end-column="42" />
+        <state relative-caret-position="285">
+          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/commands/SearchRelationCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

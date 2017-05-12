@@ -1,0 +1,31 @@
+domain: disorder domain, simple domain, complicated domain, complex domain, chaotic domain
+features: must-have features, nice-to-have features, won t-have features, minimum releasable features, won’t-have features, minimum marketable features
+process: prescriptive process, sequential process, anticipatory process, plan-driven process, traditional development process, defined process, predictive process, waterfall process, empirical process control
+cost: holding cost, transaction cost
+done: definition of done
+measure: output measure, outcome measure
+ready: definition of ready
+portfolio: portfolio backlog, portfolio planning
+sprint: sprint backlog, sprint goal, sprint planning, sprint demo, sprint review, sprint execution
+user story: user story points
+story: user story, sprintable story, implementable story
+product owner: chief product owner, product owner proxy
+integration: continuous integration
+technical debt: naive technical debt, unavoidable technical debt, known technical debt, targeted technical debt, happened-upon technical debt, strategic technical debt
+filter: economic filter, strategic filter
+stakeholders: internal stakeholders, external stakeholders
+development: test-first development, iterative development, incremental development, test-driven development
+product: product development effort
+value chain: enterprise value chain
+retrospective: sprint retrospective
+stakeholder: stakeholder value
+chart: burnup chart, burndown chart
+product backlog: product backlog item
+framework: Scrum framework
+task: task board
+uncertainty: end uncertainty, means uncertainty, customer uncertainty
+list: prioritized list, ordered list
+project: project chartering, project initiation, project inception
+team: cross-functional team, component team, feature team, co-located team, scrum team, remote team member, Scrum team, distributed team, development team
+release: release plan, release planning, release goal, fixed-date release, fixed-scope release
+grooming: product backlog grooming

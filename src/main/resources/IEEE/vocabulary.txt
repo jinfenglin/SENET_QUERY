@@ -1,0 +1,4223 @@
+dynamic storage allocation
+critical item
+complexity of a function
+class hierarchy
+version description document
+directed graph
+assembler
+dynamic
+call by reference
+attribute name
+maintenance  manual
+Requirements Management Rich Text Format (RM-RTF)
+system design
+interface control
+upward compression
+assumptions analysis
+productivity
+engineering interface reference
+signal interface signature
+point design
+evaluation technology
+data  structure-centered  design
+PTNG
+monitor and control risks
+artificial language
+risk transference
+module  testing
+loop  body
+integration  testing
+reliability growth
+SPI
+repo bloat
+SPM
+TINA
+quality requirement
+buyer
+transient error
+role name
+system  life  cycle
+natural language
+simple buffering
+context of use
+functional service
+risk
+downstream
+assessment constraints
+structure chart
+activation
+storage capacity
+qualification testing
+memory map
+replication
+reference dimension
+E-R  diagram
+working  storage
+homogeneous  redundancy
+architectural description
+facilitate change GSC
+compiler code
+upload
+testing description
+list processing language
+structured program
+diversity
+preventive maintenance
+heading
+appraisal findings
+design  requirement
+secondary risk
+BEO
+interface task
+expandability
+evaluation procedure
+consistent
+test case generator
+implementer
+work product
+batch
+feasibility
+model note number
+design review
+object type
+perform integrated change control
+reengineering
+virtual reference
+understandability
+fourth-generation language
+integrity
+specification
+back link
+roll back
+supplier
+manage project team
+earned value
+common ancestor constraint
+diagram title
+agreement
+team area
+control store
+measurement method
+supervisor state
+ICOM label
+imposed date
+reflexive ancestor (of a class)
+macroinstruction
+granularity
+task-structuring criteria
+loop control
+virtual team
+information technology
+conversational
+link type
+high level
+non-time-critical computationally intensive task
+computing center
+code  trace
+cross-assembler
+plan risk responses
+contiguous allocation
+common-environment coupling
+dynamic resource allocation
+cycle stealing
+pack
+enterprise viewpoint
+invocation submit
+classification
+backout
+object identifier
+access token
+corporate governance of IT
+nomenclature standard
+design view
+adaptive maintenance
+source program
+define activities
+functional organization
+service desk
+risk threshold
+electronic data interchange
+output product
+mirror site
+unit
+integrity level scheme
+precompiler
+scaffolding
+report standard
+instance-level operation
+program status word (PSW)
+develop project management plan
+block-structured language
+risk management
+process architect
+call
+asset
+analysis model
+assessment
+swap
+nonprocedural language
+repository (repo)
+association management facility
+paper documentation
+class-level attribute
+self-descriptiveness
+minimum tasks
+defensive programming
+effective instruction
+professional  standard
+record type
+real-time
+supporting process
+discrimination (threshold)
+real-time scheduling theory
+data function
+change  control
+regression  testing
+attribute data type
+join
+risk management process
+change control system
+EDI
+software component
+develop human resource plan
+FPIF
+design  level
+CDIF importer
+rework
+subphase
+ORB
+nanoinstruction
+back linking
+interrupt service routine
+capability dimension
+demodularization
+diagonal  microinstruction
+EIF
+portfolio management
+IPO chart
+page swapping
+caution
+design-to cost
+earned value management
+export process
+closed term
+LF
+specification tree
+recovery
+hard  failure
+call arrow
+semantic agreement
+feature
+verification method
+basic engineering object
+methodology
+forward  recovery
+functional complexity
+identifying relationship
+flowchart
+call by value
+subproject
+input-process-output
+function point count
+abstraction
+access method
+disassemble
+symbolic trace
+lag
+software  maintenance
+diagram
+internal attribute
+system  flowchart  (flow  chart)
+detailed function point count
+apportioned effort
+design authority
+built-in class
+parallel
+working set
+counting scope
+functional  configuration  audit  (FCA)
+bootstrap
+channel  capacity
+stand-alone
+alias
+complexity
+contravariance
+statement testing
+direct  instruction
+illustrative product
+parallel construct
+structured programming language
+UR
+operations
+declarative language
+equivalent faults
+elementary process
+intellectual property
+upstream
+test readiness review
+assembler  language
+four-address  instruction
+workstation
+information processing
+suspend
+activity group
+concurrency
+asynchronous I/O device interface task
+IDL
+design level
+software feature
+acceptance criteria
+auto-deploy
+should-cost estimate
+SAM
+model layers
+on-screen documentation
+CDIF transfer file
+supervisory program
+computer system
+production
+hybrid coupling
+condition
+hidden
+rate-monotonic algorithm
+library definition
+privileged  state
+effective address
+process measures
+client-side
+product backlog
+concept of operations (ConOps) document
+community object
+problem report
+interrupt
+perform quality control
+analogous estimating
+systems integration testing
+T-profile
+working  area
+Eclipse
+process improvement program
+soft failure
+machine  address
+assessment process
+destructive  read
+channel capacity
+API
+lockout
+conflict
+arrow
+debug
+process capability level rating
+interruption
+test  design
+conceptual data model
+wearout-failure period
+initialization section
+top-level function
+reserved word in a computer language
+standby  time
+data group
+language definition
+security accreditation
+meaning (of a responsibility)
+array
+detailed design phase
+support manual
+process outcome
+QOS
+design requirement
+operational scenario
+user group
+event-sequencing logic
+multiple-address  instruction
+installation and checkout phase
+user interface task
+method
+HMI
+measurement  standard
+software asset management
+existing software
+program-sensitive fault
+software unit
+notation standard
+starting  address
+resume
+macroassembler
+commit privileges
+technical management
+GCM
+passive interconnection
+test criteria
+standard
+one-to-many relationship
+development project
+Rule and Constraint Language
+code tuning
+estimate
+decision table
+data abstraction
+file type referenced
+A-0 context diagram
+quality subfactor
+absolute code
+correctness
+SSR
+language binding
+test log
+relocating  assembler
+Ant with Enterprise Extensions
+signature
+passive object
+formal evaluation process
+quality model
+test  generator
+relocatable
+process standard
+appraisal participants
+process capability determination sponsor
+grade
+TCPI
+coding
+defect arrival rate
+formal qualification review
+collection cardinality
+well-engineered web site
+preamble  breakpoint
+customization
+incoming link
+discriminator
+hardware monitor
+lowclass
+EVM
+bottom-up
+test  harness
+design strategy
+software requirement
+external input
+precedence relationship
+software requirements management
+ECP
+action of interest
+data structure diagram
+contract administration
+XML data configuration file (XDC file)
+decompiler
+collapse
+mechanism
+maintenance (support) rate
+tool
+convention
+resource management
+sync
+backup programmer
+design-to-cost
+technical requirements
+project deliverable
+contingency reserve
+output arc (of a transition)
+PIXIT
+data collection
+recto
+software life cycle
+control field
+dynamic  allocation
+service export
+iteration
+invocation deliver
+project
+idle
+process improvement
+authoring  system
+acquisition
+reuse sponsor
+enabling tokens
+functional configuration audit
+critical range
+query language
+marking of a place
+project leader
+ANSI
+system integration
+ergonomics
+parallel classes
+database (DB)
+ODBC driver
+fault dictionary
+latency
+software  characteristic
+reverse  execution
+product  management
+schedule baseline
+firmware
+meta-
+measurement procedure
+command language
+conceptual system design
+risk management system
+collection-valued class
+LTPr
+DUA
+impediment
+development branch
+enabling system
+RACI
+CCCS
+perfective maintenance
+process capability determination
+MMC(S)
+track build item
+system definitions node
+objective evidence
+developmental baseline
+translator
+condition entry
+artifact
+breakpoint
+characteristic of FUR
+independent verification and validation
+basic interworking facility
+information need
+initiator
+QR
+observation
+specification  language
+performance measurement baseline
+anticipatory paging
+software requirements specification
+destructive read
+call  tree
+initial marking of a place
+QA
+context diagram
+QC
+place
+enterprise
+functional requirement
+spooler
+consumer
+reserve
+data-sensitive  fault
+virtual machine
+test objective
+microword
+manufacturing  phase
+rating level
+syntax
+error tolerance
+inner cardinality
+enterprise environmental factors
+foreign key
+printed documentation
+data element type
+low  level  language
+page frame
+availability
+uniqueness constraint
+busy
+layout
+internal arrow
+root arrow segment
+implementation
+menu
+inductive assertion method
+DCE
+importer
+reverse proxy
+PERT
+integrate
+execution  efficiency
+constant
+query
+outgoing change set
+action entry
+diagnostic manual
+utilization bound theorem
+program-sensitive  fault
+usage mode
+stop
+discrete type
+mean  time  to  repair  (MTTR)
+executable requirements specification
+container interface
+dynamic skeleton
+participant property
+report
+OMG
+net
+assistive technologies
+blocking factor
+start-to-start
+one-address  instruction
+OID
+throwclear
+patch
+bag
+linkage editor
+architecture
+address field
+distribution copy
+interrupt  mask
+configuration  audit
+automatic
+model name abbreviation
+test execution
+turnaround time
+categorization scheme
+backward  recovery
+test data
+static breakpoint
+software project life cycle
+interrupt mask
+heavily used configuration GSC
+testing
+widget
+diagnostic  manual
+run time
+cloning
+CMIS
+CMIR
+microcode
+CMIP
+application server
+embedded documentation
+techniques
+block-structured  language
+model note
+commit message
+exception handling
+path divergence
+software  test  incident
+call graph
+resident  control  program
+human systems engineering
+requirements traceability
+error  tolerance
+dynamic  storage  allocation
+extend
+single-hit decision table
+activity list
+two-plus-one address instruction
+<Viewpoint> language
+stakeholder
+throughput rating value
+temporal cohesion
+one-ahead addressing
+preprocessor
+final function point count
+work breakdown structure dictionary
+formal design
+execution  monitor
+UNTIL
+linkage
+topology
+accident
+database design specification
+log off
+triggers
+causal analysis
+fault
+adapter
+absolute loader
+evaluation report
+life cycle
+ISPF client
+help text
+variance
+contribution
+dynamic dump
+foldout
+MOF
+custom software
+validation test
+continuous representation
+baseline design
+associative class
+loader
+design  specification
+ETC
+task priority criteria
+complete ICOM code
+technical standard
+path
+development testing
+glass-box  testing
+BCWP
+ICWG
+engineering interface reference management policy
+HCI
+CPFF
+decoupling
+initial program loader
+absolute  instruction
+data declaration source statement
+electronic publishing
+variation point
+corporate governance
+program  counter
+verification sponsor
+interpret
+project team
+software  repository
+test effort
+IIOP
+CI
+Pareto chart
+CM
+compiler directive source statement
+analog computer
+computer center
+down time
+SAM owner
+SRMPI
+SRS
+developmental configuration
+project phase
+physical source statement
+feasibility study
+CPPC
+candidate key
+reenterable
+end user
+operation interface
+wearout-failure  period
+design language
+test documentation
+exception
+document control
+formalization
+downward compatible
+program  instruction
+data  structure  diagram
+staff-hour
+failure rate
+reference user requirements
+engineering  change  proposal  (ECP)
+programmable breakpoint
+product management
+property
+termination construct
+block diagram
+procedure
+mistake
+critical path
+technical complexity adjustment factors
+security  kernel
+LOE
+chain type
+service management
+leaf node
+IV&V
+page type letter
+completion code
+information system needs
+diagram feature
+hierarchical decomposition
+computer graphics
+severity
+parent function
+recursion
+initial function point count
+value class
+testware
+imperative  statement
+contract work breakdown structure
+raw requirement
+overflow exception
+MODL
+projectized organization
+executing processes
+independent
+Data Movement Service
+RECUP
+Open Services
+adaptation parameter
+programmer manual
+dynamic  analysis
+code freeze
+iteration plan
+microprogramming
+portal
+requirements  analysis
+term evaluation
+opportunity
+normalization
+cycle
+off-the-shelf
+scenario
+loopback testing
+imperative construct
+production library
+scope creep
+distributed processing
+end item
+garbage collection
+RJE
+client
+task completion
+NOR
+catastrophic failure
+merge from current
+trade-off analysis
+project function point count
+external I/O device
+protocol
+stress testing
+certification criteria
+proposed change
+MTBF
+interface type
+entity attribute
+build definition
+FDC
+do-nothing  operation
+leading  decision
+meta-object facility
+cold standby
+state diagram
+character
+IOR
+engineering  change
+authoring  language
+brainstorming
+algebraic  language
+turnkey system
+instance-level attribute
+hardware engineering
+nonintrinsic relationship
+local compaction
+reuse
+minimum delay programming
+risk treatment
+user need
+methodology element
+relevant stakeholder
+structural  testing
+compaction
+background
+single-level encoding
+work breakdown structure
+reusable
+pass/fail  criteria
+planning processes
+box name
+symbolic address
+primary key
+error  prediction  model
+identify stakeholders
+quality management (QM)
+project management software
+system of systems
+arrow label
+abstract design
+endeavor element
+scheduled finish date
+functional process
+port-to-port time
+request for proposal
+repository workspace
+software test incident
+bathtub curve
+structured  design
+condition stub
+requirements  specification
+assembler  code
+indirect measure
+tutorial
+schedule network analysis
+installation manual
+SCN
+SCI
+risk identification
+access transparency
+plan quality
+subclass
+multiple-hit decision table
+ETL
+work task
+return value
+screen flow
+collaboration
+return code
+base practice
+capable process
+specification change notice
+For Exposition Only (FEO) page
+repository
+four-plus-one address instruction
+descendent diagram
+operational ease GSC
+illustration
+binder
+error processing
+content store
+interactive  language
+non-deliverable item
+security
+modularization
+event synchronization
+FSMM
+associative entity
+SNCS
+dashboard
+test suite
+computer  instruction
+dependent state class
+MTTR
+change control board
+interface testing
+commit
+content  coupling
+AP(I)
+alternate flow
+reserve analysis
+facility
+correctness  proof
+address  part
+float
+characteristic entity
+priority ceiling protocol
+down
+system software
+contingency plan
+electronic mail (Email)
+design characteristic
+process description
+pre-tested  iteration
+data flow
+unambiguous
+free float
+capsule manager
+intrinsic
+support
+job  control  language  (JCL)
+internal logical file
+maintenance manual
+project integration management
+editor
+create WBS (work breakdown structure)
+private  type
+correctability
+pseudo-op
+named constraint
+on-line
+project portfolio
+requested change
+head
+medium
+page reference
+machine code
+HWCI
+global configuration
+failure
+object adapter
+back-to-back testing
+operator manual
+demand  paging
+flow target
+software quality evaluation
+verification  and  validation  (V&V)
+entry point
+architectural style
+reset
+delegation
+soft copy image
+release engineer
+packaging
+type
+early-failure period
+indigenous  error
+software product developer
+test  summary  report
+paging
+CASE tool
+authorization
+component skew
+early finish date
+enabling (a transition)
+project management process group
+corrective maintenance
+operation field
+product  baseline
+real type
+running  time
+assembly code
+system  requirements  review  (SRR)
+multiple inclusive selective construct
+validity summary
+category entity
+defect aging
+cluster template
+function-oriented design
+EAC
+concurrent communication diagram
+actor
+development  cycle
+output primitive
+computer science
+failure mode and effect analysis
+horizontal microinstruction
+test
+traceable
+node
+risk exposure
+exporter
+workspace
+functional configuration identification
+network path
+system definition reference search
+HOL
+metric value
+maintainability plan
+corporate executive level
+concurrent
+<X> federation
+many-to-many relationship
+incipient failure
+intermittent  fault
+successor activity
+informal testing
+source
+LTC
+software  design  description  (SDD)
+adjusted function point count
+use case specification
+reserved word
+BFC Type
+relocating loader
+flag
+documentation   relationships  to  one  another
+cohesion
+computing system specification concepts
+interconnection perspective
+level 1 control break
+time
+predictive metric
+data repository
+object type set
+project organization chart
+chain
+5GL
+datum
+data exception
+set-up time
+local customization
+cost constraint
+state data
+transportability
+functional size
+earned value technique
+assembled  origin
+cut-off date
+control loopback
+graph
+extensional set
+problem definition
+definition is advanced as a proposed standard
+environment
+control  breakpoint
+branch testing
+process improvement objective
+writing reference
+heavyweight process
+actual result
+dynamic restructuring
+interim function point count
+logical transaction
+co-location
+estimate at completion
+rescue  point
+detailed design description
+statement of work
+nesting
+configuration provider
+fault-tolerant
+word
+critical piece first
+Information-based domain
+access permission
+maintenance branch
+engineering viewpoint
+place/transition net
+expert system
+level
+capability maturity model
+data  flow
+metadata
+standards
+discrete
+program synthesis
+functional  configuration   identification
+waterfall  model
+immediate instruction
+digit numeric character
+multiprocessing
+percent complete
+cost-plus-fee
+interrupt request
+verifiable
+design pattern
+HLL
+trend
+project management knowledge area
+afferent
+upward compatible
+input-output  coupling
+PCO
+portfolio
+transaction matrix
+software  monitor
+PCA
+task structuring
+base functional component
+primary entity-type
+component  standard
+interface  specification
+external attribute
+actual cost
+multiple readers and writers
+macro library
+help system
+suspect
+template
+view
+parent diagram
+activity code
+software tool
+computational interface template
+control  language
+multi-valued
+software design description
+data mart
+derived  type
+human behavior
+meta-meta-entity
+attribute group
+life  cycle
+RM-RTF
+pause
+computer software configuration item
+underflow exception
+address
+ratio
+change
+DSA
+box
+design concept
+instruction counter
+planned value
+project quality management
+periodic task
+physical configuration audit
+project calendar
+queue
+delimiter
+simultaneous
+throughput
+interrupt priority
+control limits
+input-process-output (IPO) chart
+web page
+navigation
+automated or assisted software process
+computer-aided software engineering
+support software
+time sharing
+desktop publishing
+processing logic
+data mapping template
+tunnel notation
+flexibility
+computer program
+effectiveness assessment
+incremental  compiler
+digital computer
+traceability matrix
+argument sort
+XFN
+computer crime
+formal language
+ODP function
+lateral compression
+software configuration management (SCM)
+memory
+scope
+checkout
+data management
+nontechnical requirement
+fast tracking
+entrance
+usability test
+spiral  model
+acceptable
+machine-readable
+pipeline
+validity
+structured design
+schedule management plan
+data processing
+program instruction
+system element
+cardinality
+effort
+IPO  chart
+data source
+screen dump
+scalar
+constraint
+PMIS
+reverse engineering
+MMI
+level 1 termination routine
+process asset library
+control schedule
+diagram boundary
+report server
+usability
+claim
+component integration test
+stream
+division of standards
+attribute
+tag slide
+diagram feature reference
+overlay
+workload model
+topic
+abort
+ERA
+dynamic relocation
+location facility
+priority interrupt
+schedule model
+base address
+monitoring
+microprogrammable  computer
+to-compete-performance index
+inheritance
+project management team
+critical information
+estimate activity durations
+write
+relative  loader
+selective trace
+loop body
+risk reduction
+user-identifiable
+SPLCM
+bathtub  curve
+parameter
+box detail reference
+reference user requirement collection
+derived data
+service provider
+product
+engineering interface reference management domain
+application manager
+slush
+path analysis
+REST
+logic programming language
+immediate  control
+SEE service
+modular  decomposition
+zFolder
+ODP system
+key-style view
+table heading
+data
+annotation
+estimate activity resources
+go to
+functional domain categorization
+imperative  construct
+mandatory subgroup
+keyword driven testing
+critical design review
+design  document
+sandbox
+project scope statement
+task-clustering criteria
+<x> interceptor
+representation
+SCM
+requirements traceability tool
+timesharing
+control account
+CORBA
+video display terminal
+detailed design
+design entity
+object  module
+control  statement
+marking (of a net)
+primitive
+software support
+entry (-type)
+computerize
+quality control
+LIP
+low level
+synchronous message communication
+system safety
+pointer
+repeatability (of results of measurements)
+blocked
+requirements management (RM)
+procurement documents
+powertype
+retrospective trace
+monitor
+formal parameter
+exploratory testing
+FPA tables EIF
+platform
+window
+playback
+conceptual model
+optional task
+interface design document
+policy
+RM
+configuration control
+metadata model
+LS
+installed function point count
+data movement (-type)
+halt
+development project function point count
+network planning
+problem  state
+inherited attribute
+external output
+V&V
+deassembler
+asynchronous message communication
+version control
+control task
+application area
+ADT
+order clash
+execute
+workload
+measurement sponsor
+design unit
+virtual address
+vertical microinstruction
+redundancy
+interface requirement
+change set
+licensing standard
+quality  assurance  (QA)
+domain
+software acquisition process
+bit steering
+relative  address
+system profile
+software safety
+corrective  maintenance
+conventions
+binding endpoint identifier
+outgoing synchronization
+web site
+sponsor
+high-order language
+project manager
+hacker
+subtype
+RTM
+subordinate web site
+multiprogramming
+return on investment
+project snapshot
+repetitive addressing
+arrow role
+mean execution time
+metamodel
+acceptance test
+interval scale
+common  coupling
+computer  security
+subclass cluster
+RFQ
+RFP
+embedded software
+access facility
+security domain
+diagnostic
+embedded  software
+organization level
+total float
+byte
+parallel run operation
+path convergence
+training
+language
+external interface requirement
+syntactic error
+authoring language
+develop project charter
+transition
+programming
+forecast
+develop project team
+boundary  value
+risk metric
+project human resource management
+promotion
+tier  chart
+changeover system
+PR&RPI
+low-level design
+origin
+calling box
+passive I/O device interface task
+application boundary
+enumeration type
+computer  software  component  (CSC)
+software configuration management
+mutually exclusive clustering
+software  configuration  management
+management review
+extendability
+project management information system
+ISO
+menu  by-pass
+hard failure
+program status word
+high-level net
+image processing
+deleted source statement
+test  data  generator
+real address
+progressive elaboration
+monadic selective construct
+operable
+workaround
+boundary value
+machine-dependent
+triple constraint
+dyadic selective construct
+lifecycle
+SEE
+realization
+page  turning
+friend
+logical  cohesion
+CLM
+project scope
+remote  batch  entry
+SLOC
+PDR
+big-bang  testing
+padding
+independent entity
+PDM
+PDL
+software-based system
+pragma
+systematic reuse
+copy
+message
+semantics
+table of contents
+architectural design phase
+first normal form
+entry field
+risk state
+bottom-up design
+object-oriented design
+QME
+straight-line  coding
+ancestor (of a class)
+occupational  title  standard
+static analysis
+simultaneous recursion
+protected
+FP-EPA
+immediate data
+security testing
+test  description
+bit  steering
+DN
+DL
+first input routine
+generality
+ODP-RM
+DB
+argument
+generalization
+scorecard
+structural testing
+installation ease GSC
+execution  trace
+automated  verification  system
+knowledge base
+working space
+FPA tables ILF
+nondeveloped source statement
+conversion
+job function
+equivalent  faults
+reentry point
+activity type
+anticipatory buffering
+value engineering
+request token
+note
+ENCODING.1
+online
+objective
+performance
+channel
+time class
+acquisition strategy
+fault isolation
+notice of revision (NOR)
+trace
+buffer
+assessment team
+spiral model
+information system
+input arrow
+no-operation
+trade study
+quality in use (measure)
+portable computer
+evaluator
+specific symbol
+pager
+icon
+pseudo  instruction
+test procedure specification
+evaluation sponsor
+representation property
+continuous forms
+modular decomposition
+Delphi technique
+arc annotation
+measurement process
+SCIM
+metrics framework
+remote  job  entry  (RJE)
+symbolic  trace
+failure mode
+run  stream
+certification
+TQM
+synchronous
+symbolic  execution
+project control
+time slicing
+version  description  document  (VDD)
+input primitive
+design  description
+4GL
+crashing
+A4, A5
+control  flow  diagram
+production  library
+Nassi-Shneiderman  chart
+specification   relationships to one another
+estimate costs
+analyst
+enhancement project function point count
+hierarchy
+snapshot dump
+remote terminal emulator
+requirements flow-down
+invocation
+manufacturing phase
+search path
+change  control  board
+ancestral diagram
+project team directory
+viewpoint
+system effectiveness
+personal computer
+notation  standard
+test plan
+risk analysis
+software  development  folder
+change project function point count
+process performance
+invitation for bid
+child box
+existence dependency
+pathological coupling
+resource
+technical  management
+capability indicator
+loop  invariant
+online documentation
+data structure-centered design
+transition mode
+time  slicing
+immediate  data
+optional requirement
+product configuration identification
+iterative  construct
+required inputs
+retirement
+performance GSC
+link validity
+abstract data type
+kernel
+program listing
+meta-attribute
+rich hover
+child diagram
+change authority
+metacompiler
+EMV
+mapping completeness
+inline code
+test phase
+Representational State Transfer (REST)
+objref
+data set definition
+CDIF transfer syntax and encoding
+attributed relationship
+loop  assertion
+review
+minimum  delay  programming
+demonstrative product
+inverse engineering
+label
+place type
+if-then-else
+generalization taxonomy
+modification request
+change control procedure
+managed network
+call by name
+feature reference
+storage allocation
+multilevel  storage
+deliver
+notice of revision
+stabilization phase
+think time
+FPA table
+OMT
+ROI
+complexity attribute
+figurative constant
+test  criteria
+systematic failure
+project agreement
+configuration identification
+node tree
+functional cohesion
+domain model
+critical path methodology
+evaluation requester
+contract
+design fault
+nondevelopmental
+transaction transparency
+system table
+arity
+specification language
+intermittent fault
+ILF
+dynamic  buffering
+software requirements analysis
+maintainer
+timely throughput
+test case execution record
+method standard
+robotics
+FSM
+zComponent project
+satisfaction
+change dump
+maintained
+mutable class
+A-profile
+3GL
+simple  buffering
+collection class
+endeavor
+adoption process
+idle time
+System for Cross-domain Identity Management (SCIM)
+lessons learned knowledge base
+CASE
+product family
+reachability set
+development  specification
+application function point count
+dynamic analysis
+change request
+closed subroutine
+threshold
+housekeeping  operation
+integrated repository
+third normal form
+man-machine  interface  (MMI)
+absolute instruction
+computer  program
+direct metric
+nondestructive  read
+stable process
+list function
+mechanicals
+emulation
+dynamic error
+external
+declaration
+encapsulation
+functional  baseline
+virtual  memory
+unique function
+call  by  reference
+local change
+case
+enumeration  type
+tinderbox
+design  entity
+end-user efficiency GSC
+engineering
+error model
+plan risk management
+compile
+cast
+installation  manual
+formal requirements language
+n-level address
+called diagram
+technical performance measurement
+tunneling
+2GL
+architectural structure
+cross-reference list
+workspace flow target
+use case model
+functional baseline
+query  language
+added source statements
+metric
+descendent box
+product baseline
+diagram page
+cluster
+T-DUA
+global attribute
+DIT
+signpost
+project health
+SWOT
+binary digit (bit)
+cost management plan
+diagram number
+source statements
+program management
+product description
+integration test
+ODBC
+software reliability
+address modification
+model name
+schedule compression
+shell
+document
+natural  language
+level of performance
+root cause analysis
+critical activity
+exit criteria
+menu by-pass
+control arrow
+local SAM owner
+assist
+driver
+IT
+threat modeling
+software quality metric
+director
+quality  control  (QC)
+interconnection feature
+information viewpoint
+class-level operation
+SDP
+SPLCP
+SDR
+macro
+measurable concept
+vertical  microinstruction
+test  case
+sustainment
+metrics sample
+impact analysis
+computer  language
+E-R diagram
+model
+provisional assessor
+private type
+postamble  breakpoint
+COQ
+object model
+assembly language
+performance testing
+modifiable
+network logic
+data protection
+postcondition
+assignment  statement
+BOM
+invariant schema
+internationalization
+CDIF meta-metamodel
+process owner
+port-to-port  time
+assessment input
+input arc (of a transition)
+change management
+announcement
+command-driven
+composite key
+application
+software specification review
+influence diagram
+dynamic  resource  allocation
+Boolean expression
+instrument
+dependency build
+resource definition
+program librarian
+interpretive code
+verso
+design methodology
+system development cycle
+product engineering
+kernel entity
+event sequence diagram
+time and material (T&M) contract
+original source statement
+root  compiler
+read
+residual  control
+reusable product
+digital
+support staff-hour
+repo master
+requirements document
+performing organization
+scheduler
+GOTS
+commit window
+control data
+chief  programmer  team
+predictive metric value
+dynamic  relocation
+black box
+compiler  generator
+server
+decision criteria
+interleave
+audience
+1GL
+synchronous message communication without reply
+hostile backout
+computer instruction
+output
+revision
+communications planning
+function
+three-plus-one address instruction
+mechanism arrow
+SEMDM
+picture
+web app
+machine-independent
+relocator
+four-address instruction
+temporal  cohesion
+form, fit, and function
+information retrieval
+software design
+cycle  stealing
+VDD
+discrete data
+table
+dimension mapping table
+measurand
+software quality
+test driver
+prettyprinting
+stream interface signature
+requirements specification
+corporate board or equivalent body
+loopback
+dynamic buffering
+extranet
+exit routine
+iff
+implied addressing
+defect density
+XDC file
+exit
+process purpose
+approved change request
+cluster manager
+evaluation activity
+not printable
+priority  interrupt
+programming language
+risk register
+command
+feature freeze
+transition variables
+quality measure element
+step-by-step  operation
+alpha testing
+indirect instruction
+local data
+object program
+assemble
+hierarchical modeling
+ontology
+risk category
+interactive  compiler
+manufacturer
+consumer software package
+syntax  error
+SYNTAX.1
+package
+CDIF graphical notation
+software diversity
+nonkey attribute
+mock object
+scalar-valued property
+delivery rate
+software development plan
+Scrum
+CDIF semantic metamodel
+product line
+backup
+processor
+computing system tool
+external software quality
+managed web site
+links explorer
+resource leveling
+sequential cohesion
+specification limits
+indirect address
+function point analysis
+annotate
+variable
+Ada
+operator
+task type
+white  box
+entity subtype
+structured walkthrough
+log
+CDIF transfer format
+ODP
+context-sensitive help
+software requirements phase
+COSMIC
+requirements derivation
+requirements elicitation
+convertibility
+test incident report
+communication interface
+Boolean signature
+conciseness
+fault secure
+complete
+addressing exception
+representation standard
+use of IT
+immutable class
+user interface sketch
+destination  address
+unconditional jump
+logical file
+RDA
+multitasking
+execution result
+operational product
+RDN
+project initiation
+change and configuration management (CCM)
+late start date
+simple token
+implied needs
+project life cycle
+multiplicity
+dynamic breakpoint
+integrity assurance authority
+executable source statement
+control  program
+generic practice
+deadlock
+program  library
+CDIF
+data provider
+requirements analysis
+subprogram
+IFPUG
+software  development  notebook
+reliability
+computer resource
+file
+nondelivered source statement
+SPMPI
+loaded origin
+subject system
+entity-relationship   relationships  among  them
+test  case  generator
+front matter
+origin attribute
+personnel
+FSM method
+storage
+multiset cardinality
+cross-reference tool
+staged representation
+expected monetary value (EMV) Analysis
+valid
+slave  state
+abnormal end (abend)
+absolute  assembler
+basic symbol
+define scope
+control chart
+network chart
+deviation
+arrow segment
+active area
+FPA
+repo
+location reference
+symbol
+selective dump
+subroutine trace
+value range constraint
+nucleus
+priority inversion
+input routine
+ICS
+forward recovery
+relationship name
+test level
+ICT
+mechanism loopback
+lateral  compression
+quiescing
+target machine
+application area level
+interpretive  code
+mask
+path testing
+pseudo instruction
+local  data
+fatal error
+protocol object
+directory
+risk acceptance
+waiver
+document set
+semantic error
+virtual storage
+precondition
+meta-relationship
+skeleton
+test  plan
+machine  code
+entity-relationship (E-R) diagram
+function type
+pseudo  operation
+requirement standard
+control flow diagram
+working  space
+generalize
+dot notation
+test class
+disassembler
+disk
+postmortem  dump
+top box
+fault tolerance
+two-level encoding
+conditional jump
+replication schema
+process profile
+subject domain responsibility
+implied  addressing
+documentation plan
+IDEF1X model
+node letter
+program
+ICOM code
+health
+set
+staging stream
+overhead  operation
+configuration item development record
+software  requirements  specification  (SRS)
+test  objective
+CPC
+modeling tool
+code review
+formal   programming languages and mathematical languages
+model page
+supercomputer
+transactional function type
+output sort
+procedural programming language
+direct  insert  subroutine
+GIF
+modified-off-the-shelf
+cross-compiler
+corrective action
+higher-level management
+second normal form
+global data
+software reliability management
+issue
+maintenance project
+list
+arrows connecting inputs to processing steps  and processing steps  to  outputs
+state name
+CDIF family of standards
+data set prefix
+application lifecycle management (ALM)
+curriculum standard
+scope change
+business objective
+CDIF identifier
+test  log
+web application (web app)
+component testing
+SLCP
+information processing system
+microprogram
+configuration management
+source  code
+GUI
+EO
+reactivation
+IXIT
+single-address  instruction
+design
+enhancement
+modified source statement
+pass
+MIPS
+logic  programming  language
+investment
+catastrophic  failure
+material
+perform quantitative analysis
+path  expression
+PLE
+overload
+control  data
+version
+source language
+internal quality
+Administer Procurements
+partial correctness
+QM
+public
+generic program unit
+conditional   unconditional  jump
+mock-up
+software item
+test script
+open distributed processing
+instruction cycle
+documentation development staff
+early-failure  period
+modular
+maintenance personnel
+data  flow  trace
+trunk
+risk trigger
+statement  testing
+data input sheet
+problem state
+functional user requirements
+relocatable  code
+one-ahead  addressing
+RFI
+instance-level responsibility
+configuration management system
+artifact type
+software piracy
+sample instance table
+outgoing link
+emulator
+action
+network open end
+specialize
+multiset
+finish date
+camera-ready originals
+multiaddress  instruction
+technique
+pilot project
+sample instance diagram
+derived measure
+project area
+test  coverage
+configuration status accounting
+higher  order  language
+ordinal scale
+start date
+node number
+project specification
+read-only
+calendar unit
+downward compression
+allocated baseline
+ODP standards
+function point table
+FCA
+root-cause analysis
+automate
+interface role
+ODP IDL
+assessor
+critical value
+Petri net
+LTR
+LTP
+IDEF0 model
+coroutine
+internal task-structuring criteria
+source  code  generator
+problem
+source control
+linking loader
+call  by  location
+operating  system
+CNCS
+LTD
+procedural  cohesion
+finish-to-finish
+timeliness rating value
+text processing
+LTL
+sizing
+model hierarchy
+include
+CPIF
+dynamic  breakpoint
+SS
+online data entry GSC
+egoless programming
+SV
+task submission
+whitespace
+static schema
+preliminary design
+system documentation
+derived requirement
+SF
+error prediction
+preliminary design review
+prompt
+pathological  coupling
+table-driven method
+IBD
+entry criteria
+derived property
+ELSE-rule
+coerce
+operating environment (software)
+software release management
+fault masking
+FQR
+fact build
+action stub
+interactive language
+CAD
+information
+multilevel  address
+software project
+recursive
+modular programming
+work performance information
+project/application attribute
+software test environment
+closed  subroutine
+SSO
+domain architecture
+atomic  type
+relocation transparency
+influencer
+snapshot  dump
+baseline staging stream
+transformation  analysis
+simplicity
+termination  construct
+unit test
+variant
+mapping
+domain analysis
+connectivity
+operation  exception
+indigenous error
+statistically managed process
+passive white space
+information item
+communications domain
+performed process
+CWBS
+security branch
+test  driver
+random failure
+footer
+software hazard
+documentation
+error  seeding
+differential  dump
+state  transition  diagram
+UDF
+software  specification  review  (SSR)
+programming system
+execution  time
+dynamic binding
+system  resources  chart
+process improvement project
+committer
+traceability
+MIM
+CIM
+historical information
+taxonomy
+operation  and  maintenance  phase
+transactional functions
+periodic I/O device interface task
+traceability  matrix
+change control
+measurement user
+back matter
+performance reports
+object  program
+MIS
+key migration
+process dimension
+code of accounts
+developer
+shadow class
+style
+safety-critical software
+evaluation
+two-level address
+ground rules
+call  by  name
+encoding
+system interface task
+basis set
+static error
+control costs
+user interface
+program network chart
+software  feature
+defect report
+release
+cluster checkpoint
+report template
+control  flow  trace
+code generator
+T&M
+page breakage
+well-formed requirement
+return
+risk breakdown structure
+absolute  address
+RUR
+gadget
+measurement process owner
+software  quality  assurance
+design standard
+framework
+parse
+standard process
+data communication
+composite task
+milestone
+near-critical activity
+supporting data item
+assumptions
+software header
+association
+value list constraint
+initial  program  loader
+process assessment model
+transaction  matrix
+beta testing
+design architecture
+capability
+baseline management
+token
+fourth  generation  language  (4GL)
+iteration velocity
+associative literal
+dimension table
+subnetwork
+cost performance baseline
+master  library
+errata
+trailer
+I/O task-structuring criteria
+subsystem
+work authorization system
+rating
+value adjustment factor
+generation
+conversion functionality
+system library
+baseline document
+numeric
+reused source statement
+system  software
+level of effort
+measurement
+accuracy of measurement
+operation
+HDL
+event
+software design notation
+organizational process assets
+mark-up
+demonstration
+duration (DU or DUR)
+item
+foreground  processing
+presentable
+discrete effort
+MTR
+safety
+link index provider (LIP)
+BMT
+computer resource allocation
+net graph
+offline
+product scope
+meta-entity
+optional nonidentifying relationship
+foreground
+demand paging
+IRS
+EI
+bidirectional traceability
+localization
+timeline
+EF
+mean time between failures
+mutation  testing
+constant-failure period
+junction
+application generator
+reentry  point
+cookie
+global configuration management (GCM)
+ask
+active white space
+toolkit
+EV
+EQ
+dimension data
+ES
+system definitions
+allocation
+import process
+parent entity
+service
+intermediate software product needs
+memory capacity
+inspection
+modularity
+TCS
+object module
+scope of the FSM
+threat
+system requirements specification
+consequence
+disclaimer
+rapid prototyping
+compiler  code
+business rule
+cost variance
+machine language
+probability
+functional  cohesion
+limited entry table
+forms design sheet
+one-plus-one  address  instruction
+quality management plan
+design analyzer
+JCL
+function point
+high  level  language
+DIB
+static  breakpoint
+adaptation data
+stage
+composite type
+story
+utilization
+test item
+non-terminal symbol
+text  editor
+single  machine   microinstruction
+system model
+Monte Carlo simulation
+reentrant
+checkpoint
+regulation
+initiating processes
+software  development  file  (SDF)
+statement
+architecting
+n-address instruction
+test  procedure  specification
+maintenance program
+boundary ICOM code
+organizational policy
+store
+qualitative risk analysis
+transform-centered  design
+relationship
+requirements review
+VSCID
+boundary arrow
+counting rule
+user requirements
+allocated configuration identification
+target capability
+software safety program
+memory  compaction
+Cfsu
+usability laboratory
+jump
+peer review
+flowcharting
+software  development  plan  (SDP)
+simultaneous  recursion
+cardinality constraint
+burn-in  period
+target  language
+hardware design language
+identity-style view
+office automation
+system stakeholder
+maintainability
+requirements  specification   language
+CSCI
+busy  time
+interactive
+dynamic model
+cost performance index
+metric validation
+WBS
+BFC class
+compile-and-go
+embedded computer system
+diagonal microinstruction
+incremental compiler
+budget at completion
+defect
+microprogrammable computer
+decomposition
+SDD
+functional architecture
+coincidental cohesion
+persistence transparency
+control  variable
+work activity
+multiple  exclusive  selective  construct
+completion time theorem
+static binding
+owner of the FSM method
+software package
+permanence
+F-profile
+element type
+path  testing
+event trace
+RPC
+software transition
+prestore
+algorithmic language
+program mutation
+independent  verification  and  validation  (IV&V)
+product specification
+authoring system
+total quality management
+development  life  cycle
+service level agreement
+product analysis
+RBS
+map program
+project risk management
+test  readiness  review  (TRR)
+box ICOM code
+MFLOPS
+functional product
+measurement librarian
+checkpointing
+preventive action
+language standard
+base artifact
+implementable standard
+clear
+design  inspection
+data flow diagram
+interoperability testing
+inherited error
+outer cardinality
+master library
+algebraic language
+level of abstraction
+computer-aided software  engineering  (CASE)
+user documentation
+secondary window
+software  life  cycle
+interface repository
+trade secret
+risk leverage factor
+project cost management
+control flow
+acceptability
+entity
+transaction-centered  design
+dimension build
+assessment participant
+throughput reference value
+data information
+communication management plan
+copyright
+assertion
+supplementary run
+object-oriented  language
+multiple  inclusive  selective  construct
+sequential
+abend
+override
+process capability level
+real  storage
+system testing
+seller
+performance  specification
+level 1 initiation routine
+enhancement project
+BI
+embedded  computer  system
+protection exception
+institutionalization
+triggering event
+human resource plan
+termination submit
+information item content
+model glossary
+restart
+compiler
+N 2 diagram
+computerization
+item of documentation
+overlay supervisor
+keyword
+flowcharter
+service primitive
+data driven testing
+specification  change  notice  (SCN)
+dynamic invocation
+busy time
+incremental development
+common
+call list
+activity
+self-documented
+plan standard
+strong typing
+software engineering environment
+project management plan
+early start date
+foreground processing
+dump
+one-level  address
+load rule
+en dash
+logical source statement
+no-op
+system design review (SDR)
+data processing system
+arc
+master  state
+migration
+parameterized high-level net graph
+project charter
+generated address
+parameterized collection class
+non-primary entity
+analog
+synchronization engine
+perform qualitative analysis
+information content
+formal testing
+process tailoring
+test repeatability
+CDIF transfer
+maintenance enhancement
+instructional mode
+TCP
+remote job entry
+architect
+quality factor value
+mean execution time rating value
+independent state class
+information processing requirements
+problem-oriented  language
+COTS
+operational data store
+Java Database Connectivity (JDBC)
+assembled origin
+FFP
+procedural language
+object of interest (-type)
+incident
+asynchronous I/O device
+intrinsic relationship
+competent
+object  language
+sequential  cohesion
+activity duration
+estimate to complete
+risk transfer
+prescription
+downward  compression
+license
+instruction modifier
+relationship type
+transform analysis
+abstract class
+auto-resolve conflict
+common  area
+external measure
+context
+defect repair
+on-line  compiler
+team selection plan
+check in
+load
+linked data
+data-structure-oriented design
+archival pages
+compiler  compiler
+point
+single-operand  instruction
+community
+input assertion
+header
+body metadata
+plan procurement
+assessed capability
+event sequence analysis
+horizontal  microinstruction
+job  function
+roll in
+engineering change
+operator  field
+plan communications
+problem-oriented language
+strategy
+footnote
+box diagram
+microprogrammed computer
+maintenance
+system analysis
+real-world object
+layout chart
+NDI
+product standard
+multi-component system
+support  software
+generic  program  unit
+organizational breakdown structure
+special cause
+software requirements verification
+subject tool
+data bank
+precision
+computer program abstract
+gap
+cost-reimbursable contract
+maintenance plan
+viewpoint statement
+prototype
+chief programmer team
+logical type
+new source statements
+dimension mapping category
+quality metric
+nanostore
+comparator
+measuring instrument
+software product
+TCS-W
+budget
+resource breakdown structure
+measurement analyst
+control clustering
+mainframe
+path  analysis
+behavior
+error
+active interconnection
+formal  parameter
+previously developed software
+loop
+trend analysis
+control  coupling
+abstract  data  type
+software  development  cycle
+RDF URI
+calculator
+deblock
+risk handling
+HLPN
+candidate FSM method
+life cycle model
+simulator
+software testing
+nano code
+security authority
+PMP®
+timer event
+human-machine  interface  (HMI)
+baseline
+performance indicator
+squiggle
+precedence diagramming method
+data warehouse
+waterfall model
+unspecialize
+memory compaction
+call  by  value
+assessment scope
+TCS-C
+go  to
+syntactic  error
+external inquiry
+object reference
+development
+operation and maintenance phase
+performance analysis
+acceptance testing
+assignment
+description  standard
+optional subgroup
+evaluation checklist
+synchronous request
+multiple inheritance
+user
+functional analysis
+domain expert
+personal stream
+determine budget
+content coupling
+I/O
+summary activity
+task
+path condition
+OSLC
+database
+technical review
+analysis
+project schedule network diagram
+deliverable
+migration transparency
+system architecture
+consistency
+management process
+organization
+object set
+local variable
+test  repeatability
+control Information
+relocation dictionary
+primitive  type
+operation code
+repeatability
+CCS
+top-down design
+CCM
+collection-valued
+viewpoint (on a system)
+operation  part
+test unit
+implementation requirement
+software  diversity
+variance analysis
+network
+CCB
+project risk profile
+responsibility assignment matrix
+dyadic  selective  construct
+line of code
+updatable argument
+detailed  design
+initialize
+integrity level
+hierarchically consecutive
+computer-based software system
+starting address
+address  modification
+status code
+soft  failure
+project release plan
+quantitative risk analysis
+sensitivity analysis
+input  assertion
+input
+trace link
+TC
+referential integrity
+build
+dependability
+macrogenerator
+software library
+extended entry table
+transaction analysis
+postprocessor
+project scope management
+aggregation
+active text
+private
+microprogrammed  computer
+bit
+enhancement request
+physical metadata layer
+reusability
+effectiveness
+core  dump
+job control language
+one-address instruction
+signal
+entity  attribute
+macroprocessor
+control point
+single-valued property
+validated metric
+clabject
+glossary page
+communicational  cohesion
+emulated user
+work item
+local  variable
+total correctness
+fail soft
+procedural cohesion
+decompile
+reparent
+FiSMA
+configuration specification (config spec)
+pseudo  code  (pseudocode)
+storage  allocation
+workspace snapshot
+allocated  baseline
+prototyping
+common cause
+input loopback
+epilog  breakpoint
+sprint
+egoless  programming
+SME
+many-sorted algebra
+minimap
+scale
+entity instance
+job step
+matrix organization
+transformation model
+integration
+formal specification
+crisis
+self-relative address
+user  manual
+big-bang testing
+epic
+object
+run
+mixed  type
+subject area
+close project or phase
+appraisal team leader
+data characteristic
+test design
+deliverables
+step
+requirement  standard
+aperiodic task
+generic ancestor (of a class)
+internal event
+resource group
+readability
+alternate key
+high-level design
+design  phase
+SPARQL
+instruction length
+commercial-off-the-shelf
+passive I/O device
+qualification requirement
+provision
+data model
+error message
+attribute for quality measure
+risk dimension
+computer-aided design
+retainage
+dialog
+lightweight process
+SEE service acquirer
+closing processes
+block
+measurement standard
+repair
+loop-control variable
+digraph
+reference expression
+operational
+state class
+destination address
+common storage
+modifiability
+KOPS
+requirements  phase
+closed loop
+logical record
+software design audit
+work authorization
+computer
+configuration management (CM)
+late finish date
+change record
+request for change
+technical complexity adjustment
+parametric estimating
+directed  graph
+functional testing
+configuration item
+manufacture
+lessons learned
+relocation  dictionary
+syntactic agreement
+calling sequence
+HLPNS
+complexity matrix
+serial construct
+system follow-up
+proof of correctness
+diverse  redundancy
+concurrent task architecture
+verification and validation (V&V) effort
+online update GSC
+link
+one-plus-one address instruction
+probability and impact matrix
+role
+HLPNG
+four-plus-one  address  instruction
+magic number
+partitioning
+base measure
+resource calendar
+characteristic
+absolute  code
+up
+emergency maintenance
+server-side
+source  language
+indicative function point count
+request for information
+verification
+software  development   library
+complex processing GSC
+functional design
+requirements partitioning
+Object Management Group
+N-ary relationship
+risk tolerance
+supervisor
+endnotes
+procedural  language
+flow
+parser
+accessibility
+configuration control board
+quality factor sample
+requirements  review
+control scope
+warning
+developmental  baseline
+IPSE
+global  compaction
+conduct procurements
+root cause
+computer  program  abstract
+expert judgment
+natural key
+data breakpoint
+CDIF clear text encoding
+TR
+firm-fixed-price (FFP) Contract
+TP
+two-address instruction
+background processing
+risk action request
+homogeneous redundancy
+functionality
+project area configuration
+proposal
+system maintenance
+straight-line  code
+computer  resource  allocation
+test case specification
+page table
+voice of the customer
+crisis management
+menu-driven
+design phase
+carrier
+continuous risk management
+HDTV
+security policy
+project plan
+server friend
+task inversion
+data coupling
+system development
+double-operand  instruction
+architectural design
+bug  seeding
+total degree of influence
+algorithm
+process group
+accept
+walk-through
+integrated team
+clear text file encoding
+application administration function
+relocating assembler
+transaction rate GSC
+zFile
+required outputs
+Government-off-the-Shelf
+nonprocedural programming language
+code
+partial
+CPM
+process management
+adoption item
+logical trace
+CPF
+prolog breakpoint
+IIOP-IOR
+third  generation  language  (3GL)
+program specification
+DFD
+functionality testing
+symbolic execution
+human resource planning
+service import
+OSI
+target  program
+incoming change set
+LITSR
+wizard
+menu structure
+data date
+factoring
+restart point
+global  variable
+function name
+quality assurance
+stability schema
+operational  testing
+process capability
+back-to-back  testing
+residual control
+software quality in use
+audience research
+schedule performance index
+cost-plus-fixed-fee (CPFF) contract
+spool
+relative address
+conditional  branch
+functional language
+S-curve
+virtual  address
+decision tree analysis
+multiple sites GSC
+performance specification
+resource histogram
+hard copy
+stress  testing
+CDIF metaidentifier
+team release plan
+object-oriented language
+navigational aids
+page zero
+verification test
+process improvement sponsor
+generalization structure
+regression test
+language  processor
+single-level  encoding
+technical contact
+design constraint
+op  code  (opcode)
+software design concept
+successful adoption
+scrum
+diagram reference
+compiler generator
+user view
+evaluation records
+multi-valued property
+process architecture
+alphanumeric
+approved modification
+interrupt  latency
+zComponent
+download
+atomic type
+business process sketch
+signal interface
+partial  correctness
+certification property
+product scope description
+RM-ODP
+Grosch's law
+recommendation
+fixed-price-incentive-fee (FPIF) contract
+practices
+access
+quality attribute
+microprocessor
+parent box
+relocate
+immediate  instruction
+backward  execution
+stratified  language
+FTR
+programmer  manual
+reproducibility (of results of measurements)
+indicator
+content assist
+classification process
+trade-off
+engineering change proposal
+collection-valued property
+unpack
+computational object template
+chief  programmer
+address space
+roll out
+write (-type)
+submit primitive
+box number
+data communications GSC
+device interface task
+idle standby
+absolute  loader
+ALS
+test  specification
+software repository
+software  requirements  review  (SRR)
+single-step operation
+report performance
+logical cohesion
+static  analysis
+relation
+absolute address
+control
+external quality
+FS
+Ver
+software development library
+context-aware search
+support activity group
+common  block
+SCCS
+project level
+user type
+direct metric value
+FF
+code  inspection
+system entity
+straight-line code
+ACID
+microinstruction
+pass/fail criteria
+nest
+instantiation
+TRR
+computer network
+output  assertion
+performance  testing
+indicator value
+certification process
+qualification  testing
+applicability to a functional domain
+load map
+degree of confidence
+feature branch
+mutation testing
+application-oriented language
+epilog breakpoint
+sort
+initial  program  load
+pseudocode
+task mode
+data functions
+main procedure
+indirect  instruction
+benchmark
+mandatory nonidentifying relationship
+visibility
+chief programmer
+memory  dump
+backup  programmer
+software system
+logical layout
+verification and validation
+subroutine  trace
+project management
+customer
+escaped
+conversational  compiler
+interface requirements specification
+input-process-output  (IPO)  chart
+portability
+SCMPI
+specific  address
+object code
+testability
+completed change set
+nondestructive read
+output assertion
+n -level address
+quality factor
+agile software development
+symbol table
+fetch
+monitoring and controlling processes
+load-and-go
+host machine
+system  development  cycle
+requirements traceability matrix
+test coverage
+process
+lock
+timing diagram
+set-up  time
+optional attribute
+output place (of a transition)
+spreadsheet program
+tag
+computer software component
+establish and maintain
+serial
+leaf diagram
+process context
+information  hiding
+implementation phase
+namespace
+computer resources
+deliver primitive
+test  phase
+quality  attribute
+responsibility
+hazard identification
+computer  resources
+verify scope
+variable trace
+application  generator
+profile
+Grosch’s  law
+formal review
+infant mortality
+associative entity type
+project time management
+rapid  prototyping
+documentation tree
+procedure-oriented  language
+hazard
+execution time
+functional manager
+technology viewpoint
+product  standard
+rating interval
+discard
+system life cycle
+microoperation
+chart of accounts
+technical  standard
+design element
+interconnection
+cyclic search
+effective  instruction
+test item transmittal report
+synchronous message communication with reply
+data  flow  graph
+quality  factor
+generally accepted
+counter
+risk profile
+element
+source control management (SCM)
+level 1 record group
+cost-plus-incentive-fee (CPIF) contract
+test case (TC)
+system support
+indexed  address
+computer  performance  evaluation
+zero-address instruction
+move
+computer performance evaluation
+backward recovery
+procurement management plan
+high-level Petri Net graph
+termination deliver
+user manual
+value map
+interpreter
+milestone schedule
+leading decision
+manage stakeholder expectations
+data attribute
+use case
+time-critical task
+SMIR
+RAM
+mixed entry table
+output argument
+customer requirement
+bubble chart
+total
+managed process
+conformance
+pixel
+BFC
+SPQM-RM
+user terminal
+behavior specification
+crash
+developed source statement
+child entity
+software quality characteristic
+error seeding
+mean execution time reference value
+documenter
+FMEA
+CDIF exporter
+resolve
+initiating event
+CPCI
+work breakdown structure component
+contract management plan
+test  documentation
+transition condition
+monitor and control project work
+relational data
+white-box  testing
+direct instruction
+log on
+process reference model
+second  generation  language  (2GL)
+edit
+test harness
+retirement phase
+direct measure
+generic entity
+main program
+detailed design review
+merge
+transactional function
+trap
+fail safe
+dynamic  binding
+surrogate key
+identifier
+unwind
+complete table
+FUR
+OCL
+electronic copy
+overriding property
+configuration  control
+transient  error
+meta-meta-attribute
+static
+turnkey
+IFB
+measure
+language  standard
+mitigating function
+meta-object
+strengths, weaknesses, opportunities, and threats (SWOT) analysis
+category
+critical section
+absolute assembler
+sequence activities
+interconnection group
+ORB core
+test approach
+housekeeping operation
+stub
+active redundancy
+interface specification
+global variable
+response time
+build engine
+real time
+monadic  selective  construct
+stratified language
+finish-to-start
+assessment output
+workflow
+recoverability
+data inventory
+CSF
+CSC
+field of application (of a specification)
+software-intensive system
+timing analyzer
+integrated circuit
+data type
+test estimation
+risk criteria
+data flow diagram (DFD)
+named constant
+interaction group
+development plan
+PIGS
+table of effective pages
+qualification
+Gantt chart
+schedule variance
+temporal clustering
+view diagram
+load module
+straight-line coding
+reflexive
+glass box
+echo
+OAuth
+forward pass
+measure of performance
+synthetic  address
+owner
+AE(I)
+reading reference
+quality
+rule-based language
+code  generator
+management
+concept phase
+stable branch
+privileged instruction
+cross-reference generator
+system
+binding object
+activity attributes
+priority
+software project life cycle model
+text editor
+Unified Modeling Language
+definitive master version
+continuous iteration
+ASO
+computer  word
+information product
+description standard
+incremental  development
+language processor
+incipient  failure
+open subroutine
+statistical process control
+residual risk
+resource-limited schedule
+ACWP
+deactivation
+problem domain
+application frameworks
+cost of quality
+backward pass
+activation constraint
+unbundle
+node index
+immediate  address
+conditional information
+stream interface
+project communications management
+subroutine
+hierarchical  modeling
+assessment instrument
+test  script
+thrashing
+software design verification
+evaluation tool
+system  design  review  (SDR)
+work package
+measure of effectiveness
+programmable terminal
+bind
+test  unit
+Simple Cloud Identity Management
+overlay  supervisor
+result
+relative chain frequency
+system breakdown structure
+software development cycle
+certification artifact
+local  compaction
+external event
+linker
+loop assertion
+project management office
+fail
+mean time to repair
+static model
+report  standard
+mutual exclusion
+command  language
+unit of measurement
+planned process
+Project Management Body of Knowledge
+instrumentation
+mandatory
+module data
+develop schedule
+global  data
+purpose statement
+three-point estimate
+information hiding
+incremental productivity
+program maintenance manual
+assessment record
+instance
+defined process
+product measures
+source  program
+data medium
+allocated requirement
+installation  and  checkout  phase
+domain definition
+accuracy
+relocatable  address
+criteria
+marketing organization
+assessment sponsor
+bill of materials
+BAC
+record element type
+test design specification
+process assessment
+test bed
+process area
+process action plan
+LQE
+device
+unadjusted function point count
+software tag
+segment
+class
+time  out
+delivery
+software engineering
+loopback  testing
+request
+failure transparency
+contractual requirement
+n -address  instruction
+functional unit
+common  storage
+construction
+snapshot
+nonfunctional requirement
+n -plus-one  address  instruction
+relocatable code
+occupational title standard
+identifier dependency
+repetitive  addressing
+degree of influence
+computer language
+structured  programming  language
+violation
+text
+attributive entity type
+product metric
+direct and manage project execution
+fact table
+pattern-sensitive  fault
+static  dump
+frozen branch
+product life cycle
+functional decomposition
+project procurement management
+lifecycle tool
+principal
+component
+target  machine
+SPLC
+organization chart
+access routine
+knowledge
+substitutability
+functional  decomposition
+structure clash
+terminal
+n-plus-one address instruction
+instruction set
+request for quotation
+memory dump
+preparation time
+system requirements review
+life cycle cost
+aggregate responsibility
+interface  control
+content link
+vendor branch
+peripheral equipment
+multiaddress instruction
+garbage  collection
+interoperability
+effective full license
+reference FSM method
+consecutive
+timing
+migrated attribute
+application engineering
+internal measure
+hardware  design  language  (HDL)
+object-oriented  design
+transfer file
+measurement experience base
+project schedule
+relationship instance
+subclass responsibility
+binary digit
+security kernel
+postmortem dump
+concurrent enabling (of transition modes)
+unit test framework
+widow
+incomplete process
+requirement
+task interface
+metalanguage
+software maintenance
+robustness
+process attribute rating
+orphan
+configuration index
+module
+notebook computer
+business intelligence (BI)
+efferent
+hardware configuration item
+FDT
+reconcile
+separate documentation
+character type
+execution trace
+target of process
+acquirer
+target language
+PV
+project resource constraint
+testing task iteration
+existence constraint
+unit requirements documentation
+information management
+organizational maturity
+state
+proof
+routine
+invariant
+boundary
+PN
+PM
+performance requirement
+source code
+reversible  execution
+central processing unit
+requirements phase
+distributed data processing GSC
+ancestral box
+initial marking (of the net)
+control statement
+time-scaled schedule network diagram
+automated verification system
+job
+internal software quality
+common-environment  coupling
+time out
+local area network
+approval
+configuration
+optional
+underlying license
+capital expenditure
+modular  programming
+goal
+macroprogramming
+configuration baseline
+nonprocedural  language
+functional  design
+OPA
+agent
+data store
+exclusive requirement
+acquire project team
+continuous  iteration
+data  exception
+microcomputer
+collect requirements
+comment
+master schedule
+lifecycle application
+life cycle processes
+configuration  status  accounting
+sign-on
+SEE service supplier
+code churn
+OSF
+representation  standard
+basic flow
+interface
+UML
+abnormal  end  (abend)
+repo surgery
+test set architecture
+software integrity level
+total  correctness
+actual duration
+competent assessor
+selective  dump
+suspicion profile
+trademark
+design description
+licensing  standard
+design  standard
+literal
+decomposition diagram
+test procedure
+semaphore
+compatibility
+war room
+anomaly
+unstratified language
+tunneled arrow
+logical relationship
+allocated  configuration   identification
+system-of-interest
+system  model
+program  design   (PDL)
+operator  manual
+listing
+resource monitor task
+product  engineering
+test environment
+plan  standard
+error  prediction
+address format
+instruction format
+loop-control  variable
+symbol  table
+task behavior specification
+the  operand
+IEC
+OBS
+reliability  growth
+component  testing
+code of ethics standard
+organizational unit
+respecialize
+call reference
+glossary
+value
+measurement function
+CD
+PSCI
+program  flowchart  (flow  chart)
+CDR
+deployment plan
+activity identifier
+asynchronous
+address  field
+data  trace
+specific  code
+layer
+uncertainty
+GIOP
+replication transparency
+project planning
+three-address instruction
+control coupling
+hardware
+product line engineering (PLE)
+product requirement
+risk management plan
+optional category
+communicational cohesion
+design  review
+desk checking
+page  breakage
+general system characteristics
+MTP
+software requirements review
+formal  testing
+fifth-generation language
+data definition
+performance  requirement
+computer-aided
+data  structure
+mixed  mode
+anticipatory  buffering
+SOW
+Apache Ant
+persistence schema
+party
+bootstrap loader
+privileged  instruction
+conformity evaluation report
+simulation
+arrow meaning
+practice
+rolling wave planning
+software project life cycle process
+quality management
+communicational  cohesion;   temporal  cohesion
+micro code assembler
+automation
+assessment indicator
+nanocode
+hierarchical  input-process-output  (HIPO)
+Intranet
+reserved  word
+working  set
+meta-meta-relationship
+identity
+application software
+audit
+software user documentation
+component standard
+transaction
+risk avoidance
+computational viewpoint
+use case diagram
+direct staff-hour
+configuration context
+PSW
+computer  program  component  (CPC)
+system  profile
+microcode assembler
+system hazard
+interrupt  service  routine
+user-friendly
+close procurements
+data element
+scope baseline
+transaction schema
+derived type
+artificial  language
+Open Database Connectivity (ODBC)
+timeliness function
+scalar-valued class
+risk mitigation
+reachability graph
+indexed address
+star schema
+critical  design  review  (CDR)
+partial cluster
+transaction  analysis
+information item type
+interrupt  request
+requirements allocation
+sequential clustering
+functional size measurement
+module  strength
+data  breakpoint
+single-step  operation
+programming support environment
+software development file
+real storage
+downward  compatible
+subject domain
+Collaborative Lifecycle Management (CLM)
+trailing decision
+start-to-finish
+assessment purpose
+estimated function point count
+data structure
+process action team
+program design language
+architectural  design
+path expression
+criticality
+computer generation
+supervisory  program
+expected result
+term
+interrogation
+storyboard
+quantity (base)
+integer type
+deployment
+process  management
+test report
+software requirements engineering
+name
+symbolic  language
+standby  redundancy
+storage efficiency
+minicomputer
+software  engineering  environment
+baseline  management
+domain engineer
+efficiency
+class-level responsibility
+implementation  requirement
+data-sensitive fault
+inductive  assertion  method
+B5
+bottom-up estimating
+process attribute
+interrupt latency
+SQL
+predecessor activity
+SQA
+information analysis
+page
+backlog
+Monte Carlo analysis
+output arrow
+program construct
+assignment statement
+complete procedure
+symbolic language
+regression testing
+library
+product support
+application problem
+structured programming
+portlet
+superclass
+usability testing
+schedule development
+effectiveness analysis
+functional  requirement
+single sign-on (SSO)
+form,  fit,  and  function
+assembly   language
+software product evaluation
+lead
+synchronize
+high order language (HOL)
+selective  choice  construct
+background  processing
+octet
+requirements specification language
+code  breakpoint
+mutation
+reachable marking
+dependent entity
+BCWS
+OSE
+mode
+supervisor  state
+dynamic schema
+data analysis
+software quality measure
+method engineer
+evaluation module
+transition occurrence
+physical requirement
+software  tool
+functional domain
+location transparency
+entity-relationship  (E-R)  map
+direct address
+offset
+mandatory category
+CPAF
+PMBOK®
+system description
+soft  error
+JDBC
+extension
+perform quality assurance
+project file
+adjusted size
+identify risks
+post-tested  iteration
+optimizing process
+software configuration item
+root compiler
+scheduled start date
+trailing  decision
+undirected graph
+test case
+data function type
+program  definition  language
+software
+assemble-and-go
+source address
+terminal symbol
+software monitor
+transform  analysis
+planning package
+split key
+commitment
+operational testing
+finite state machine
+call  by  address
+attribute indicator
+WHILE
+hierarchical  decomposition
+Chapin  chart
+distribute information
+constant-failure  period
+verb phrase
+call  trace
+character set
+tailoring guideline
+observation period
+persistent storage
+utility
+dynamic  restructuring
+code breakpoint
+networking
+intermediate software product
+transfer
+Lifecycle Query Engine (LQE)
+condition  code
+local configuration
+opportunity study
+operation exception
+execution efficiency
+transaction file
+PMO
+input place (of a transition)
+event history
+artificial intelligence
+systems engineering
+security interaction policy
+capsule
+integration testing
+OOD
+staffing management plan
+coincidental  cohesion
+text page
+class path
+escrow
+work effort
+operation interface signature
+CT
+static dump
+config spec
+project management system
+test suite execution record
+reusable software product
+solution domain
+bug
+relocatable address
+reader note
+standby redundancy
+scope management plan
+operating system
+microarchitecture
+reversible execution
+record
+replay
+total cluster
+ALM
+configuration management database
+support  manual
+working metamodel
+commit war
+baseline function point count
+service offer
+external interface file
+lookup build
+persistent URI
+storage  breakpoint
+artificial  intelligence
+quality evaluation
+requirements engineering
+hybrid computer
+reference mode
+domain engineering
+operand
+Program Evaluation and Review Technique
+nonidentifying relationship
+delivered source statement
+system under test
+hierarchy  chart
+CPI
+overflow  exception
+risk factor
+authority
+dumb terminal
+functional specification
+host  machine
+top-down
+mobility schema
+tailoring
+boot
+software characteristic
+virtual
+CASE needs
+three-plus-one  address  instruction
+professional standard
+branch
+functional  specification
+declarative  language
+mixed mode
+owned attribute
+list  processing  language
+source code data
+physical  configuration  audit  (PCA)
+Artifacts page
+evaluation group
+source  address
+critical chain method
+product authority
+bundle
+invalid
+overhead time
+software development process
+up time
+stepwise refinement
+application-oriented  language
+evaluation method
+ULA
+formal  qualification  review  (FQR)
+synchronize (sync)
+application  software
+SRR
+instruction time
+mean  time  between  failures  (MTBF)
+coupling
+tree-structured chart
+job stream
+global compaction
+dynamic  dump
+rule
+reusability GSC
+risk monitoring and control
+computer  software  configuration   item  (CSCI)
+process metric
+validation

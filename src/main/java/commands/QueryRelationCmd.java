@@ -1,6 +1,8 @@
 package commands;
 
 
+import org.apache.commons.cli.OptionBuilder;
+import phrases.Phrase;
 import wordGraph.WordGraph;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Options;
@@ -17,6 +19,8 @@ public class QueryRelationCmd extends Command {
         options.addOption("S", "sibling", false, "Show sibling/contrast in query result");
         options.addOption("s", "synonym", false, "Show synonym in query result");
         options.addOption("a", "acronym", false, "Show acronym in query result");
+        options.addOption("r", "related", false, "Show related terms in query result");
+        options.addOption("d", "data-set", true, "Search only in given domain");
     }
 
     public void execution(WordGraph wg, String[] args) {
@@ -27,11 +31,18 @@ public class QueryRelationCmd extends Command {
             String word = String.join(" ", remainArgs);
             int optionNum = cmdLine.getOptions().length;
             System.out.println("===========================");
-            String phraseRealFormat = wg.getPhrase(word);
-            if (phraseRealFormat.isEmpty()) {
+            Phrase phrase = wg.getPhrase(word);
+            if (phrase == null) {
                 System.out.println("Unable to locate phrase:" + word);
             } else {
-                System.out.println("Phrase:" + wg.getPhrase(word));
+                String dValue = cmdLine.getOptionValue("d");
+                if (dValue != null && !phrase.getDataType().equals(dValue)) {
+                    System.out.println("Vertex found in graph, but not in the domain" + dValue);
+                    return;
+                } else if (dValue != null) {
+                    optionNum--; //minus the parameter behind -d
+                }
+                System.out.println("Phrase:" + phrase.toString());
                 System.out.println("--------------------------");
             }
             if (cmdLine.hasOption("H") | optionNum == 0)
@@ -44,6 +55,8 @@ public class QueryRelationCmd extends Command {
                 System.out.println("Synonym:" + wg.getSynonym(word));
             if (cmdLine.hasOption("a") | optionNum == 0)
                 System.out.println("Acronym:" + wg.getAcronym(word));
+            if (cmdLine.hasOption('r') | optionNum == 0)
+                System.out.println("Related:" + wg.getRelated(word));
             System.out.println("===========================");
 
         } catch (Exception e) {

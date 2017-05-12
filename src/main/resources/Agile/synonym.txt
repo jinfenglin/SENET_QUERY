@@ -1,0 +1,63 @@
+agile software management,agile software development
+agile software management,agile methods
+agile software management,agile project management
+acceptance test,functional test
+acceptance test,customer test
+acceptance test,story test
+backlog,product backlog 
+backlog grooming,backlog refinement
+big visible charts,information radiator
+burndown chart,release burndown chart
+burndown chart,iteration burndown chart
+continuous improvement,kaizen
+continuous integration,continuous delivery
+continuous integration,continuous deployment
+daily scrum,daily standup
+daily scrum,daily meeting
+daily scrum,daily huddle
+daily standup,daily scrum
+daily standup,standup meeting
+daily standup,daily meeting
+daily standup,daily huddle
+definition of done,single done
+definition of done,done
+definition of done,done-done-done
+definition of done,done list
+definition of done,done checklist
+definition of done,product sashimi
+definition of done,task complete definition
+definition of done,punch list
+feature creep,requirements creep
+feature creep,scope creep
+iteration,sprint
+iteration,timebox
+iterative development,incremental development
+pair programming,pairing
+pair programming,paired programming
+pair programming,programming in pairs
+product backlog,backlog
+relative estimation,silent grouping
+relative estimation,affinity testing 
+sprint backlog,iteration backlog 
+standup/daily meeting,daily scrum
+standup/daily meeting,daily standup
+standup/daily meeting,daily huddle
+acceptance-test-driven development,specification by example
+daily scrum,daily stand-up
+envisioning,product planning
+implementable story,sprintable story
+minimum releasable features,must-have features
+must-have features,minimum releasable features
+plan-driven process,anticipatory process
+plan-driven process,predictive process
+plan-driven process,prescriptive process
+plan-driven process,sequential process
+plan-driven process,traditional development process
+plan-driven process,waterfall process
+product backlog grooming,product backlog refinement
+product backlog refinement,product backlog grooming
+project chartering,project inception
+project chartering,project initiation
+sprint mapping,PBI slotting
+waterscrum,Scrummerfall
+stand up,daily meeting
