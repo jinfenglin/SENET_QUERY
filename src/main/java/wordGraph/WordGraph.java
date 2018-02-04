@@ -114,34 +114,42 @@ public class WordGraph {
         return res;
     }
 
-    public String getHypernym(String word) {
+    private List<String> edgeSourceToStrings(List<LabeledEdge> edges) {
+        return getEdgeSources(edges).stream().map(p -> p.toString()).collect(Collectors.toList());
+    }
+
+    private List<String> edgeTargetToStrings(List<LabeledEdge> edges) {
+        return getEdgeTarget(edges).stream().map(p -> p.toString()).collect(Collectors.toList());
+    }
+
+    public List<String> getHypernym(String word) {
         List<LabeledEdge> edges = filterEdge(new Phrase(word), Relationship.HYPERNYM, true);
-        return String.join(",", getEdgeSources(edges).toString());
+        return edgeSourceToStrings(edges);
     }
 
-    public String getContrast(String word) {
+    public List<String> getContrast(String word) {
         List<LabeledEdge> edges = filterEdge(new Phrase(word), Relationship.CONTRAST, true);
-        return String.join(",", getEdgeSources(edges).toString());
+        return edgeSourceToStrings(edges);
     }
 
-    public String getSynonym(String word) {
+    public List<String> getSynonym(String word) {
         List<LabeledEdge> edges = filterEdge(new Phrase(word), Relationship.SYNONYM, true);
-        return String.join(",", getEdgeSources(edges).toString());
+        return edgeSourceToStrings(edges);
     }
 
-    public String getAcronym(String word) {
+    public List<String> getAcronym(String word) {
         List<LabeledEdge> edges = filterEdge(new Phrase(word), Relationship.ACRONYM, false);
-        return String.join(",", getEdgeTarget(edges).toString());
+        return edgeTargetToStrings(edges);
     }
 
-    public String getHyponymy(String word) {
+    public List<String> getHyponymy(String word) {
         List<LabeledEdge> edges = filterEdge(new Phrase(word), Relationship.HYPERNYM, false);
-        return String.join(",", getEdgeTarget(edges).toString());
+        return edgeTargetToStrings(edges);
     }
 
-    public String getRelated(String word) {
+    public List<String> getRelated(String word) {
         List<LabeledEdge> edges = filterEdge(new Phrase(word), Relationship.RELATED, false);
-        return String.join(",", getEdgeTarget(edges).toString());
+        return edgeTargetToStrings(edges);
     }
 
     /**

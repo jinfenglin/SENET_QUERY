@@ -2,6 +2,7 @@ package commands;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Options;
+import result.SearchRelationRes;
 import wordGraph.SearchConfig;
 import wordGraph.Util;
 import wordGraph.WordGraph;
@@ -16,17 +17,19 @@ public class SearchRelationCmd extends Command {
     }
 
     @Override
-    void execution(WordGraph wg, String[] args) {
+    public SearchRelationRes execution(WordGraph wg, String[] args) {
         try {
             CommandLine cmdLine = parser.parse(options, args);
             List<String> remainArgs = cmdLine.getArgList(); //remmaining args are treated as words to be queried
             remainArgs.remove(0);
             String[] words = String.join(" ", remainArgs).split(",");
             //TODO check the word all in reuqired domain first before searching.
-            List<List<String>> res = wg.searchPath(words[0], words[1], SearchConfig.relatedSearch.setDataType("IEEE"));
-            Util.printListOfList(res);
+            List<List<String>> paths = wg.searchPath(words[0], words[1], SearchConfig.relatedSearch.setDataType("IEEE"));
+            SearchRelationRes res = new SearchRelationRes(paths);
+            return res;
         } catch (Exception e) {
             System.out.println(e);
         }
+        return null;
     }
 }

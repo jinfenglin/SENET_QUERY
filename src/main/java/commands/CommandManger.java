@@ -8,6 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+import result.Result;
+
 public class CommandManger {
     Map<String, Command> commandMap;
     WordGraph wg;
@@ -19,17 +21,18 @@ public class CommandManger {
         commandMap.put("search", new SearchRelationCmd()); //Search the path from first phrase to second phrase.
     }
 
-    public void execut(String cmd) {
+    public Result execut(String cmd) {
         String[] args = getArgs(cmd);
         if (args.length == 0)
-            return;
+            return null;
         String op = args[0];
         if (commandMap.containsKey(op)) {
             Command cmdObj = commandMap.get(op);
-            cmdObj.execution(wg, args);
+            return cmdObj.execution(wg, args);
         } else {
             System.out.println(String.format("Operation %s is not supported.", op));
         }
+        return null;
     }
 
     private String[] getArgs(String cmd) {
@@ -43,7 +46,10 @@ public class CommandManger {
             System.out.print(">");
             Scanner input = new Scanner(System.in);
             String line = input.nextLine();
-            execut(line);
+            Result res = execut(line);
+            if (res != null) {
+                System.out.println(res.toString());
+            }
         }
     }
 }

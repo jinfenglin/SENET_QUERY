@@ -1,0 +1,1410 @@
+===========================
+functional user requirements
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[FUR]
+Related:[FUR]
+===========================
+===========================
+specification change notice
+--------------------------
+Hypernym:[change]
+Hypernon[]
+Sibling/Contrast[engineering change]
+Synonym:[]
+Acronym:[SCN]
+Related:[configuration control, notice of revision, engineering change, notice o f revision, SCN]
+===========================
+===========================
+software safety
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+user need
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+project scope
+--------------------------
+Hypernym:[scope]
+Hypernon[]
+Sibling/Contrast[product scope]
+Synonym:[]
+Acronym:[]
+Related:[scope]
+===========================
+===========================
+minimum marketable features
+--------------------------
+Hypernym:[features]
+Hypernon[]
+Sibling/Contrast[minimum releasable features, must-have features, nice-to-have features, won t-have features, won’t-have features]
+Synonym:[]
+Acronym:[]
+Related:[minimum releasable features, mmfs]
+===========================
+===========================
+technical stories
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[user story]
+===========================
+===========================
+traceability matrix
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+design requirement
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[functional requirement, interface requirement, performance requirement, physical requirement, implementation requirement, functional performance requirement, contractual requirement, product requirement, customer requirement, nonfunctional requirement, derived requirement]
+Synonym:[]
+Acronym:[]
+Related:[requirement, functional requirement, implementation requirement, interface requirement, performance requirement, physical requirement]
+===========================
+===========================
+stakeholder
+--------------------------
+Hypernym:[]
+Hypernon[stakeholder value, internal stakeholders, external stakeholders]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[external stakeholders, internal stakeholders, stakeholder value, customer, influencer]
+===========================
+===========================
+story points
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[ideal day]
+Synonym:[]
+Acronym:[]
+Related:[relative size measure, ideal day, Planning Poker]
+===========================
+===========================
+change control
+--------------------------
+Hypernym:[control]
+Hypernon[]
+Sibling/Contrast[version control, configuration control, interface control]
+Synonym:[configuration control]
+Acronym:[]
+Related:[configuration control, version control]
+===========================
+===========================
+domain model
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+acceptance test driven development
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+executable requirements specification
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+prioritized list
+--------------------------
+Hypernym:[list]
+Hypernon[]
+Sibling/Contrast[ordered list]
+Synonym:[]
+Acronym:[]
+Related:[ordered list, product backlog]
+===========================
+===========================
+requirements specification
+--------------------------
+Hypernym:[specification]
+Hypernon[software requirements specification, system requirements specification]
+Sibling/Contrast[design description, functional specification, performance specification, test case specification, test specification, formal specification, interface specification, interface requirements specification, development specification]
+Synonym:[]
+Acronym:[]
+Related:[development specification, functional specification, performance specification, specification, design description]
+===========================
+===========================
+assumption
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[validated learning]
+Synonym:[]
+Acronym:[]
+Related:[validated learning]
+===========================
+===========================
+validity
+--------------------------
+Hypernym:[]
+Hypernon[link validity, validity summary]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[invalid, link validity, suspect, validity summary, verification]
+===========================
+===========================
+quality attribute
+--------------------------
+Hypernym:[quality, attribute]
+Hypernon[]
+Sibling/Contrast[quality factor, quality control, quality assurance]
+Synonym:[quality factor]
+Acronym:[]
+Related:[attribute, quality factor]
+===========================
+===========================
+model glossary
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+context diagram
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+well-formed requirement
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+allocated requirement
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+domain expert
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+feature freeze
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+critical path methodology
+--------------------------
+Hypernym:[critical path]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[CPM]
+Related:[critical path, CPM]
+===========================
+===========================
+use case specification
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+identify stakeholders
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+requirements traceability tool
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+unadjusted function point count
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[UFP]
+Related:[UFP]
+===========================
+===========================
+natural language
+--------------------------
+Hypernym:[language]
+Hypernon[]
+Sibling/Contrast[stratified language, declarative language, assembly language, algebraic language, computer language, high level language, symbolic language, object language, high-order language, rule-based language, interactive language, target language, block-structured language, procedure-oriented language, program definition language, artificial language, structured programming language, requirements specification language, formal language, source language, algorithmic language, high order language, unstratified language, programming language, nonprocedural language, procedural language, program design language, fifth-generation language, fifth generation language, logic programming language, second generation language, machine language, design language, application-oriented language, third generation language, authoring language, fourth generation language, query language, list processing language, fourth-generation language, specification language, algorithmic l i s t processing language]
+Synonym:[]
+Acronym:[]
+Related:[formal language]
+===========================
+===========================
+story test
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[acceptance test]
+Acronym:[]
+Related:[acceptance test]
+===========================
+===========================
+user persona
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+hazard identification
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+reliability
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[MTBF]
+Related:[availability, MTBF]
+===========================
+===========================
+software requirements verification
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+change control board
+--------------------------
+Hypernym:[control board]
+Hypernon[]
+Sibling/Contrast[configuration control board]
+Synonym:[configuration control board]
+Acronym:[CCB]
+Related:[configuration control board, CCB]
+===========================
+===========================
+business rule
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+business epics
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+performance requirement
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[design requirement, functional requirement, implementation requirement, requirement, interface requirement, physical requirement, functional performance requirement, contractual requirement, product requirement, customer requirement, nonfunctional requirement, derived requirement]
+Synonym:[]
+Acronym:[]
+Related:[requirement, design requirement, implementation requirement, interface requirement, physical requirement, functional requirement]
+===========================
+===========================
+function
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[multi-valued]
+===========================
+===========================
+change control procedure
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+story grooming
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+scenario
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[script, set, suite]
+Acronym:[]
+Related:[use case, script, set, suite]
+===========================
+===========================
+exclusive requirement
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+customer requirement
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[performance requirement, design requirement, functional performance requirement, physical requirement, contractual requirement, interface requirement, product requirement, nonfunctional requirement, derived requirement, functional requirement, implementation requirement]
+Synonym:[]
+Acronym:[]
+Related:[contractual requirement]
+===========================
+===========================
+physical requirement
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[design requirement, functional requirement, implementation requirement, interface requirement, performance requirement, functional performance requirement, contractual requirement, product requirement, customer requirement, nonfunctional requirement, derived requirement]
+Synonym:[]
+Acronym:[]
+Related:[requirement, design requirement, implementation requirement, interface requirement, functional requirement, performance requirement]
+===========================
+===========================
+requested change
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+scope creep
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[feature creep, scope gallop]
+Acronym:[]
+Related:[feature creep, scope gallop]
+===========================
+===========================
+design specification
+--------------------------
+Hypernym:[design]
+Hypernon[]
+Sibling/Contrast[program design, hardware design language, data-structure-oriented design, detailed design, object-oriented design, function-oriented design, design document, data structure-centered design, design description, structured design, preliminary design, functional design, architectural design]
+Synonym:[design description]
+Acronym:[]
+Related:[design description]
+===========================
+===========================
+software feature
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+nonfunctional requirements
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[performance requirement, design requirement, functional performance requirement, physical requirement, contractual requirement, interface requirement, product requirement, customer requirement, derived requirement, functional requirement, implementation requirement]
+Synonym:[design constraints, non-functional requirement]
+Acronym:[]
+Related:[definition of done, functional requirement, design constraints, non-functional requirement]
+===========================
+===========================
+story points
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[ideal day]
+Synonym:[]
+Acronym:[]
+Related:[relative size measure, ideal day, Planning Poker]
+===========================
+===========================
+product specification
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[design description]
+===========================
+===========================
+relevant stakeholder
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+verify scope
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+requirement standard
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+change authority
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+functional specification
+--------------------------
+Hypernym:[specification]
+Hypernon[]
+Sibling/Contrast[performance specification, test case specification, requirements specification, test specification, formal specification, interface specification, interface requirements specification, development specification]
+Synonym:[]
+Acronym:[]
+Related:[requirements specification]
+===========================
+===========================
+requirements management
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[RM]
+Related:[RM]
+===========================
+===========================
+software requirements management
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+release burndown chart
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[burndown chart]
+Acronym:[]
+Related:[burndown chart]
+===========================
+===========================
+requirements derivation
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+story
+--------------------------
+Hypernym:[]
+Hypernon[user story, sprintable story, implementable story]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[user story]
+===========================
+===========================
+functional domain
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+derived requirement
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[performance requirement, design requirement, functional performance requirement, physical requirement, contractual requirement, interface requirement, product requirement, customer requirement, nonfunctional requirement, functional requirement, implementation requirement]
+Synonym:[]
+Acronym:[]
+Related:[product requirement]
+===========================
+===========================
+taskboard / storyboard
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+failure mode and effect analysis
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[FMEA]
+Related:[FMEA]
+===========================
+===========================
+requirements traceability
+--------------------------
+Hypernym:[traceability]
+Hypernon[]
+Sibling/Contrast[bidirectional traceability]
+Synonym:[]
+Acronym:[]
+Related:[bidirectional traceability]
+===========================
+===========================
+system requirements review
+--------------------------
+Hypernym:[requirements review]
+Hypernon[]
+Sibling/Contrast[software requirements review]
+Synonym:[]
+Acronym:[SRR]
+Related:[software requirements review, SRR]
+===========================
+===========================
+user acceptance tests
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+feature creep
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[requirements creep, scope creep]
+Acronym:[]
+Related:[requirements creep, scope creep]
+===========================
+===========================
+formal specification
+--------------------------
+Hypernym:[specification]
+Hypernon[]
+Sibling/Contrast[functional specification, performance specification, test case specification, requirements specification, test specification, interface specification, interface requirements specification, development specification]
+Synonym:[]
+Acronym:[]
+Related:[specification, proof of correctness]
+===========================
+===========================
+implementable story
+--------------------------
+Hypernym:[story]
+Hypernon[]
+Sibling/Contrast[user story, sprintable story]
+Synonym:[sprintable story]
+Acronym:[]
+Related:[sprintable story]
+===========================
+===========================
+software requirements analysis
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+reference user requirements
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[RUR]
+Related:[RUR]
+===========================
+===========================
+user requirements
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[UR]
+Related:[UR]
+===========================
+===========================
+system requirements specification
+--------------------------
+Hypernym:[requirements specification]
+Hypernon[]
+Sibling/Contrast[software requirements specification]
+Synonym:[]
+Acronym:[SyRS, SRS]
+Related:[software requirements specification, SyRS, SRS]
+===========================
+===========================
+interface requirements specification
+--------------------------
+Hypernym:[specification, interface]
+Hypernon[]
+Sibling/Contrast[functional specification, performance specification, test case specification, requirements specification, test specification, formal specification, interface specification, development specification, human-machine interface, user interface, man-machine interface, interface design document]
+Synonym:[]
+Acronym:[IRS]
+Related:[interface design document, interface specification, IRS]
+===========================
+===========================
+specification language
+--------------------------
+Hypernym:[language]
+Hypernon[]
+Sibling/Contrast[programmer manual, query language, stratified language, declarative language, assembly language, algebraic language, computer language, high level language, symbolic language, object language, high-order language, rule-based language, interactive language, target language, block-structured language, procedure-oriented language, program definition language, artificial language, structured programming language, requirements specification language, formal language, source language, algorithmic language, high order language, unstratified language, programming language, nonprocedural language, procedural language, program design language, fifth-generation language, fifth generation language, logic programming language, second generation language, machine language, design language, application-oriented language, third generation language, authoring language, fourth generation language, list processing language, fourth-generation language, natural language, algorithmic l i s t processing language]
+Synonym:[]
+Acronym:[]
+Related:[application-oriented language, query language, Rule and Constraint Language, programming language, programmer manual]
+===========================
+===========================
+interface requirement
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[design requirement, functional requirement, implementation requirement, requirement, functional performance requirement, physical requirement, performance requirement, contractual requirement, product requirement, customer requirement, nonfunctional requirement, derived requirement]
+Synonym:[]
+Acronym:[]
+Related:[requirement, design requirement, implementation requirement, functional requirement, performance requirement, physical requirement, functional performance requirement]
+===========================
+===========================
+nontechnical requirement
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+requirements allocation
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+function point
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[FP]
+Related:[FP]
+===========================
+===========================
+requirements document
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+software requirements specification
+--------------------------
+Hypernym:[requirements specification]
+Hypernon[]
+Sibling/Contrast[system requirements specification]
+Synonym:[]
+Acronym:[SRS]
+Related:[system requirements specification, SRS]
+===========================
+===========================
+epic stories
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+business owners
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+traceable
+--------------------------
+Hypernym:[]
+Hypernon[requirements traceability, bidirectional traceability]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[consistency]
+===========================
+===========================
+software specification review
+--------------------------
+Hypernym:[review]
+Hypernon[]
+Sibling/Contrast[design review, requirements review, formal qualification review, test readiness review, software requirements review, code review]
+Synonym:[]
+Acronym:[SSR]
+Related:[software requirements review, SSR]
+===========================
+===========================
+software requirements review
+--------------------------
+Hypernym:[review, requirements review]
+Hypernon[]
+Sibling/Contrast[design review, requirements review, software specification review, formal qualification review, test readiness review, code review, system requirements review]
+Synonym:[]
+Acronym:[SSR, SRR]
+Related:[system requirements review, software specification review, SSR, SRR]
+===========================
+===========================
+acceptance test
+--------------------------
+Hypernym:[acceptance, testing]
+Hypernon[]
+Sibling/Contrast[test case specification, test description, test item transmittal report, test script, test plan, test report, test log, test procedure, test incident report, test summary report, test harness, test driver, component testing, performance testing, functionality testing, structural testing, validation testing, development testing, module testing, path testing, formal testing, branch testing, mutation testing, white-box testing, integration testing, security testing, alpha testing, qualification testing, back-to-back testing, operational testing, informal testing, glass-box testing, system testing, beta testing, unit testing, interface testing, statement testing]
+Synonym:[functional test, customer test, story test, validation testing]
+Acronym:[]
+Related:[functional test, customer test, story test, operational testing, qualification testing, testing, validation testing, development testing]
+===========================
+===========================
+user story
+--------------------------
+Hypernym:[story]
+Hypernon[user story points]
+Sibling/Contrast[sprintable story, implementable story]
+Synonym:[]
+Acronym:[]
+Related:[epic, feature, invest, persona, story, story mapping, technical stories, theme, user role, progressive refinement, user-story-writing workshop, user story points]
+===========================
+===========================
+product description
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+quality requirement
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+sprintable story
+--------------------------
+Hypernym:[story]
+Hypernon[]
+Sibling/Contrast[user story, implementable story]
+Synonym:[implementable story]
+Acronym:[]
+Related:[implementable story]
+===========================
+===========================
+software requirement
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+change record
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+functional requirement
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[design requirement, interface requirement, performance requirement, physical requirement, functional performance requirement, contractual requirement, product requirement, customer requirement, nonfunctional requirement, derived requirement, implementation requirement]
+Synonym:[]
+Acronym:[]
+Related:[requirement, design requirement, implementation requirement, interface requirement, nonfunctional requirement, physical requirement, performance requirement]
+===========================
+===========================
+uniqueness constraint
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+design constraint
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[software design requirement, nonfunctional requirement]
+Acronym:[]
+Related:[software design requirement, nonfunctional requirement]
+===========================
+===========================
+functional analysis
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+analysis model
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+software requirements phase
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+raw requirement
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+requirements specification language
+--------------------------
+Hypernym:[language]
+Hypernon[]
+Sibling/Contrast[stratified language, declarative language, assembly language, algebraic language, computer language, high level language, symbolic language, object language, high-order language, rule-based language, interactive language, target language, block-structured language, procedure-oriented language, program definition language, artificial language, structured programming language, formal language, source language, algorithmic language, high order language, unstratified language, programming language, nonprocedural language, procedural language, program design language, fifth-generation language, fifth generation language, logic programming language, second generation language, machine language, design language, application-oriented language, third generation language, authoring language, fourth generation language, query language, list processing language, fourth-generation language, natural language, specification language, algorithmic l i s t processing language]
+Synonym:[]
+Acronym:[]
+Related:[design language]
+===========================
+===========================
+requirements phase
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+threat modeling
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+system stakeholder
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+requirements review
+--------------------------
+Hypernym:[review]
+Hypernon[system requirements review, software requirements review]
+Sibling/Contrast[code review, design review, formal qualification review, test readiness review, software specification review, software requirements review]
+Synonym:[]
+Acronym:[]
+Related:[code review, design review, formal qualification review, test readiness review]
+===========================
+===========================
+verification and validation
+--------------------------
+Hypernym:[and validation]
+Hypernon[]
+Sibling/Contrast[independent verification and validation]
+Synonym:[]
+Acronym:[V&V]
+Related:[independent verification and validation, V&V]
+===========================
+===========================
+requirements partitioning
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[decomposition]
+Acronym:[]
+Related:[decomposition]
+===========================
+===========================
+use case diagram
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+user story points
+--------------------------
+Hypernym:[user story]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[user story]
+===========================
+===========================
+Requirements Management Rich Text Format
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[RM-RTF]
+Related:[RM-RTF]
+===========================
+===========================
+external stakeholders
+--------------------------
+Hypernym:[stakeholders]
+Hypernon[]
+Sibling/Contrast[internal stakeholders, stakeholder value]
+Synonym:[]
+Acronym:[]
+Related:[stakeholders, internal stakeholders]
+===========================
+===========================
+stakeholder value
+--------------------------
+Hypernym:[stakeholders]
+Hypernon[]
+Sibling/Contrast[internal stakeholders, external stakeholders]
+Synonym:[]
+Acronym:[]
+Related:[stakeholder]
+===========================
+===========================
+must-have features
+--------------------------
+Hypernym:[features]
+Hypernon[]
+Sibling/Contrast[nice-to-have features, won t-have features, won’t-have features, minimum releasable features, minimum marketable features]
+Synonym:[minimum releasable features]
+Acronym:[]
+Related:[minimum releasable features, nice-to-have features, won t-have features, won’t-have features]
+===========================
+===========================
+specification
+--------------------------
+Hypernym:[]
+Hypernon[functional specification, performance specification, test case specification, requirements specification, test specification, formal specification, interface specification, interface requirements specification, development specification]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[formal specification, requirements specification]
+===========================
+===========================
+user roles
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[user story]
+===========================
+===========================
+requirement
+--------------------------
+Hypernym:[]
+Hypernon[performance requirement, design requirement, functional performance requirement, physical requirement, contractual requirement, interface requirement, product requirement, customer requirement, nonfunctional requirement, derived requirement, functional requirement, implementation requirement]
+Sibling/Contrast[interface requirement, performance requirement]
+Synonym:[]
+Acronym:[]
+Related:[design requirement, functional requirement, implementation requirement, interface requirement, performance requirement, physical requirement, acceptance criteria]
+===========================
+===========================
+behavior specification
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+implementation requirement
+--------------------------
+Hypernym:[requirement]
+Hypernon[]
+Sibling/Contrast[design requirement, interface requirement, performance requirement, physical requirement, functional performance requirement, contractual requirement, product requirement, customer requirement, nonfunctional requirement, derived requirement, functional requirement]
+Synonym:[]
+Acronym:[]
+Related:[requirement, design requirement, functional requirement, interface requirement, performance requirement, physical requirement]
+===========================
+===========================
+requirements analysis
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+detailed design description
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[detailed design specification]
+Acronym:[]
+Related:[detailed design specification]
+===========================
+===========================
+modification request
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[change request]
+Acronym:[MR]
+Related:[change request, MR]
+===========================
+===========================
+requirements engineering
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+architectural epics
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+perform integrated change control
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+regulation
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+specification tree
+--------------------------
+Hypernym:[tree]
+Hypernon[]
+Sibling/Contrast[documentation tree]
+Synonym:[]
+Acronym:[]
+Related:[documentation relationships to one another, documentation tree]
+===========================
+===========================
+formal requirements language
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[verifiable requirements language]
+Acronym:[]
+Related:[verifiable requirements language]
+===========================
+===========================
+requirements traceability matrix
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[RTM]
+Related:[RTM]
+===========================
+===========================
+requirements elicitation
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+function point count
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+performance specification
+--------------------------
+Hypernym:[specification]
+Hypernon[]
+Sibling/Contrast[functional specification, test case specification, requirements specification, test specification, formal specification, interface specification, interface requirements specification, development specification]
+Synonym:[]
+Acronym:[]
+Related:[requirements specification]
+===========================
+===========================
+project specification
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+requirements flow-down
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[]
+===========================
+===========================
+customer
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[acquirer, buyer, beneficiary, purchaser]
+Acronym:[]
+Related:[buyer, stakeholder, acquirer, beneficiary, purchaser]
+===========================
+===========================
+user-story-writing workshop
+--------------------------
+Hypernym:[]
+Hypernon[]
+Sibling/Contrast[]
+Synonym:[]
+Acronym:[]
+Related:[user story]
+===========================

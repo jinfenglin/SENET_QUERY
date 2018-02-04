@@ -1,0 +1,4409 @@
+[REQ]  acceptance test
+[REQ]  acceptance test driven development
+[REQ]  allocated requirement
+[REQ]  analysis model
+[REQ]  architectural epics
+[REQ]  assumption
+[REQ]  behavior specification
+[REQ]  business epics
+[REQ]  business owners
+[REQ]  business rule
+[REQ]  change control
+[REQ]  change control board
+[REQ]  change control procedure
+[REQ]  change record
+[REQ]  context diagram
+[REQ]  critical path methodology
+[REQ]  customer
+[REQ]  customer requirement
+[REQ]  derived requirement
+[REQ]  design constraint
+[REQ]  design requirement
+[REQ]  design requirement
+[REQ]  design specification
+[REQ]  detailed design description
+[REQ]  domain expert
+[REQ]  domain model
+[REQ]  epic stories
+-[REQ]  exclusive requirement
+[REQ]  executable requirements specification
+[REQ]  external stakeholders
+[REQ]  failure mode and effect analysis
+[REQ]  feature creep
+[REQ]  feature freeze
+[REQ]  formal requirements language
+[REQ]  formal specification
+[REQ]  function point
+[REQ]  function point count
+[REQ]  functional analysis
+[REQ]  functional domain
+[REQ]  functional requirement
+[REQ]  functional requirement
+[REQ]  functional specification
+[REQ]  functional user requirements
+[REQ]  functionality
+[REQ]  hazard identification
+[REQ]  identify stakeholders
+[REQ]  implementable story
+[REQ]  implementation requirement
+[REQ]  implementation requirement
+[REQ]  interface requirement
+[REQ]  interface requirements specification
+[REQ]  minimum marketable features
+[REQ]  model glossary
+[REQ]  modification request
+[REQ]  must-have features
+[REQ]  natural language
+[REQ]  natural language
+[REQ]  nonfunctional requirement
+[REQ]  nontechnical requirement
+[REQ]  perform integrated change control
+[REQ]  performance requirement
+[REQ]  performance specification
+[REQ]  physical requirement
+[REQ]  prioritized list
+[REQ]  product description
+[REQ]  product specification
+[REQ]  project scope
+[REQ]  project specification
+[REQ]  quality attribute
+[REQ]  quality attribute
+[REQ]  quality requirement
+[REQ]  raw requirement
+[REQ]  reference user requirements
+[REQ]  regulation
+[REQ]  release burndown chart
+[REQ]  relevant stakeholder
+[REQ]  reliability
+[REQ]  requested change
+[REQ]  requirement
+[REQ]  requirement standard
+[REQ]  requirement standard
+[REQ]  requirements allocation
+[REQ]  requirements analysis
+[REQ]  requirements analysis
+[REQ]  requirements derivation
+[REQ]  requirements document
+[REQ]  requirements elicitation
+[REQ]  requirements engineering
+[REQ]  requirements flow-down
+[REQ]  requirements management
+[REQ]  Requirements Management Rich Text Format
+[REQ]  requirements partitioning
+[REQ]  requirements phase
+[REQ]  requirements phase
+[REQ]  requirements review
+[REQ]  requirements review
+[REQ]  requirements specification
+[REQ]  requirements specification
+[REQ]  requirements specification language
+[REQ]  requirements specification language
+[REQ]  requirements traceability
+[REQ]  requirements traceability matrix
+[REQ]  requirements traceability tool
+[REQ]  scenario
+[REQ]  scope creep
+[REQ]  software feature
+[REQ]  software requirement
+[REQ]  software requirements analysis
+[REQ]  software requirements management
+[REQ]  software requirements phase
+[REQ]  software requirements review
+[REQ]  software requirements review
+[REQ]  software requirements specification
+[REQ]  software requirements specification
+[REQ]  software requirements verification
+[REQ]  software safety
+[REQ]  software specification review
+[REQ]  software specification review
+[REQ]  specification
+[REQ]  specification change notice
+[REQ]  specification change notice
+[REQ]  specification language
+[REQ]  specification language
+[REQ]  specification tree
+[REQ]  sprintable story
+[REQ]  stakeholder
+[REQ]  stakeholder value
+[REQ]  story
+[REQ]  story grooming
+[REQ]  story point
+[REQ]  story points
+[REQ]  story test
+[REQ]  system requirements review
+[REQ]  system requirements specification
+[REQ]  system stakeholder
+[REQ]  taskboard / storyboard
+[REQ]  technical stories
+[REQ]  threat modeling
+[REQ]  traceability
+[REQ]  traceability matrix
+[REQ]  unadjusted function point count
+[REQ]  uniqueness constraint
+[REQ]  use case diagram
+[REQ]  use case specification
+-[REQ]  user acceptance tests
+[REQ]  user need
+[REQ]  user persona
+[REQ]  user requirements
+[REQ]  user roles
+[REQ]  user story
+-[REQ]  user story points
+[REQ]  user-story-writing workshop
+[REQ]  validation
+[REQ]  verification and validation
+[REQ]  verify scope
+[REQ]  well-formed requirement
+language
+federation
+interceptor
+A-0 context diagram
+abend
+abnormal end
+abnormal end
+abort
+absolute address
+absolute address
+absolute assembler
+absolute assembler
+absolute code
+absolute code
+absolute instruction
+absolute instruction
+absolute loader
+absolute loader
+abstract class
+abstract data type
+abstract data type
+abstract design
+abstraction
+accept
+acceptability
+acceptable
+acceptance criteria
+acceptance testing
+acceptance-test-driven development
+access
+access facility
+access method
+access permission
+access routine
+access token
+access transparency
+accessibility
+accident
+accuracy
+accuracy of measurement
+acquire project team
+acquirer
+acquisition
+acquisition strategy
+action
+action entry
+action of interest
+action stub
+activation
+activation constraint
+active area
+active interconnection
+active redundancy
+active text
+active white space
+activity
+activity attributes
+activity code
+activity duration
+activity group
+activity identifier
+activity list
+activity type
+actor
+actual cost
+actual duration
+actual result
+actual time estimation
+Ada
+adaptation
+adaptation data
+adaptation parameter
+adapter
+adaptive maintenance
+added source statements
+address
+address field
+address field
+address format
+address modification
+address modification
+address part
+address space
+addressing exception
+adjusted function point count
+adjusted size
+Administer Procurements
+adoption item
+adoption process
+afferent
+affinity testing
+agent
+aggregate responsibility
+aggregation
+agile
+agile development practices
+agile manifesto
+agile methods
+agile project management
+agile release train
+agile retrospective
+agile software development
+agile software development methodology
+agile software management
+agreement
+algebraic language
+algebraic language
+algorithm
+algorithmic language
+alias
+alignment
+all-at-once development
+all-at-once product development
+all-before-any
+allocated baseline
+allocated baseline
+allocated configuration identification
+allocated configuration identification
+allocation
+alpha testing
+alphanumeric
+alternate flow
+alternate key
+analog
+analog computer
+analogous estimating
+analysis
+analyst
+ancestor
+ancestral box
+ancestral diagram
+annotate
+annotation
+announcement
+anomaly
+Ant with Enterprise Extensions
+anticipatory buffering
+anticipatory buffering
+anticipatory paging
+anticipatory process
+antifragile
+antifragility
+antipattern
+Apache Ant
+aperiodic task
+applicability to a functional domain
+application
+application administration function
+application area
+application area level
+application boundary
+application engineering
+application frameworks
+application function point count
+application generator
+application generator
+application lifecycle management
+application lifecycle management
+application manager
+application problem
+application server
+application software
+application software
+application-oriented language
+application-oriented language
+apportioned effort
+appraisal findings
+appraisal participants
+appraisal team leader
+approach
+approval
+approved change request
+approved modification
+A-profile
+arc
+arc annotation
+architect
+architecting
+architectural description
+architectural design
+architectural design
+architectural design phase
+architectural epic kanban
+architectural feature
+architectural runway
+architectural structure
+architectural style
+architecture
+archival pages
+argument
+argument sort
+arity
+array
+arrow
+arrow label
+arrow meaning
+arrow role
+arrow segment
+arrows connecting inputs to processing steps and processing steps to outputs
+art metrics
+artifact
+artifact type
+Artifacts page
+artificial intelligence
+artificial intelligence
+artificial language
+artificial language
+ask
+assemble
+assemble-and-go
+assembled origin
+assembled origin
+assembler
+assembler code
+assembler language
+assembly code
+assembly language
+assembly language
+assertion
+assessed capability
+assessment
+assessment constraints
+assessment indicator
+assessment input
+assessment instrument
+assessment output
+assessment participant
+assessment process
+assessment purpose
+assessment record
+assessment scope
+assessment sponsor
+assessment team
+assessor
+asset
+assignment
+assignment statement
+assignment statement
+assist
+assistive technologies
+association
+association management facility
+associative class
+associative entity
+associative entity type
+associative literal
+assumptions
+assumptions analysis
+asynchronous
+asynchronous I/O device
+asynchronous I/O device interface task
+asynchronous message communication
+atomic type
+atomic type
+attd
+attribute
+attribute data type
+attribute for quality measure
+attribute group
+attribute indicator
+attribute name
+attributed relationship
+attributive entity type
+audience
+audience research
+audit
+authoring language
+authoring language
+authoring system
+authoring system
+authority
+authorization
+auto-deploy
+automate
+automated build
+automated or assisted software process
+automated verification system
+automated verification system
+automatic
+automation
+auto-resolve conflict
+availability
+back link
+back linking
+back matter
+background
+background processing
+background processing
+backlog
+backlog grooming
+backlog item
+backlog item effort
+backlog refinement
+backout
+back-to-back testing
+back-to-back testing
+backup
+backup programmer
+backup programmer
+backward execution
+backward pass
+backward recovery
+backward recovery
+bag
+base address
+base artifact
+base functional component
+base measure
+base practice
+baseline
+baseline design
+baseline document
+baseline function point count
+baseline management
+baseline management
+baseline staging stream
+basic engineering object
+basic flow
+basic interworking facility
+basic symbol
+basis set
+batch
+batch size
+bathtub curve
+bathtub curve
+behavior
+behavior driven development
+benchmark
+beta testing
+BFC class
+BFC Type
+bidirectional traceability
+big visible charts
+big-bang testing
+big-bang testing
+bill of materials
+binary digit
+binary digit
+bind
+binder
+binding endpoint identifier
+binding object
+binning
+bioteam
+bit
+bit steering
+bit steering
+black box
+block
+block diagram
+blocked
+blocking factor
+block-structured language
+block-structured language
+"blog post "" Output vs"
+body metadata
+Boolean expression
+Boolean signature
+boot
+bootstrap
+bootstrap loader
+bottleneck
+bottom-up
+bottom-up design
+bottom-up estimating
+boundary
+boundary arrow
+boundary ICOM code
+boundary value
+boundary value
+box
+box detail reference
+box diagram
+box ICOM code
+box name
+box number
+boy scout rule
+brainstorming
+branch
+branch testing
+branching
+breaking the build
+breakpoint
+bubble chart
+budget
+budget at completion
+budgets
+buffer
+bug
+bug seeding
+bugs
+build
+build definition
+build engine
+build measure learn
+build process
+build process / build pipeline
+build-breaker
+built-in class
+bundle
+burn down chart
+burndown chart
+burn-in period
+burnup chart
+bus number
+business epic kanban
+business intelligence
+business objective
+business process sketch
+business value
+business/it alignment
+busy
+busy time
+busy time
+buyer
+byte
+[REQ]  change authority
+cadence
+calculator
+calendar unit
+call
+call arrow
+call by address
+call by location
+call by name
+call by name
+call by reference
+call by reference
+call by value
+call by value
+call graph
+call list
+call reference
+call trace
+call tree
+called diagram
+calling box
+calling sequence
+camera-ready originals
+candidate FSM method
+candidate key
+capability
+capability dimension
+capability indicator
+capability maturity model
+capable process
+capacity
+capex
+capital expenditure
+capsule
+capsule manager
+captial expenditure
+cardinality
+cardinality constraint
+cargo cult
+carrier
+case
+CASE needs
+CASE tool
+cast
+catastrophic failure
+catastrophic failure
+categorization scheme
+category
+category entity
+causal analysis
+caution
+CDIF clear text encoding
+CDIF exporter
+CDIF family of standards
+CDIF graphical notation
+CDIF identifier
+CDIF importer
+CDIF metaidentifier
+CDIF meta-metamodel
+CDIF semantic metamodel
+CDIF transfer
+CDIF transfer file
+CDIF transfer format
+CDIF transfer syntax and encoding
+central processing unit
+ceremony
+certification
+certification artifact
+certification criteria
+certification process
+certification property
+Certified Scrum Product Owner
+certified scrum product owner
+Certified Scrum Professional
+certified scrum professional
+Certified Scrum Trainer
+certified scrum trainer
+certified scrummaster
+Certified ScrumMaster
+certified scrummaster
+Cfsu
+chain
+chain type
+change
+change and configuration management
+change control
+change control board
+change control system
+change dump
+change management
+change project function point count
+change request
+change set
+changeover system
+channel
+channel capacity
+channel capacity
+chaotic domain
+Chapin chart
+character
+character set
+character type
+characteristic
+characteristic entity
+characteristic of FUR
+chart of accounts
+check in
+checkout
+checkpoint
+checkpointing
+chicken
+chickens
+chickens and pigs
+chief product owner
+chief programmer
+chief programmer
+chief programmer team
+chief programmer team
+child box
+child diagram
+child entity
+clabject
+claim
+class
+class hierarchy
+class path
+classification
+classification process
+class-level attribute
+class-level operation
+class-level responsibility
+clear
+clear text file encoding
+client
+client-side
+cloning
+close procurements
+close project or phase
+closed loop
+closed subroutine
+closed subroutine
+closed term
+closing processes
+cluster
+cluster checkpoint
+cluster manager
+cluster template
+code
+code breakpoint
+code breakpoint
+code churn
+code freeze
+code generator
+code generator
+code inspection
+code of accounts
+code of ethics standard
+code review
+code smell
+code trace
+code tuning
+coding
+coerce
+cohesion
+coincidental cohesion
+coincidental cohesion
+cold standby
+collaboration
+Collaborative Lifecycle Management
+collapse
+collect requirements
+collection cardinality
+collection class
+collection-valued
+collection-valued class
+collection-valued property
+collective ownership
+co-located team
+colocation
+co-location
+command
+command language
+command language
+command-driven
+comment
+commercial-off-the-shelf
+commit
+commit message
+commit privileges
+commit war
+commit window
+commitment
+committer
+common
+common ancestor constraint
+common area
+common block
+common cause
+common coupling
+common storage
+common storage
+common-environment coupling
+common-environment coupling
+communication interface
+communication management plan
+communicational cohesion
+communicational cohesion
+communicational cohesion; temporal cohesion
+communications domain
+communications planning
+community
+community object
+compaction
+comparator
+compatibility
+competent
+competent assessor
+compile
+compile-and-go
+compiler
+compiler code
+compiler code
+compiler compiler
+compiler directive source statement
+compiler generator
+compiler generator
+complete
+complete ICOM code
+complete procedure
+complete table
+completed change set
+completion code
+completion time theorem
+complex adaptive system
+complex domain
+complex processing GSC
+complexity
+complexity attribute
+complexity matrix
+complexity of a function
+complexity points
+complicated domain
+component
+component integration test
+component skew
+component standard
+component standard
+component team
+component testing
+component testing
+composite key
+composite task
+composite type
+computational interface template
+computational object template
+computational viewpoint
+computer
+computer center
+computer crime
+computer generation
+computer graphics
+computer instruction
+computer instruction
+computer language
+computer language
+computer network
+computer performance evaluation
+computer performance evaluation
+computer program
+computer program
+computer program abstract
+computer program abstract
+computer program component
+computer resource
+computer resource allocation
+computer resource allocation
+computer resources
+computer resources
+computer science
+computer security
+computer software component
+computer software component
+computer software configuration item
+computer software configuration item
+computer system
+computer word
+computer-aided
+computer-aided design
+computer-aided software engineering
+computer-aided software engineering
+computer-based software system
+computerization
+computerize
+computing center
+computing system specification concepts
+computing system tool
+concept of operations document
+concept phase
+conceptual data model
+conceptual model
+conceptual system design
+conciseness
+concurrency
+concurrent
+concurrent communication diagram
+concurrent enabling
+concurrent task architecture
+condition
+condition code
+condition entry
+condition stub
+conditional branch
+conditional information
+conditional jump
+conditional unconditional jump
+conditions of satisfaction
+conduct procurements
+confidence threshold
+config spec
+configuration
+configuration audit
+configuration baseline
+configuration context
+configuration control
+configuration control
+configuration control board
+configuration identification
+configuration index
+configuration item
+configuration item development record
+configuration management
+configuration management
+configuration management database
+configuration management system
+configuration provider
+configuration specification
+configuration status accounting
+configuration status accounting
+conflict
+conformance
+conformity evaluation report
+connectivity
+consecutive
+consequence
+consistency
+consistent
+constant
+constant-failure period
+constant-failure period
+constraint
+construction
+consumer
+consumer software package
+container interface
+content assist
+content coupling
+content coupling
+content link
+content store
+context
+context of use
+context-aware search
+context-sensitive help
+contiguous allocation
+contingency plan
+contingency reserve
+continuous delivery
+continuous deployment
+continuous forms
+continuous improvement
+continuous integration
+continuous iteration
+continuous iteration
+continuous representation
+continuous risk management
+contract
+contract administration
+contract management plan
+contract work breakdown structure
+contractual requirement
+contravariance
+contribution
+control
+control account
+control arrow
+control breakpoint
+control chart
+control clustering
+control costs
+control coupling
+control coupling
+control data
+control data
+control field
+control flow
+control flow diagram
+control flow diagram
+control flow trace
+control Information
+control language
+control limits
+control loopback
+control point
+control program
+control schedule
+control scope
+control statement
+control statement
+control store
+control task
+control variable
+convention
+conventions
+conversational
+conversational compiler
+conversion
+conversion functionality
+convertibility
+cookie
+coordination
+copy
+copyright
+core dump
+coroutine
+corporate board or equivalent body
+corporate executive level
+corporate governance
+corporate governance of IT
+correctability
+corrective action
+corrective maintenance
+corrective maintenance
+correctness
+correctness proof
+cost accounting
+cost constraint
+cost management plan
+cost of delay
+cost of quality
+cost performance baseline
+cost performance index
+cost variance
+cost-plus-fee
+cost-plus-fixed-fee contract
+cost-plus-incentive-fee contract
+cost-reimbursable contract
+counter
+counting rule
+counting scope
+coupling
+crash
+crashing
+crc cards
+create WBS
+crisis
+crisis management
+criteria
+critical activity
+critical chain method
+critical design review
+critical design review
+critical information
+critical item
+critical path
+critical piece first
+critical range
+critical section
+critical value
+criticality
+cross-assembler
+cross-compiler
+cross-functional team
+cross-reference generator
+cross-reference list
+cross-reference tool
+crystal
+csm
+csp
+cspo
+cst
+curriculum standard
+custom software
+customer test
+customer uncertainty
+customer unit
+customer-value-creation sprint
+customization
+cut-off date
+cycle
+cycle stealing
+cycle stealing
+cyclic search
+Cynefin
+cynefin
+daily huddle
+daily meeting
+daily scrum
+daily standup
+daily stand-up
+daily standup/scrum
+dashboard
+data
+data abstraction
+data analysis
+data attribute
+data bank
+data breakpoint
+data breakpoint
+data characteristic
+data collection
+data communication
+data communications GSC
+data coupling
+data date
+data declaration source statement
+data definition
+data driven testing
+data element
+data element type
+data exception
+data exception
+data flow
+data flow
+data flow diagram
+data flow diagram
+data flow graph
+data flow trace
+data function
+data function type
+data functions
+data group
+data information
+data input sheet
+data inventory
+data management
+data mapping template
+data mart
+data medium
+data model
+data movement
+Data Movement Service
+data processing
+data processing system
+data protection
+data provider
+data repository
+data set definition
+data set prefix
+data source
+data store
+data structure
+data structure
+data structure diagram
+data structure diagram
+data structure-centered design
+data structure-centered design
+data trace
+data type
+data warehouse
+database
+database
+database design specification
+data-sensitive fault
+data-sensitive fault
+data-structure-oriented design
+datum
+deactivation
+deadlock
+deassembler
+deblock
+debug
+decision criteria
+decision table
+decision tree analysis
+declaration
+declarative language
+declarative language
+decompile
+decompiler
+decomposition
+decomposition diagram
+decoupling
+deep
+defect
+defect aging
+defect arrival rate
+defect density
+defect repair
+defect report
+defensive programming
+define activities
+define scope
+defined process
+definition is advanced as a proposed standard
+definition of done
+definition of ready
+definitive master version
+degree of confidence
+degree of influence
+delegation
+deleted source statement
+delimiter
+deliver
+deliver primitive
+deliverable
+deliverables
+delivered source statement
+delivery
+delivery rate
+Delphi technique
+demand paging
+demand paging
+demo demonstration
+demodularization
+demonstration
+demonstrative product
+dependability
+dependency build
+dependent entity
+dependent state class
+deployment
+deployment plan
+derived data
+derived measure
+derived property
+derived type
+derived type
+descendent box
+descendent diagram
+description standard
+description standard
+design
+design analyzer
+design architecture
+design authority
+design characteristic
+design concept
+design description
+design description
+design document
+design element
+design entity
+design entity
+design fault
+design inspection
+design language
+design level
+design level
+design methodology
+design pattern
+design phase
+design phase
+design review
+design review
+design standard
+design standard
+design strategy
+design unit
+design view
+design-to cost
+design-to-cost
+desk checking
+desktop publishing
+destination address
+destination address
+destructive read
+destructive read
+detailed design
+detailed design
+detailed design phase
+detailed design review
+detailed function point count
+determine budget
+develop human resource plan
+develop project charter
+develop project management plan
+develop project team
+develop schedule
+developed source statement
+developer
+developer unit
+developers and testers
+development
+development branch
+development cycle
+development life cycle
+development plan
+development project
+development project function point count
+development specification
+development team
+development testing
+developmental baseline
+developmental baseline
+developmental configuration
+deviation
+device
+device interface task
+devop
+devops
+diagnostic
+diagnostic manual
+diagnostic manual
+diagonal microinstruction
+diagonal microinstruction
+diagram
+diagram boundary
+diagram feature
+diagram feature reference
+diagram number
+diagram page
+diagram reference
+diagram title
+dialog
+differential dump
+digit numeric character
+digital
+digital computer
+digraph
+dimension build
+dimension data
+dimension mapping category
+dimension mapping table
+dimension table
+direct address
+direct and manage project execution
+direct insert subroutine
+direct instruction
+direct instruction
+direct measure
+direct metric
+direct metric value
+direct staff-hour
+directed graph
+directed graph
+director
+directory
+disassemble
+disassembler
+discard
+disclaimer
+discrete
+discrete data
+discrete effort
+discrete type
+discrimination
+discriminator
+disk
+disorder domain
+distribute information
+distributed data processing GSC
+distributed development team
+distributed processing
+distributed team
+distribution copy
+diverse redundancy
+diversity
+division of standards
+document
+document control
+document set
+documentation
+documentation development staff
+documentation plan
+documentation relationships to one another
+documentation tree
+documenter
+domain
+domain analysis
+domain architecture
+domain definition
+domain engineer
+domain engineering
+done
+done checklist
+done list
+done-done
+done-done-done
+do-nothing operation
+dot notation
+dot voting
+double-operand instruction
+down
+down time
+download
+downstream
+downward compatible
+downward compatible
+downward compression
+downward compression
+driver
+dsdm
+dumb terminal
+dump
+duration
+dyadic selective construct
+dyadic selective construct
+dynamic
+dynamic allocation
+dynamic analysis
+dynamic analysis
+dynamic binding
+dynamic binding
+dynamic breakpoint
+dynamic breakpoint
+dynamic buffering
+dynamic buffering
+dynamic dump
+dynamic dump
+dynamic error
+dynamic invocation
+dynamic model
+dynamic relocation
+dynamic relocation
+dynamic resource allocation
+dynamic resource allocation
+dynamic restructuring
+dynamic restructuring
+dynamic schema
+dynamic skeleton
+dynamic storage allocation
+dynamic storage allocation
+early finish date
+early start date
+early-failure period
+early-failure period
+earned value
+earned value management
+earned value technique
+echo
+Eclipse
+economic filter
+economically sensible scrum
+edit
+editor
+effective address
+effective full license
+effective instruction
+effective instruction
+effectiveness
+effectiveness analysis
+effectiveness assessment
+efferent
+efficiency
+effort
+egoless programming
+egoless programming
+electronic copy
+electronic data interchange
+electronic mail
+electronic publishing
+element
+element type
+elementary process
+ELSE-rule
+embedded computer system
+embedded computer system
+embedded documentation
+embedded software
+embedded software
+emergence
+emergency maintenance
+emergent opportunity
+emotions seismogram
+emotions seismograph
+empirical process control
+empiricism
+emulated user
+emulation
+emulator
+en dash
+enabling
+enabling system
+enabling tokens
+encapsulation
+encoding
+end item
+end uncertainty
+end user
+endeavor
+endeavor element
+endnotes
+end-user efficiency GSC
+engineering
+engineering change
+engineering change
+engineering change proposal
+engineering change proposal
+engineering interface reference
+engineering interface reference management domain
+engineering interface reference management policy
+engineering viewpoint
+enhancement
+enhancement project
+enhancement project function point count
+enhancement request
+enterprise
+enterprise architect
+enterprise environmental factors
+enterprise value chain
+enterprise viewpoint
+entity
+entity attribute
+entity attribute
+entity instance
+entity subtype
+entity-relationship diagram
+entity-relationship map
+entity-relationship relationships among them
+entrance
+entry
+entry criteria
+entry field
+entry point
+enumeration type
+enumeration type
+environment
+envisioning
+epic
+epic owner
+epilog breakpoint
+epilog breakpoint
+equivalent faults
+equivalent faults
+E-R diagram
+E-R diagram
+ergonomics
+errata
+error
+error message
+error model
+error prediction
+error prediction
+error prediction model
+error processing
+error seeding
+error seeding
+error tolerance
+error tolerance
+escaped
+escrow
+essential scrum
+essential Scrum
+establish and maintain
+estimate
+estimate activity durations
+estimate activity resources
+estimate at completion
+estimate costs
+estimate to complete
+estimated function point count
+estimation
+evaluation
+evaluation activity
+evaluation checklist
+evaluation group
+evaluation method
+evaluation module
+evaluation procedure
+evaluation records
+evaluation report
+evaluation requester
+evaluation sponsor
+evaluation technology
+evaluation tool
+evaluator
+event
+event history
+event sequence analysis
+event sequence diagram
+event synchronization
+event timeline
+event trace
+event-sequencing logic
+exception
+exception handling
+executable source statement
+execute
+executing processes
+execution efficiency
+execution efficiency
+execution monitor
+execution result
+execution time
+execution time
+execution trace
+execution trace
+existence constraint
+existence dependency
+existing software
+exit
+exit criteria
+exit routine
+expandability
+expected monetary value Analysis
+expected result
+expensed cost
+expert judgment
+expert system
+exploitation
+exploration
+exploratory testing
+export process
+exporter
+extend
+extendability
+extended entry table
+extension
+extensional set
+external
+external attribute
+external event
+external I/O device
+external input
+external inquiry
+external interface file
+external interface requirement
+external measure
+external output
+external quality
+external software quality
+extranet
+Extreme Programming
+extreme programming
+facilitate change GSC
+facilitation
+facility
+fact build
+fact table
+factoring
+fail
+fail fast
+fail safe
+fail soft
+fail-fast
+failure
+failure mode
+failure rate
+failure transparency
+fast feedback
+fast tracking
+"fast, flexible, flow"
+fatal error
+fault
+fault dictionary
+fault isolation
+fault masking
+fault secure
+fault tolerance
+fault-tolerant
+feasibility
+feasibility study
+feature
+feature based planning
+feature branch
+feature reference
+feature team
+feature teams
+fetch
+fibonacci sequence
+field of application
+fifth-generation language
+figurative constant
+file
+file type referenced
+final function point count
+finish date
+finish-to-finish
+finish-to-start
+finite state machine
+firm-fixed-price Contract
+firmware
+first input routine
+first normal form
+FiSMA
+fist to five
+five levels of agile planning
+fixed-date release
+fixed-price-incentive-fee contract
+fixed-scope release
+flag
+flexibility
+float
+flow
+flow target
+flowchart
+flowcharter
+flowcharting
+foldout
+footer
+footnote
+For Exposition Only page
+forecast
+foreground
+foreground processing
+foreground processing
+foreign key
+"form, fit, and function"
+"form, fit, and function"
+formal design
+formal evaluation process
+formal language
+formal parameter
+formal parameter
+formal programming languages and mathematical languages
+formal qualification review
+formal qualification review
+formal review
+formal testing
+formal testing
+formalization
+forms design sheet
+forward pass
+forward recovery
+forward recovery
+four-address instruction
+four-address instruction
+four-plus-one address instruction
+four-plus-one address instruction
+fourth generation language
+fourth-generation language
+FPA table
+FPA tables EIF
+FPA tables ILF
+F-profile
+fragile
+framework
+free float
+frequent releases
+friend
+front matter
+frozen branch
+FSM method
+function
+function name
+function point analysis
+function point table
+function type
+functional architecture
+functional baseline
+functional baseline
+functional cohesion
+functional cohesion
+functional complexity
+functional configuration audit
+functional configuration audit
+functional configuration identification
+functional configuration identification
+functional decomposition
+functional decomposition
+functional design
+functional design
+functional domain categorization
+functional language
+functional manager
+functional organization
+functional process
+functional product
+functional service
+functional size
+functional size measurement
+functional specification
+functional test
+functional testing
+functional unit
+functionality testing
+function-oriented design
+gadget
+Gantt chart
+gap
+garbage collection
+garbage collection
+genba
+genchi genbutsu
+general system characteristics
+generality
+generalization
+generalization structure
+generalization taxonomy
+generalize
+generally accepted
+generated address
+generation
+generic ancestor
+generic entity
+generic practice
+generic program unit
+generic program unit
+given � when � then
+glass box
+glass-box testing
+global attribute
+global compaction
+global compaction
+global configuration
+global configuration management
+global data
+global data
+global variable
+global variable
+glossary
+glossary page
+go to
+go to
+goal
+Government-off-the-Shelf
+grade
+granularity
+graph
+grooming
+Grosch�s law
+Grosch's law
+ground rules
+group
+hacker
+halt
+happened-upon technical debt
+hard copy
+hard failure
+hard failure
+hardware
+hardware configuration item
+hardware design language
+hardware design language
+hardware engineering
+hardware monitor
+hazard
+head
+header
+heading
+health
+heartbeat retrospective
+heavily used configuration GSC
+heavyweight process
+help system
+help text
+hidden
+hierarchical decomposition
+hierarchical decomposition
+hierarchical input-process-output
+hierarchical modeling
+hierarchical modeling
+hierarchically consecutive
+hierarchy
+hierarchy chart
+high level
+high level language
+high order language
+higher order language
+higher-level management
+high-level design
+high-level net
+high-level Petri Net graph
+high-order language
+historical information
+holding cost
+homogeneous redundancy
+homogeneous redundancy
+horizontal microinstruction
+horizontal microinstruction
+host machine
+host machine
+hostile backout
+housekeeping operation
+housekeeping operation
+human behavior
+human resource plan
+human resource planning
+human systems engineering
+human-machine interface
+hybrid computer
+hybrid coupling
+I/O task-structuring criteria
+ICOM code
+ICOM label
+icon
+ideal day
+ideal hour
+ideal hours
+IDEF0 model
+IDEF1X model
+identifier
+identifier dependency
+identify risks
+identifying relationship
+identity
+identity-style view
+idle
+idle standby
+idle time
+idle work
+idle workers
+iff
+if-then-else
+illustration
+illustrative product
+image processing
+immediate address
+immediate control
+immediate data
+immediate data
+immediate instruction
+immediate instruction
+immutable class
+impact analysis
+impediment
+imperative construct
+imperative construct
+imperative statement
+implementable standard
+implementation
+implementation phase
+implementer
+implied addressing
+implied addressing
+implied needs
+import process
+importer
+imposed date
+incident
+incipient failure
+incipient failure
+include
+incoming change set
+incoming link
+incomplete process
+incremental compiler
+incremental compiler
+incremental development
+incremental development
+incremental funding
+incremental productivity
+independent
+independent entity
+independent state class
+independent verification and validation
+independent verification and validation
+indexed address
+indexed address
+indicative function point count
+indicator
+indicator value
+indigenous error
+indigenous error
+indirect address
+indirect instruction
+indirect instruction
+indirect measure
+inductive assertion method
+inductive assertion method
+infant mortality
+influence diagram
+influencer
+informal testing
+information
+information analysis
+information content
+information hiding
+information hiding
+information item
+information item content
+information item type
+information management
+information need
+information processing
+information processing requirements
+information processing system
+information product
+information radiator
+information radiators
+information retrieval
+information system
+information system needs
+information technology
+information viewpoint
+Information-based domain
+inheritance
+inherited attribute
+inherited error
+initial function point count
+initial marking
+initial marking of a place
+initial program load
+initial program loader
+initial program loader
+initialization section
+initialize
+initiating event
+initiating processes
+initiator
+inline code
+inner cardinality
+innovation accounting
+innovation and planning
+innovation waste
+in-process product
+input
+input arc
+input arrow
+input assertion
+input assertion
+input loopback
+input place
+input primitive
+input routine
+input-output coupling
+input-process-output
+input-process-output chart
+input-process-output chart
+insight backlog
+inspect and adapt
+inspection
+installation and checkout phase
+installation and checkout phase
+installation ease GSC
+installation manual
+installation manual
+installed function point count
+instance
+instance-level attribute
+instance-level operation
+instance-level responsibility
+instantiation
+institutionalization
+instruction counter
+instruction cycle
+instruction format
+instruction length
+instruction modifier
+instruction set
+instruction time
+instructional mode
+instrument
+instrumentation
+integer type
+integrate
+integrated circuit
+integrated repository
+integrated team
+integration
+integration hell
+integration test
+integration testing
+integration testing
+integrity
+integrity assurance authority
+integrity level
+integrity level scheme
+intellectual property
+interaction group
+interactive
+interactive compiler
+interactive language
+interactive language
+interconnection
+interconnection feature
+interconnection group
+interconnection perspective
+interface
+interface control
+interface control
+interface design document
+interface repository
+interface role
+interface specification
+interface specification
+interface task
+interface testing
+interface type
+interim function point count
+interleave
+intermediate software product
+intermediate software product needs
+intermittent fault
+intermittent fault
+internal arrow
+internal attribute
+internal event
+internal logical file
+internal measure
+internal quality
+internal software quality
+internal stakeholders
+internal task-structuring criteria
+internationalization
+interoperability
+interoperability testing
+interpret
+interpreter
+interpretive code
+interpretive code
+interrogation
+interrupt
+interrupt latency
+interrupt latency
+interrupt mask
+interrupt mask
+interrupt priority
+interrupt request
+interrupt request
+interrupt service routine
+interrupt service routine
+interruption
+interval scale
+Intranet
+intrinsic
+intrinsic relationship
+invalid
+invariant
+invariant schema
+inventory
+inverse engineering
+invest
+invest acronym
+investment
+invitation for bid
+invocation
+invocation deliver
+invocation submit
+IPO chart
+IPO chart
+ISPF client
+issue
+item
+item of documentation
+iteration
+iteration backlog�
+iteration burndown chart
+iteration execution
+iteration plan
+iteration retrospective
+iteration velocity
+iterative and incremental process
+iterative construct
+iterative development
+Java Database Connectivity
+jenkins
+job
+job control language
+job control language
+job function
+job function
+job step
+job stream
+join
+jump
+junction
+just in time
+kaizen
+kanban
+Kanban
+kanban board
+kano analysis
+kano model analysis
+kernel
+kernel entity
+key migration
+key-style view
+keyword
+keyword driven testing
+knowledge
+knowledge base
+known technical debt
+label
+lag
+language
+language binding
+language definition
+language processor
+language processor
+language standard
+language standard
+last responsible moment
+late finish date
+late start date
+latency
+lateral compression
+lateral compression
+layer
+layout
+layout chart
+lead
+lead time
+leading decision
+leading decision
+leaf diagram
+leaf node
+lean
+lean agile leaders
+lean programming
+lean software development
+lean ux
+learning loop
+lessons learned
+lessons learned knowledge base
+level
+level 1 control break
+level 1 initiation routine
+level 1 record group
+level 1 termination routine
+level of abstraction
+level of effort
+level of performance
+library
+library definition
+license
+licensing standard
+licensing standard
+life cycle
+life cycle
+life cycle cost
+life cycle model
+life cycle processes
+lifecycle
+lifecycle application
+lifecycle profits
+Lifecycle Query Engine
+lifecycle tool
+lightweight process
+limited entry table
+line of code
+link
+link index provider
+link type
+link validity
+linkage
+linkage editor
+linked data
+linker
+linking loader
+links explorer
+list
+list function
+list processing language
+list processing language
+listing
+literal
+load
+load map
+load module
+load rule
+load-and-go
+loaded origin
+loader
+local area network
+local change
+local compaction
+local compaction
+local configuration
+local customization
+local data
+local data
+local SAM owner
+local variable
+local variable
+localization
+location facility
+location reference
+location transparency
+lock
+lockout
+log
+log off
+log on
+logic programming language
+logic programming language
+logical cohesion
+logical cohesion
+logical file
+logical layout
+logical record
+logical relationship
+logical source statement
+logical trace
+logical transaction
+logical type
+long-term asset
+lookup build
+loop
+loop assertion
+loop assertion
+loop body
+loop body
+loop control
+loop invariant
+loopback
+loopback testing
+loopback testing
+loop-control variable
+loop-control variable
+low level
+low level language
+lowclass
+low-level design
+lrm
+LTPr
+machine address
+machine code
+machine code
+machine language
+machine-dependent
+machine-independent
+machine-readable
+macro
+macro library
+macroassembler
+macrogenerator
+macroinstruction
+macroprocessor
+macroprogramming
+magic number
+main procedure
+main program
+mainframe
+maintainability
+maintainability plan
+maintained
+maintainer
+maintenance
+maintenance branch
+maintenance enhancement
+maintenance manual
+maintenance manual
+maintenance personnel
+maintenance plan
+maintenance program
+maintenance project
+maintenance rate
+manage project team
+manage stakeholder expectations
+managed network
+managed process
+managed web site
+management
+management process
+management review
+mandatory
+mandatory category
+mandatory nonidentifying relationship
+mandatory subgroup
+man-machine interface
+manufacture
+manufacturer
+manufacturing phase
+manufacturing phase
+many-sorted algebra
+many-to-many relationship
+map program
+mapping
+mapping completeness
+marginal economics
+marketing organization
+marking
+marking of a place
+mark-up
+mask
+master library
+master library
+master schedule
+master state
+material
+matrix organization
+mean execution time
+mean execution time rating value
+mean execution time reference value
+mean time between failures
+mean time between failures
+mean time to repair
+mean time to repair
+meaning
+means uncertainty
+measurable concept
+measurand
+measure
+measure of effectiveness
+measure of performance
+measurement
+measurement analyst
+measurement experience base
+measurement function
+measurement librarian
+measurement method
+measurement procedure
+measurement process
+measurement process owner
+measurement sponsor
+measurement standard
+measurement standard
+measurement user
+measuring instrument
+mechanicals
+mechanism
+mechanism arrow
+mechanism loopback
+medium
+memory
+memory capacity
+memory compaction
+memory compaction
+memory dump
+memory dump
+memory map
+menu
+menu by-pass
+menu by-pass
+menu structure
+menu-driven
+merge
+merge from current
+message
+meta-
+meta-attribute
+metacompiler
+metadata
+metadata model
+meta-entity
+metalanguage
+meta-meta-attribute
+meta-meta-entity
+meta-meta-relationship
+metamodel
+meta-object
+meta-object facility
+meta-relationship
+meta-scrum
+method
+method engineer
+method standard
+methodology
+methodology element
+metric
+metric validation
+metric value
+metrics framework
+metrics sample
+micro code assembler
+microarchitecture
+microcode
+microcode assembler
+microcomputer
+microinstruction
+microoperation
+microprocessor
+microprogram
+microprogrammable computer
+microprogrammable computer
+microprogrammed computer
+microprogrammed computer
+microprogramming
+microword
+migrated attribute
+migration
+migration transparency
+milestone
+milestone retrospective
+milestone schedule
+minicomputer
+minimap
+minimum delay programming
+minimum delay programming
+minimum releasable features
+minimum tasks
+minimum viable product
+mirror site
+mistake
+mitigating function
+mixed entry table
+mixed mode
+mixed mode
+mixed type
+mmfs
+mob programming
+mobility schema
+mock object
+mock objects
+mock-up
+mode
+model
+model hierarchy
+model layers
+model name
+model name abbreviation
+model note
+model note number
+model page
+modeling tool
+modifiability
+modifiable
+modified source statement
+modified-off-the-shelf
+modular
+modular decomposition
+modular decomposition
+modular programming
+modular programming
+modularity
+modularization
+module
+module data
+module strength
+module testing
+monadic selective construct
+monadic selective construct
+monitor
+monitor and control project work
+monitor and control risks
+monitoring
+monitoring and controlling processes
+Monte Carlo analysis
+Monte Carlo simulation
+moscow
+move
+mrfs
+muda
+multiaddress instruction
+multiaddress instruction
+multi-component system
+multilevel address
+multilevel storage
+multiple exclusive selective construct
+multiple inclusive selective construct
+multiple inclusive selective construct
+multiple inheritance
+multiple readers and writers
+multiple sites GSC
+multiple-address instruction
+multiple-hit decision table
+multiplicity
+multiprocessing
+multiprogramming
+multiset
+multiset cardinality
+multitasking
+multi-valued
+multi-valued property
+mura
+muri
+musketeer attitude
+mutable class
+mutation
+mutation testing
+mutation testing
+mutual exclusion
+mutually exclusive clustering
+mvp
+N 2 diagram
+n -address instruction
+n -level address
+n -plus-one address instruction
+n-address instruction
+naive technical debt
+name
+named constant
+named constraint
+namespace
+nano code
+nanocode
+nanoinstruction
+nanostore
+N-ary relationship
+Nassi-Shneiderman chart
+natural key
+navigation
+navigational aids
+near-critical activity
+nest
+nesting
+net
+net graph
+network
+network chart
+network logic
+network open end
+network path
+network planning
+networking
+new source statements
+nice-to-have features
+niko-niko calendar
+n-level address
+node
+node index
+node letter
+node number
+node tree
+nomenclature standard
+non-deliverable item
+nondelivered source statement
+nondestructive read
+nondestructive read
+nondeveloped source statement
+nondevelopmental
+nonfunctional requirements
+nonidentifying relationship
+nonintrinsic relationship
+nonkey attribute
+non-primary entity
+nonprocedural language
+nonprocedural language
+nonprocedural programming language
+non-terminal symbol
+non-time-critical computationally intensive task
+no-op
+no-operation
+normalization
+not printable
+notation standard
+notation standard
+note
+notebook computer
+notice of revision
+notice of revision
+n-plus-one address instruction
+nucleus
+numeric
+OAuth
+object
+object adapter
+object code
+object identifier
+object language
+Object Management Group
+object model
+object module
+object module
+object of interest
+object program
+object program
+object reference
+object set
+object type
+object type set
+objective
+objective evidence
+object-oriented design
+object-oriented design
+object-oriented language
+object-oriented language
+objref
+observation
+observation period
+occupational title standard
+occupational title standard
+octet
+ODBC driver
+ODP function
+ODP standards
+ODP system
+office automation
+offline
+offset
+off-the-shelf
+one-address instruction
+one-address instruction
+one-ahead addressing
+one-ahead addressing
+one-level address
+one-plus-one address instruction
+one-plus-one address instruction
+one-to-many relationship
+online
+on-line
+on-line compiler
+online data entry GSC
+online documentation
+online update GSC
+on-screen documentation
+ontology
+op code
+Open Database Connectivity
+open distributed processing
+Open Services
+open subroutine
+operable
+operand
+operating environment
+operating system
+operating system
+operation
+operation and maintenance phase
+operation and maintenance phase
+operation code
+operation exception
+operation exception
+operation field
+operation interface
+operation interface signature
+operation part
+operational
+operational data store
+operational ease GSC
+operational expense
+operational product
+operational scenario
+operational testing
+operational testing
+operations
+operator
+operator field
+operator manual
+operator manual
+opex
+opportunity
+opportunity study
+optimizing process
+optional
+optional attribute
+optional category
+optional nonidentifying relationship
+optional requirement
+optional subgroup
+optional task
+ORB core
+order clash
+ordered list
+ordinal scale
+organization
+organization chart
+organization level
+organizational breakdown structure
+organizational maturity
+organizational policy
+organizational process assets
+organizational unit
+origin
+origin attribute
+original source statement
+orphan
+outcome measure
+outer cardinality
+outgoing change set
+outgoing link
+outgoing synchronization
+output
+output arc
+output argument
+output arrow
+output assertion
+output assertion
+output measure
+output place
+output primitive
+output product
+output sort
+overflow exception
+overflow exception
+overhead operation
+overhead time
+overlay
+overlay supervisor
+overlay supervisor
+overload
+override
+overriding property
+owned attribute
+owner
+owner of the FSM method
+pack
+package
+packaging
+padding
+page
+page breakage
+page breakage
+page frame
+page reference
+page swapping
+page table
+page turning
+page type letter
+page zero
+pager
+paging
+pair programming
+paired programming
+pairing
+paper documentation
+parallel
+parallel classes
+parallel construct
+parallel development
+parallel run operation
+parameter
+parameterized collection class
+parameterized high-level net graph
+parametric estimating
+parent box
+parent diagram
+parent entity
+parent function
+Pareto chart
+parse
+parser
+partial
+partial cluster
+partial correctness
+partial correctness
+participant property
+partitioning
+party
+pass
+pass/fail criteria
+pass/fail criteria
+passive I/O device
+passive I/O device interface task
+passive interconnection
+passive object
+passive white space
+patch
+path
+path analysis
+path analysis
+path condition
+path convergence
+path divergence
+path expression
+path expression
+path testing
+path testing
+pathological coupling
+pathological coupling
+pattern
+pattern-sensitive fault
+pause
+pbi
+PBI slotting
+pbi slotting
+peer review
+percent complete
+perfective maintenance
+perform qualitative analysis
+perform quality assurance
+perform quality control
+perform quantitative analysis
+performance
+performance analysis
+performance GSC
+performance indicator
+performance measurement baseline
+performance reports
+performance requirement
+performance specification
+performance testing
+performance testing
+performed process
+performing organization
+periodic I/O device interface task
+periodic task
+peripheral equipment
+permanence
+persistence schema
+persistence transparency
+persistent storage
+persistent URI
+persona
+personal computer
+personal stream
+personas
+personnel
+Petri net
+physical configuration audit
+physical configuration audit
+physical metadata layer
+physical source statement
+picture
+pig
+pigs
+pigs and chickens
+pilot project
+pipeline
+pirate metrics
+pivot
+pixel
+place
+place type
+place/transition net
+plan communications
+plan procurement
+plan quality
+plan risk management
+plan risk responses
+plan standard
+plan standard
+plan-driven process
+planned process
+planned value
+planning board
+planning game
+planning package
+planning poker
+Planning Poker
+planning processes
+platform
+playback
+point
+point design
+point inflation
+pointer
+points
+poker planning
+policy
+portability
+portable computer
+portal
+portfolio
+portfolio backlog
+portfolio management
+portfolio metrics
+portfolio planning
+portfolio vision
+portlet
+port-to-port time
+port-to-port time
+postamble breakpoint
+postcondition
+postmortem dump
+postmortem dump
+postprocessor
+post-tested iteration
+potentially shippable product increment
+powertype
+practice
+practices
+pragma
+preamble breakpoint
+precedence diagramming method
+precedence relationship
+precision
+precompiler
+precondition
+predecessor activity
+prediction
+predictive metric
+predictive metric value
+predictive process
+preliminary design
+preliminary design review
+preparation time
+preprocessor
+prescription
+prescriptive process
+presentable
+prestore
+pre-tested iteration
+prettyprinting
+preventive action
+preventive maintenance
+previously developed software
+primary entity-type
+primary key
+primitive
+primitive type
+principal
+principle
+principle of least astonishment
+printed documentation
+priority
+priority ceiling protocol
+priority interrupt
+priority interrupt
+priority inversion
+private
+private type
+private type
+privileged instruction
+privileged instruction
+privileged state
+probability
+probability and impact matrix
+problem
+problem definition
+problem domain
+problem report
+problem state
+problem state
+problem-oriented language
+problem-oriented language
+procedural cohesion
+procedural cohesion
+procedural language
+procedural language
+procedural programming language
+procedure
+procedure-oriented language
+process
+process action plan
+process action team
+process architect
+process architecture
+process area
+process assessment
+process assessment model
+process asset library
+process attribute
+process attribute rating
+process capability
+process capability determination
+process capability determination sponsor
+process capability level
+process capability level rating
+process context
+process description
+process dimension
+process group
+process improvement
+process improvement objective
+process improvement program
+process improvement project
+process improvement sponsor
+process management
+process management
+process measures
+process metric
+process outcome
+process owner
+process performance
+process profile
+process purpose
+process reference model
+process standard
+process tailoring
+processing logic
+processor
+procurement documents
+procurement management plan
+product
+product analysis
+product authority
+product backlog
+product backlog grooming
+product backlog item
+product backlog refinement
+product backlog�
+product baseline
+product baseline
+product configuration identification
+product development effort
+product engineering
+product engineering
+product family
+product life cycle
+product line
+product line engineering
+product management
+product management
+product measures
+product metric
+product owner
+product owner proxy
+product planning
+product requirement
+product roadmap
+product sashimi
+product scope
+product scope description
+product standard
+product standard
+product support
+product vision
+production
+production library
+production library
+productivity
+professional standard
+professional standard
+profile
+program
+program backlog
+program construct
+program counter
+program definition language
+program design
+program design language
+program epics
+Program Evaluation and Review Technique
+program flowchart
+program increment
+program instruction
+program instruction
+program librarian
+program library
+program listing
+program maintenance manual
+program management
+program mutation
+program network chart
+program pi objectives
+program portfolio management
+program specification
+program status word
+program status word
+program synthesis
+programmable breakpoint
+programmable terminal
+programmer manual
+programmer manual
+programming
+programming in pairs
+programming language
+programming support environment
+programming system
+program-sensitive fault
+program-sensitive fault
+progressive elaboration
+progressive refinement
+project
+project agreement
+project area
+project area configuration
+project calendar
+project charter
+project chartering
+project communications management
+project control
+project cost management
+project deliverable
+project file
+project function point count
+project health
+project human resource management
+project inception
+project initiation
+project integration management
+project leader
+project level
+project life cycle
+project management
+Project Management Body of Knowledge
+project management information system
+project management knowledge area
+project management office
+project management plan
+project management process group
+project management software
+project management system
+project management team
+project manager
+project organization chart
+project phase
+project plan
+project planning
+project portfolio
+project procurement management
+project quality management
+project release plan
+project resource constraint
+project risk management
+project risk profile
+project schedule
+project schedule network diagram
+project scope management
+project scope statement
+project snapshot
+project team
+project team directory
+project time management
+project/application attribute
+projectized organization
+prolog breakpoint
+promotion
+prompt
+proof
+proof of correctness
+property
+proposal
+proposed change
+protected
+protection exception
+protocol
+protocol object
+prototype
+prototyping
+provision
+provisional assessor
+pseudo code
+pseudo instruction
+pseudo instruction
+pseudo operation
+pseudocode
+pseudo-op
+public
+punch list
+purpose statement
+qualification
+qualification requirement
+qualification testing
+qualification testing
+qualitative risk analysis
+quality
+quality assurance
+quality assurance
+quality control
+quality control
+quality evaluation
+quality factor
+quality factor
+quality factor sample
+quality factor value
+quality in use
+quality management
+quality management
+quality management plan
+quality measure element
+quality metric
+quality model
+quality subfactor
+quantitative risk analysis
+quantity
+query
+query language
+query language
+queue
+quick design session
+quiescing
+random failure
+rapid application development rad
+rapid prototyping
+rapid prototyping
+rate-monotonic algorithm
+rating
+rating interval
+rating level
+ratio
+rational unified process
+reachability graph
+reachability set
+reachable marking
+reactivation
+read
+readability
+reader note
+reading reference
+read-only
+ready
+real address
+real storage
+real storage
+real time
+real type
+realization
+real-time
+real-time scheduling theory
+real-world object
+recommendation
+reconcile
+record
+record element type
+record type
+recoverability
+recovery
+recto
+recursion
+recursive
+redundancy
+reengineering
+reenterable
+reentrant
+reentry point
+reentry point
+refactoring
+reference dimension
+reference expression
+reference FSM method
+reference mode
+reference user requirement collection
+referential integrity
+reflexive
+reflexive ancestor
+regression test
+regression testing
+regression testing
+relation
+relational data
+relationship
+relationship instance
+relationship name
+relationship type
+relative address
+relative address
+relative chain frequency
+relative estimation
+relative loader
+relative size measure
+release
+release engineer
+release goal
+release management
+release plan
+release planning
+release train
+release train engineer rte
+reliability growth
+reliability growth
+relocatable
+relocatable address
+relocatable address
+relocatable code
+relocatable code
+relocate
+relocating assembler
+relocating assembler
+relocating loader
+relocation dictionary
+relocation dictionary
+relocation transparency
+relocator
+remote batch entry
+remote job entry
+remote job entry
+remote team member
+remote terminal emulator
+repair
+reparent
+repeatability
+repeatability
+repetitive addressing
+repetitive addressing
+replay
+replication
+replication schema
+replication transparency
+repo
+repo bloat
+repo master
+repo surgery
+report
+report performance
+report server
+report standard
+report standard
+report template
+repository
+repository
+repository workspace
+representation
+representation property
+representation standard
+representation standard
+Representational State Transfer
+reproducibility
+request
+request for change
+request for information
+request for proposal
+request for quotation
+request token
+required inputs
+required outputs
+requirements creep
+rescoring
+rescue point
+reserve
+reserve analysis
+reserved word
+reserved word
+reserved word in a computer language
+reset
+resident control program
+residual control
+residual control
+residual risk
+resolve
+resource
+resource breakdown structure
+resource calendar
+resource definition
+resource group
+resource histogram
+resource leveling
+resource management
+resource monitor task
+resource-limited schedule
+respecialize
+response time
+responsibility
+responsibility assignment matrix
+restart
+restart point
+result
+resume
+retainage
+retirement
+retirement phase
+retrospective
+retrospective trace
+return
+return code
+return on investment
+return value
+reusability
+reusability GSC
+reusable
+reusable product
+reusable software product
+reuse
+reuse sponsor
+reused source statement
+reverse engineering
+reverse execution
+reverse proxy
+reversible execution
+reversible execution
+review
+revision
+rework
+rich hover
+risk
+risk acceptance
+risk action request
+risk analysis
+risk avoidance
+risk breakdown structure
+risk category
+risk criteria
+risk dimension
+risk exposure
+risk factor
+risk handling
+risk identification
+risk leverage factor
+risk management
+risk management plan
+risk management process
+risk management system
+risk metric
+risk mitigation
+risk monitoring and control
+risk profile
+risk reduction
+risk register
+risk state
+risk threshold
+risk tolerance
+risk transfer
+risk transference
+risk treatment
+risk trigger
+road map
+robotics
+robust
+robustness
+role
+role name
+role-feature-reason
+roll back
+roll in
+roll out
+rolling wave planning
+root arrow segment
+root cause
+root cause analysis
+root compiler
+root compiler
+root-cause analysis
+routine
+rule
+Rule and Constraint Language
+rule-based language
+rules of simplicity
+run
+run stream
+run time
+running time
+safety
+safety-critical software
+SAM owner
+sample instance diagram
+sample instance table
+sandbox
+satisfaction
+scaffolding
+scalar
+scalar-valued class
+scalar-valued property
+scale
+schedule based planning
+schedule baseline
+schedule compression
+schedule development
+schedule management plan
+schedule model
+schedule network analysis
+schedule performance index
+schedule variance
+scheduled finish date
+scheduled start date
+scheduler
+scope
+scope baseline
+scope change
+scope management plan
+scope of the FSM
+scorecard
+screen dump
+screen flow
+scrum
+Scrum
+Scrum framework
+scrum framework
+scrum master
+scrum of scrums
+scrum sprint
+scrum team
+Scrum team
+scrumban
+ScrumMaster
+scrummaster
+scrummerfall
+Scrummerfall
+S-curve
+search path
+second generation language
+second normal form
+secondary risk
+secondary window
+security
+security accreditation
+security authority
+security branch
+security domain
+security interaction policy
+security kernel
+security kernel
+security policy
+security testing
+SEE service
+SEE service acquirer
+SEE service supplier
+segment
+selective choice construct
+selective dump
+selective dump
+selective trace
+self-descriptiveness
+self-directed work team
+self-documented
+self-organization
+self-relative address
+seller
+semantic agreement
+semantic error
+semantics
+semaphore
+sensitivity analysis
+separate documentation
+sequence activities
+sequential
+sequential clustering
+sequential cohesion
+sequential cohesion
+sequential process
+serial
+serial construct
+servant leader
+server
+server friend
+server-side
+service
+service desk
+service export
+service import
+service level agreement
+service management
+service offer
+service primitive
+service provider
+set
+set-up time
+set-up time
+severity
+shadow class
+shared resources
+shell
+should-cost estimate
+sign up for tasks
+signal
+signal interface
+signal interface signature
+signature
+sign-on
+signpost
+silent grouping
+simple buffering
+simple buffering
+Simple Cloud Identity Management
+simple design
+simple domain
+simple token
+simplicity
+simulation
+simulator
+simultaneous
+simultaneous recursion
+simultaneous recursion
+single done
+single machine microinstruction
+single sign-on
+single-address instruction
+single-hit decision table
+single-level encoding
+single-level encoding
+single-operand instruction
+single-piece flow
+single-step operation
+single-step operation
+single-valued property
+sizing
+skeleton
+skunkworks
+slave state
+slush
+snapshot
+snapshot dump
+snapshot dump
+soft copy image
+soft error
+soft failure
+soft failure
+software
+software acquisition process
+software asset management
+software characteristic
+software characteristic
+software component
+software configuration item
+software configuration management
+software configuration management
+software configuration management
+software design
+software design audit
+software design concept
+software design description
+software design description
+software design notation
+software design verification
+software development cycle
+software development cycle
+software development file
+software development file
+software development folder
+software development library
+software development library
+software development notebook
+software development plan
+software development plan
+software development process
+software diversity
+software diversity
+software engineering
+software engineering environment
+software engineering environment
+software feature
+software hazard
+software header
+software integrity level
+software item
+software library
+software life cycle
+software life cycle
+software maintenance
+software maintenance
+software monitor
+software monitor
+software package
+software piracy
+software product
+software product developer
+software product evaluation
+software project
+software project life cycle
+software project life cycle model
+software project life cycle process
+software quality
+software quality assurance
+software quality characteristic
+software quality evaluation
+software quality in use
+software quality measure
+software quality metric
+software release management
+software reliability
+software reliability management
+software repository
+software repository
+software requirements engineering
+software safety program
+software support
+software system
+software tag
+software test environment
+software test incident
+software test incident
+software testing
+software tool
+software tool
+software transition
+software unit
+software user documentation
+software-based system
+software-intensive system
+solution
+solution domain
+sort
+sos
+source
+source address
+source address
+source code
+source code
+source code data
+source code generator
+source control
+source control management
+source language
+source language
+source program
+source program
+source statements
+special cause
+specialize
+specific address
+specific code
+specific symbol
+specification by example
+specification limits
+specification relationships to one another
+spike
+spiral model
+spiral model
+split key
+sponsor
+spool
+spooler
+spreadsheet program
+sprint
+sprint / iteration
+sprint backlog
+sprint demo
+sprint execution
+sprint goal
+sprint mapping
+sprint plan
+sprint planning
+sprint planning meeting
+sprint retrospective
+sprint review
+squiggle
+stability schema
+stabilization phase
+stable branch
+stable process
+staff-hour
+staffing management plan
+stage
+staged representation
+staging stream
+stakeholders
+stand up
+stand-alone
+standard
+standard process
+standards
+standby redundancy
+standby redundancy
+standby time
+stand-up
+standup meeting
+standup/daily meeting
+star schema
+start date
+starting address
+starting address
+start-to-finish
+start-to-start
+startup
+state
+state class
+state data
+state diagram
+state name
+state transition diagram
+statement
+statement of work
+statement testing
+statement testing
+static
+static analysis
+static analysis
+static binding
+static breakpoint
+static breakpoint
+static dump
+static dump
+static error
+static model
+static schema
+statistical process control
+statistically managed process
+status code
+step
+step-by-step operation
+stepwise refinement
+stop
+storage
+storage allocation
+storage allocation
+storage breakpoint
+storage capacity
+storage efficiency
+store
+story mapping
+story splitting
+storyboard
+straight-line code
+straight-line code
+straight-line coding
+straight-line coding
+strategic filter
+strategic technical debt
+strategic themes
+strategy
+stratified language
+stratified language
+stream
+stream interface
+stream interface signature
+"strengths, weaknesses, opportunities, and threats analysis"
+stress testing
+stress testing
+strong typing
+structural testing
+structural testing
+structure chart
+structure clash
+structured design
+structured design
+structured program
+structured programming
+structured programming language
+structured programming language
+structured walkthrough
+stub
+style
+subclass
+subclass cluster
+subclass responsibility
+subject area
+subject domain
+subject domain responsibility
+subject system
+subject tool
+submit primitive
+subnetwork
+subordinate web site
+subphase
+subprogram
+subproject
+subroutine
+subroutine trace
+subroutine trace
+substitutability
+subsystem
+subtype
+successful adoption
+successor activity
+summary activity
+superclass
+supercomputer
+supervisor
+supervisor state
+supervisor state
+supervisory program
+supervisory program
+supplementary run
+supplier
+support
+support activity group
+support manual
+support manual
+support software
+support software
+support staff-hour
+supporting data item
+supporting process
+surrogate key
+suspect
+suspend
+suspicion profile
+sustainable pace
+sustainment
+swap
+swarming
+symbol
+symbol table
+symbol table
+symbolic address
+symbolic execution
+symbolic execution
+symbolic language
+symbolic language
+symbolic trace
+symbolic trace
+sync
+synchronization
+synchronization engine
+synchronize
+synchronize
+synchronous
+synchronous message communication
+synchronous message communication with reply
+synchronous message communication without reply
+synchronous request
+syntactic agreement
+syntactic error
+syntactic error
+syntax
+syntax error
+synthetic address
+system
+system analysis
+system architect
+system architecture
+system breakdown structure
+system definition reference search
+system definitions
+system definitions node
+system demo
+system description
+system design
+system design review
+system design review
+system development
+system development cycle
+system development cycle
+system documentation
+system effectiveness
+system element
+system entity
+system flowchart
+system follow-up
+System for Cross-domain Identity Management
+system hazard
+system integration
+system interface task
+system library
+system life cycle
+system life cycle
+system maintenance
+system model
+system model
+system of systems
+system profile
+system profile
+system requirements review
+system resources chart
+system safety
+system software
+system software
+system support
+system table
+system team
+system testing
+system under test
+systematic failure
+systematic reuse
+system-of-interest
+systems engineering
+systems integration testing
+table
+table heading
+table of contents
+table of effective pages
+table-driven method
+tacit knowledge
+tag
+tag slide
+tailoring
+tailoring guideline
+target capability
+target language
+target language
+target machine
+target machine
+target of process
+target program
+targeted technical debt
+task
+task behavior specification
+task board
+task complete definition
+task completion
+task interface
+task inversion
+task mode
+task priority criteria
+task structuring
+task submission
+task type
+task-clustering criteria
+task-structuring criteria
+taxonomy
+tdd
+team
+team area
+team demo
+team member
+team pi objectives
+team release plan
+team room
+team selection plan
+team/team member
+technical complexity adjustment
+technical complexity adjustment factors
+technical contact
+technical debt
+technical management
+technical management
+technical performance measurement
+technical practices
+technical requirements
+technical review
+technical standard
+technical standard
+technique
+techniques
+technology viewpoint
+template
+temporal clustering
+temporal cohesion
+temporal cohesion
+term
+term evaluation
+terminal
+terminal symbol
+termination construct
+termination construct
+termination deliver
+termination submit
+test
+test approach
+test automation
+test bed
+test case
+test case
+test case
+test case execution record
+test case generator
+test case generator
+test case specification
+test class
+test coverage
+test coverage
+test criteria
+test criteria
+test data
+test data generator
+test description
+test design
+test design
+test design specification
+test documentation
+test documentation
+test driven development
+test driver
+test driver
+test effort
+test environment
+test estimation
+test execution
+test generator
+test harness
+test harness
+test incident report
+test item
+test item transmittal report
+test level
+test log
+test log
+test objective
+test objective
+test phase
+test phase
+test plan
+test plan
+test procedure
+test procedure specification
+test procedure specification
+test readiness review
+test readiness review
+test repeatability
+test repeatability
+test report
+test script
+test script
+test set architecture
+test specification
+test suite
+test suite execution record
+test summary report
+test unit
+test unit
+testability
+test-driven development
+test-first development
+testing
+testing description
+testing task iteration
+testware
+text
+text editor
+text editor
+text page
+text processing
+the operand
+the three c�s
+theme
+think time
+third generation language
+third normal form
+thrashing
+threat
+three amigos
+three questions
+three-address instruction
+three-plus-one address instruction
+three-plus-one address instruction
+three-point estimate
+threshold
+throughput
+throughput rating value
+throughput reference value
+throwclear
+tier chart
+time
+time and material contract
+time class
+time out
+time out
+time sharing
+time slicing
+time slicing
+timebox
+timeboxing
+time-critical task
+timeline
+timeliness function
+timeliness rating value
+timely throughput
+timer event
+time-scaled schedule network diagram
+timesharing
+timing
+timing analyzer
+timing diagram
+tinderbox
+to-compete-performance index
+token
+tool
+toolkit
+top box
+top-down
+top-down design
+topic
+top-level function
+topology
+total
+total cluster
+total correctness
+total correctness
+total degree of influence
+total float
+total quality management
+T-profile
+trace
+trace link
+traceability matrix
+traceable
+track build item
+trade secret
+trade study
+trademark
+trade-off
+trade-off analysis
+traditional development process
+trailer
+trailing decision
+trailing decision
+training
+transaction
+transaction analysis
+transaction analysis
+transaction cost
+transaction file
+transaction matrix
+transaction matrix
+transaction rate GSC
+transaction schema
+transaction transparency
+transactional function
+transactional function type
+transactional functions
+transaction-centered design
+transfer
+transfer file
+transform analysis
+transform analysis
+transformation analysis
+transformation model
+transform-centered design
+transient error
+transient error
+transition
+transition condition
+transition mode
+transition occurrence
+transition variables
+translator
+transparency
+transportability
+trap
+tree-structured chart
+trend
+trend analysis
+triggering event
+triggers
+triple constraint
+trunk
+t-shaped skills
+T-shaped skills
+t-shirt sizing
+tunnel notation
+tunneled arrow
+tunneling
+turnaround time
+turnkey
+turnkey system
+tutorial
+two-address instruction
+two-level address
+two-level encoding
+two-plus-one address instruction
+type
+U-curve optimization
+u-curve optimization
+unambiguous
+unavoidable technical debt
+unbundle
+uncertainty
+unconditional jump
+underflow exception
+underlying license
+understandability
+undirected graph
+Unified Modeling Language
+unique function
+unit
+unit of measurement
+unit requirements documentation
+unit test
+unit test framework
+unit testing
+unknown unknowns
+unnecessary formality
+unpack
+unspecialize
+unstratified language
+unwind
+up
+up time
+updatable argument
+upload
+upstream
+upward compatible
+upward compression
+usability
+usability laboratory
+usability test
+usability testing
+usage mode
+use case
+use case model
+use of IT
+user
+user documentation
+user experience ux
+user group
+user interface
+user interface sketch
+user interface task
+user manual
+user manual
+user role
+user terminal
+user type
+user view
+user-friendly
+user-identifiable
+using smartsheet as your agile project management tool
+utility
+utilization
+utilization bound theorem
+valid
+validated learning
+validated metric
+validation test
+validity
+validity summary
+value
+value adjustment factor
+value chain
+value class
+value engineering
+value list constraint
+value map
+value range constraint
+values
+vanity metric
+variability
+variable
+variable trace
+variance
+variance analysis
+variant
+variation point
+velocity
+vendor branch
+Ver
+verb phrase
+verifiable
+verification
+verification and validation
+verification and validation effort
+verification method
+verification sponsor
+verification test
+version
+version control
+version description document
+version description document
+verso
+vertical microinstruction
+vertical microinstruction
+vertical slice
+video display terminal
+view
+view diagram
+viewpoint
+viewpoint
+viewpoint statement
+violation
+virtual
+virtual address
+virtual address
+virtual machine
+virtual memory
+virtual reference
+virtual storage
+virtual team
+visibility
+visual agilexicon�
+voice of the customer
+wag
+waiver
+walk-through
+war room
+warning
+waste
+waterfall
+waterfall model
+waterfall model
+waterfall process
+waterscrum
+WaterScrum
+wearout-failure period
+wearout-failure period
+web app
+web application
+web page
+web site
+weighted shortest job first
+well-engineered web site
+white box
+white-box testing
+whitespace
+whole-team approach
+widget
+widow
+wiki
+window
+wip
+wizard
+won t-have features
+won�t-have features
+word
+work activity
+work authorization
+work authorization system
+work breakdown structure
+work breakdown structure component
+work breakdown structure dictionary
+work effort
+work in process
+work in progress
+work in progress limits
+work item
+work package
+work performance information
+work product
+work task
+workaround
+workflow
+working area
+working metamodel
+working set
+working set
+working space
+working space
+working storage
+workload
+workload model
+workspace
+workspace flow target
+workspace snapshot
+workstation
+write
+write
+writing reference
+wsjf
+XDC file
+xenodochial
+XML data configuration file
+xp
+zComponent
+zComponent project
+zero-address instruction
+zFile
+zFolder

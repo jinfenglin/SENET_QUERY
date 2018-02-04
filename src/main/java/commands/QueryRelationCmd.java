@@ -3,6 +3,7 @@ package commands;
 
 import org.apache.commons.cli.OptionBuilder;
 import phrases.Phrase;
+import result.QueryRelationRes;
 import wordGraph.WordGraph;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Options;
@@ -23,44 +24,44 @@ public class QueryRelationCmd extends Command {
         options.addOption("d", "data-set", true, "Search only in given domain");
     }
 
-    public void execution(WordGraph wg, String[] args) {
+    public QueryRelationRes execution(WordGraph wg, String[] args) {
         try {
             CommandLine cmdLine = parser.parse(options, args);
             List<String> remainArgs = cmdLine.getArgList(); //remmaining args are treated as words to be queried
             remainArgs.remove(0);
             String word = String.join(" ", remainArgs);
             int optionNum = cmdLine.getOptions().length;
-            System.out.println("===========================");
+
             Phrase phrase = wg.getPhrase(word);
+            QueryRelationRes res = new QueryRelationRes(phrase);
             if (phrase == null) {
                 System.out.println("Unable to locate phrase:" + word);
+                return null;
             } else {
                 String dValue = cmdLine.getOptionValue("d");
                 if (dValue != null && !phrase.getDataType().equals(dValue)) {
                     System.out.println("Vertex found in graph, but not in the domain" + dValue);
-                    return;
+                    return null;
                 } else if (dValue != null) {
                     optionNum--; //minus the parameter behind -d
                 }
-                System.out.println("Phrase:" + phrase.toString());
-                System.out.println("--------------------------");
             }
             if (cmdLine.hasOption("H") | optionNum == 0)
-                System.out.println("Hypernym:" + wg.getHypernym(word));
+                res.setHypernym(wg.getHypernym(word));
             if (cmdLine.hasOption("h") | optionNum == 0)
-                System.out.println("Hypernon:" + wg.getHyponymy(word));
+                res.setHypernon(wg.getHyponymy(word));
             if (cmdLine.hasOption("S") | optionNum == 0)
-                System.out.println("Sibling/Contrast:" + wg.getContrast(word));
+                res.setContrast(wg.getContrast(word));
             if (cmdLine.hasOption("s") | optionNum == 0)
-                System.out.println("Synonym:" + wg.getSynonym(word));
+                res.setSynonym(wg.getSynonym(word));
             if (cmdLine.hasOption("a") | optionNum == 0)
-                System.out.println("Acronym:" + wg.getAcronym(word));
+                res.setAcronym(wg.getAcronym(word));
             if (cmdLine.hasOption('r') | optionNum == 0)
-                System.out.println("Related:" + wg.getRelated(word));
-            System.out.println("===========================");
-
+                res.setRelated(wg.getRelated(word));
+            return res;
         } catch (Exception e) {
             System.out.println(e);
         }
+        return null;
     }
 }
