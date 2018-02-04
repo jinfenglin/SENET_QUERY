@@ -1,0 +1,11 @@
+SENET QUERY
+====
+This project is the CLI for the SENET. Currently it support only 2 commands:
+1. query <Phrase>
+This command will return the informations about a single phrases, including its synonyms, hyperno etc.
+2. Query <Phrase1>,<Phrase2>
+This command will return the path from phrase1 to phrase2. The edges in the path can be any type of relationships in the network.
+
+Data Source
+===
+Data source is still under processing thus is not complete.

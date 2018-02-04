@@ -13,10 +13,10 @@ public class CommandManger {
     WordGraph wg;
 
     public CommandManger(WordGraph wg) throws ParseException {
-        commandMap = new HashMap<String, Command>();
+        commandMap = new HashMap<>();
         this.wg = wg;
-        commandMap.put("query", new QueryRelationCmd());
-        commandMap.put("search", new SearchRelationCmd());
+        commandMap.put("query", new QueryRelationCmd()); //Search the information of the given phrase.
+        commandMap.put("search", new SearchRelationCmd()); //Search the path from first phrase to second phrase.
     }
 
     public void execut(String cmd) {
