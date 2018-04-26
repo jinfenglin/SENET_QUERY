@@ -28,13 +28,13 @@ public class WorldRelationExperiment {
             boolean w1in = true, w2in = true;
             w1in = !wr1.isEmpty();
             w2in = !wr2.isEmpty();
-            List<List<String>> hyperPaths = wg.searchPath(w1, w2, SearchConfig.hyperSeach);
-            List<List<String>> synPaths = wg.searchPath(w1, w2, SearchConfig.synSearch);
-            List<List<String>> hyponPaths = wg.searchPath(w1, w2, SearchConfig.hyponSearch);
-            List<List<String>> sibPaths = wg.searchPath(w1, w2, SearchConfig.conSearch);
-            List<List<String>> relatedPath = wg.searchPath(w1, w2, SearchConfig.relatedSearch);
-            String exp = String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s", w1, w2, w1in, w2in, hyperPaths, synPaths, hyponPaths, sibPaths, relatedPath);
-            System.out.println(exp);
+//            List<List<String>> hyperPaths = wg.searchPath(w1, w2, SearchConfig.hyperSeach);
+//            List<List<String>> synPaths = wg.searchPath(w1, w2, SearchConfig.synSearch);
+//            List<List<String>> hyponPaths = wg.searchPath(w1, w2, SearchConfig.hyponSearch);
+//            List<List<String>> sibPaths = wg.searchPath(w1, w2, SearchConfig.conSearch);
+//            List<List<String>> relatedPath = wg.searchPath(w1, w2, SearchConfig.relatedSearch);
+//            String exp = String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s", w1, w2, w1in, w2in, hyperPaths, synPaths, hyponPaths, sibPaths, relatedPath);
+//            System.out.println(exp);
 
         }
         bf.close();

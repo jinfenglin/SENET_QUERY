@@ -6,13 +6,14 @@ public enum SearchConfig {
     acrSearch(Relationship.ACRONYM, true),
     synSearch(Relationship.SYNONYM, true),
     conSearch(Relationship.CONTRAST, true),
-    relatedSearch(Relationship.RELATED, true);
+    relatedSearch(Relationship.RELATED, true),
+    anySearch(Relationship.ANY, true);
 
     public Relationship relationship;
     boolean getIncomingEdge;
     public String dataType;
 
-    SearchConfig(Relationship relationship, Boolean getIncomingEdge, String dataType) {
+     SearchConfig(Relationship relationship, Boolean getIncomingEdge, String dataType) {
         this(relationship, getIncomingEdge);
         this.dataType = dataType;
     }

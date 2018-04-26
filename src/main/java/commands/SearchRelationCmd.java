@@ -24,7 +24,7 @@ public class SearchRelationCmd extends Command {
             remainArgs.remove(0);
             String[] words = String.join(" ", remainArgs).split(",");
             //TODO check the word all in reuqired domain first before searching.
-            List<List<String>> paths = wg.searchPath(words[0], words[1], SearchConfig.relatedSearch.setDataType("IEEE"));
+            List<List<String>> paths = wg.searchPath(words[0], words[1]);
             SearchRelationRes res = new SearchRelationRes(paths);
             return res;
         } catch (Exception e) {

@@ -1,0 +1,272 @@
+activity,practice
+adaptation,empirical process control
+adaptation,inspection
+adaptation,transparency
+agile,Extreme Programming
+agile,Kanban
+agile,Scrum
+all-before-any,batch size
+anticipatory process,plan-driven process
+antifragility,antifragile
+approach,activity
+approach,practice
+artifact,practice
+attd,acceptance-test-driven development
+batch size,work in process
+boy scout rule,technical debt
+cadence,synchronization
+capacity,work in process
+capex,capital expenditure
+ceremony,activity
+ceremony,unnecessary formality
+chaotic domain,Cynefin
+chief product owner,product owner
+co-located team,remote team member
+complex domain,Cynefin
+complicated domain,Cynefin
+conditions of satisfaction,acceptance criteria
+continuous delivery,continuous deployment
+continuous deployment,continuous delivery
+continuous integration,integration
+continuous integration,technical practices
+cost accounting,captial expenditure
+cost accounting,operational expense
+csm,Certified ScrumMaster
+csp,Certified Scrum Professional
+cspo,Certified Scrum Product Owner
+cst,Certified Scrum Trainer
+customer uncertainty,uncertainty
+daily scrum,inspect and adapt
+daily stand-up,daily scrum
+deep,product backlog
+development team,cross-functional team
+development team,product owner
+development team,ScrumMaster
+development team,Scrum team
+disorder domain,Cynefin
+distributed team,remote team member
+done,definition of done
+done-done,definition of done
+dot voting,sprint retrospective
+emergence,complex adaptive system
+emotions seismogram,sprint retrospective
+end uncertainty,uncertainty
+enterprise value chain,value chain
+envisioning,product roadmap
+epic,feature
+epic,progressive refinement
+epic,theme
+epic,user story
+essential scrum,approach
+essential scrum,practice
+essential scrum,rule
+essential scrum,Scrum framework
+estimation,forecast
+event timeline,sprint retrospective
+expensed cost,operational expense
+external stakeholders,stakeholders
+extreme programming,agile
+fail fast,fast feedback
+fail fast,inspect and adapt
+fail fast,pivot
+fast feedback,fail fast
+feature,theme
+feature,user story
+feature team,cross-functional team
+fibonacci sequence,Planning Poker
+forecast,estimation
+framework,Scrum framework
+genba,genchi genbutsu
+genchi genbutsu,genba
+grooming,product backlog grooming
+happened-upon technical debt,technical debt
+holding cost,U-curve optimization
+ideal day,ideal hour
+ideal hour,ideal day
+in-process product,portfolio planning
+incremental development,iterative and incremental process
+incremental development,iterative development
+incremental funding,confidence threshold
+incremental funding,validated learning
+insight backlog,sprint retrospective
+inspect and adapt,adaptation
+inspect and adapt,empirical process control
+inspect and adapt,inspection
+inspect and adapt,learning loop
+inspection,adaptation
+inspection,empirical process control
+inspection,transparency
+integration,continuous integration
+internal stakeholders,stakeholders
+inventory,work in process
+invest,user story
+iteration,all-at-once development
+iteration,sprint
+iterative and incremental process,incremental development
+iterative and incremental process,iterative development
+iterative development,incremental development
+iterative development,iteration
+iterative development,iterative and incremental process
+kanban,agile
+kanban,work in process
+known technical debt,technical debt
+long-term asset,cost accounting
+lrm,last responsible moment
+marginal economics,portfolio planning
+means uncertainty,uncertainty
+minimum releasable features,minimum marketable features
+mmfs,minimum marketable features
+mrfs,minimum releasable features
+muda,mura
+muda,muri
+mura,muda
+mura,muri
+muri,muda
+muri,mura
+mvp,minimum viable product
+naive technical debt,technical debt
+nonfunctional requirement,definition of done
+opex,operational expense
+ordered list,prioritized list
+outcome measure,blog post " Output vs
+output measure,blog post " Output vs
+pair programming,technical practices
+pbi,product backlog item
+pbi slotting,sprint mapping
+persona,user story
+pigs,Scrum team
+portfolio backlog,portfolio planning
+practice,activity
+practice,artifact
+practice,role
+practice,rule
+predictive process,plan-driven process
+prescriptive process,plan-driven process
+principle,practice
+principle,values
+prioritized list,product backlog
+product,product development effort
+product backlog,prioritized list
+product backlog,product backlog item
+product backlog item,product backlog
+product owner,Scrum team
+product owner proxy,product owner
+product planning,envisioning
+product roadmap,envisioning
+product vision,envisioning
+project inception,project chartering
+project initiation,project chartering
+prototype,prototyping
+prototyping,prototype
+queue,inventory
+queue,work in process
+ready,definition of ready
+refactoring,technical debt
+refactoring,technical practices
+relative size measure,ideal day
+relative size measure,story point
+release goal,release
+release plan,fixed-date release
+release plan,fixed-scope release
+release planning,release plan
+release train,scrum of scrums
+remote team member,co-located team
+remote team member,distributed team
+retrospective,sprint retrospective
+risk,uncertainty
+role,practice
+role,principle
+rule,essential Scrum
+rule,Scrum framework
+safety,transparency
+scrum,agile
+scrum,Scrum framework
+scrum framework,Scrum
+scrum of scrums,release train
+scrum team,development team
+scrum team,product owner
+scrum team,ScrumMaster
+scrummaster,Scrum team
+scrummaster,servant leader
+scrummerfall,WaterScrum
+self-organization,complex adaptive system
+self-organization,emergence
+sequential process,plan-driven process
+servant leader,ScrumMaster
+silent grouping,sprint retrospective
+simple domain,Cynefin
+sos,scrum of scrums
+specification by example,acceptance-test-driven development
+sprint,definition of done
+sprint,iteration
+sprint,potentially shippable product increment
+sprint backlog,ideal hour
+sprint backlog,sprint planning
+sprint backlog,task
+sprint demo,sprint review
+sprint execution,sprint planning
+sprint planning,sprint backlog
+sprint planning,sprint goal
+sprint retrospective,inspect and adapt
+sprint review,inspect and adapt
+sprint review,sprint demo
+sprintable story,implementable story
+stakeholder,external stakeholders
+stakeholder,internal stakeholders
+stakeholder value,stakeholder
+story,user story
+story mapping,product backlog
+story mapping,user story
+story point,ideal day
+story point,Planning Poker
+story point,relative size measure
+strategic technical debt,technical debt
+swarming,T-shaped skills
+synchronization,cadence
+t-shaped skills,swarming
+t-shirt sizing,binning
+targeted technical debt,technical debt
+task board,information radiator
+task board,task
+tdd,test-driven development
+technical debt,naive technical debt
+technical debt,strategic technical debt
+technical debt,unavoidable technical debt
+technical stories,user story
+technique,activity
+technique,approach
+test-driven development,refactoring
+test-driven development,technical practices
+test-driven development,test-first development
+test-first development,technical practices
+test-first development,test-driven development
+theme,epic
+theme,user story
+timebox,sprint
+timebox,timeboxing
+timeboxing,timebox
+traditional development process,plan-driven process
+transaction cost,U-curve optimization
+transparency,adaptation
+transparency,empirical process control
+transparency,inspection
+u-curve optimization,transaction cost
+u-curve optimization,holding cost
+unavoidable technical debt,technical debt
+uncertainty,risk
+unnecessary formality,ceremony
+unnecessary formality,waste
+user role,user story
+user story,epic
+user story,progressive refinement
+user story,theme
+user story,user role
+user-story-writing workshop,user story
+variability,waste
+waterfall,plan-driven process
+waterfall process,plan-driven process
+weighted shortest job first,cost of delay
+wip,work in process
+wsjf,weighted shortest job first
+xp,Extreme Programming
+user story,user story points

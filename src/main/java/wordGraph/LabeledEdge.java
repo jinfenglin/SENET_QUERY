@@ -6,6 +6,7 @@ public class LabeledEdge<V> extends DefaultEdge {
     private V v1;
     private V v2;
     private Relationship relationLabel;
+    private double score;
 
     @Override
     public boolean equals(Object o) {
@@ -27,10 +28,11 @@ public class LabeledEdge<V> extends DefaultEdge {
         return result;
     }
 
-    public LabeledEdge(V v1, V v2, Relationship label) {
+    public LabeledEdge(V v1, V v2, Relationship label, double score) {
         this.v1 = v1;
         this.v2 = v2;
         this.relationLabel = label;
+        this.score = score;
     }
 
     public Relationship getRelationLabel() {
@@ -47,6 +49,14 @@ public class LabeledEdge<V> extends DefaultEdge {
 
     public String toString() {
         return relationLabel.name();
+    }
+
+    public double getScore() {
+        return score;
+    }
+
+    public void setScore(double score) {
+        this.score = score;
     }
 }
 

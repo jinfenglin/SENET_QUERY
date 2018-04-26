@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SEWordNet.iml" filepath="$PROJECT_DIR$/SEWordNet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SEWordNet.iml" filepath="$PROJECT_DIR$/SEWordNet.iml" />
+      <module fileurl="file://G:\Projects\SENET_QUERY\SEWordNet.iml" filepath="G:\Projects\SENET_QUERY\SEWordNet.iml" />
     </modules>
   </component>
 </project>
